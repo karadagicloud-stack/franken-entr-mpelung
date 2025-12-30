@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background (optional, can be removed for transparency) -->
+  
+  <!-- Grünes Dach/Haus -->
+  <path d="M215 55 L310 105 L310 145 L365 145 L365 235 L355 235 L355 155 L320 155 L320 110 L225 70 Z" fill="#1a7f5a"/>
+  
+  <!-- Haus Säule links -->
+  <rect x="245" y="145" width="15" height="90" fill="#1a7f5a"/>
+  
+  <!-- Haus Säule rechts -->
+  <rect x="340" y="145" width="15" height="90" fill="#1a7f5a"/>
+  
+  <!-- LKW Kabine -->
+  <path d="M115 200 L145 200 L160 215 L160 280 L115 280 Z" fill="#1a7f5a"/>
+  
+  <!-- LKW Windschutzscheibe -->
+  <path d="M145 200 L160 215 L160 235 L145 235 Z" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- LKW Fenster -->
+  <rect x="125" y="215" width="15" height="20" fill="#ffffff"/>
+  
+  <!-- Box mit abgerundeten Ecken -->
+  <rect x="160" y="200" width="95" height="80" fill="#1a7f5a" rx="8"/>
+  
+  <!-- Weiße Box innen -->
+  <rect x="168" y="208" width="79" height="64" fill="#ffffff" rx="5"/>
+  
+  <!-- Häkchen in der Box -->
+  <path d="M185 236 L200 251 L230 221" stroke="#1a7f5a" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Verbindung Box-Räder -->
+  <rect x="160" y="260" width="95" height="20" fill="#1a7f5a"/>
+  
+  <!-- Linkes Rad - Äußerer Kreis -->
+  <circle cx="145" cy="280" r="22" fill="#ffffff" stroke="#1a7f5a" stroke-width="6"/>
+  <!-- Linkes Rad - Innerer Kreis -->
+  <circle cx="145" cy="280" r="10" fill="#1a7f5a"/>
+  
+  <!-- Rechtes Rad - Äußerer Kreis -->
+  <circle cx="252" cy="280" r="22" fill="#ffffff" stroke="#1a7f5a" stroke-width="6"/>
+  <!-- Rechtes Rad - Innerer Kreis -->
+  <circle cx="252" cy="280" r="10" fill="#1a7f5a"/>
+  
+  <!-- Haus-Box Verbindung -->
+  <path d="M275 170 L290 170 L290 200 L275 200" stroke="#1a7f5a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M310 200 L325 200 L325 235 L310 235" stroke="#1a7f5a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Text FRANKEN in Schwarz -->
+  <text x="250" y="360" font-family="Arial, sans-serif" font-size="75" font-weight="900" text-anchor="middle" fill="#000000">FRANKEN</text>
+  
+  <!-- Text ENTRÜMPELUNG in Grün -->
+  <text x="250" y="420" font-family="Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#1a7f5a" letter-spacing="5">ENTRÜMPELUNG</text>
+</svg>
+

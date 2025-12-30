@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 470">
+  
+  <!-- HAUS -->
+  <!-- Großes Dreieck-Dach -->
+  <path d="M190 15 L365 95 L190 95 Z" fill="#2d7a4f"/>
+  
+  <!-- Linke Säule -->
+  <rect x="195" y="95" width="20" height="85" fill="#2d7a4f"/>
+  
+  <!-- Rechte Säule -->
+  <rect x="325" y="95" width="20" height="85" fill="#2d7a4f"/>
+  
+  <!-- Rechteck/Rahmen um Fenster -->
+  <rect x="250" y="125" width="55" height="40" fill="none" stroke="#2d7a4f" stroke-width="8" rx="3"/>
+  
+  <!-- Verbindung Haus zu Box (rechts oben) -->
+  <path d="M295 135 L310 135 L310 155 L295 155" 
+        stroke="#2d7a4f" 
+        stroke-width="8" 
+        fill="none"/>
+  
+  <!-- Verbindung Box zu Haus unten -->
+  <path d="M310 155 L330 155 L330 180 L310 180" 
+        stroke="#2d7a4f" 
+        stroke-width="8" 
+        fill="none"/>
+  
+  
+  <!-- TRANSPORTER/LKW -->
+  
+  <!-- Fahrerhaus (gerundet vorne) -->
+  <path d="M80 160 Q75 160 75 165 L75 235 Q75 240 80 240 L155 240 L155 180 L140 160 Z" 
+        fill="#2d7a4f"/>
+  
+  <!-- Windschutzscheibe (kleines Dreieck) -->
+  <path d="M100 175 L115 175 L115 185 Z" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Seitenfenster Fahrer -->
+  <rect x="85" y="185" width="28" height="22" fill="#ffffff" opacity="0.3" rx="2"/>
+  
+  
+  <!-- LADE-BOX mit Häkchen -->
+  
+  <!-- Äußere Box (dunkelgrün) -->
+  <rect x="155" y="150" width="95" height="90" fill="#2d7a4f" rx="8"/>
+  
+  <!-- Innere weiße Box -->
+  <rect x="165" y="160" width="75" height="70" fill="#ffffff" rx="5"/>
+  
+  <!-- HÄKCHEN (grün, dick) -->
+  <path d="M178 192 L193 207 L230 170" 
+        stroke="#2d7a4f" 
+        stroke-width="12" 
+        fill="none" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  
+  <!-- Unterbau/Chassis -->
+  <rect x="75" y="240" width="175" height="8" fill="#2d7a4f"/>
+  
+  
+  <!-- RÄDER -->
+  
+  <!-- Linkes Rad -->
+  <circle cx="105" cy="252" r="18" fill="none" stroke="#2d7a4f" stroke-width="8"/>
+  <circle cx="105" cy="252" r="6" fill="#2d7a4f"/>
+  
+  <!-- Mittleres/Rechtes Rad -->
+  <circle cx="220" cy="252" r="18" fill="none" stroke="#2d7a4f" stroke-width="8"/>
+  <circle cx="220" cy="252" r="6" fill="#2d7a4f"/>
+  
+  
+  <!-- TEXT -->
+  
+  <!-- FRANKEN (Schwarz, fett) -->
+  <text x="220" y="330" 
+        font-family="Arial Black, sans-serif" 
+        font-size="70" 
+        font-weight="900" 
+        text-anchor="middle" 
+        fill="#000000">FRANKEN</text>
+  
+  <!-- ENTRÜMPELUNG (Grün) -->
+  <text x="220" y="385" 
+        font-family="Arial, sans-serif" 
+        font-size="38" 
+        font-weight="700" 
+        text-anchor="middle" 
+        fill="#2d7a4f" 
+        letter-spacing="9">ENTRÜMPELUNG</text>
+
+</svg>

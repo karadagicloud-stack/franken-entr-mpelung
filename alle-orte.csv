@@ -1,0 +1,125 @@
+Ort,Slug,Entfernung,Einwohner,PLZ
+Feucht,feucht,0 km,14.000,90537
+Nürnberg,nuernberg,12 km,518.000,90402, 90403, 90408, 90409, 90411, 90419, 90429, 90431, 90439, 90441, 90443, 90449, 90451, 90453, 90455, 90459, 90461, 90469, 90471, 90473, 90475, 90478, 90480, 90482
+Fürth,fuerth,18 km,128.000,90762, 90763, 90765, 90766, 90768
+Schwabach,schwabach,19 km,41.000,91126
+Wendelstein,wendelstein,8 km,16.000,90530
+Altdorf,altdorf,15 km,16.000,90518
+Lauf an der Pegnitz,lauf,18 km,27.000,91207
+Röthenbach an der Pegnitz,roethenbach,10 km,12.000,90552
+Schwaig,schwaig,15 km,8.500,90571
+Hersbruck,hersbruck,28 km,12.500,91217
+Schnaittach,schnaittach,20 km,8.500,91220
+Allersberg,allersberg,18 km,8.500,90584
+Erlangen,erlangen,28 km,113.000,91052, 91054, 91056, 91058
+Roth,roth,25 km,26.000,91154
+Neumarkt in der Oberpfalz,neumarkt,42 km,40.000,92318
+Forchheim,forchheim,42 km,32.000,91301
+Herzogenaurach,herzogenaurach,35 km,24.000,91074
+Hilpoltstein,hilpoltstein,22 km,13.500,91161
+Neunkirchen am Brand,neunkirchen,30 km,8.000,91077
+Ansbach,ansbach,62 km,42.000,91522
+Weißenburg,weissenburg,55 km,18.000,91781
+Gunzenhausen,gunzenhausen,65 km,16.500,91710
+Rückersdorf,rueckersdorf,13 km,3.800,90607
+Happurg,happurg,32 km,3.500,91230
+Velden,velden,35 km,3.500,91235
+Engelthal,engelthal,28 km,2.800,91238
+Pommelsbrunn,pommelsbrunn,25 km,2.700,91224
+Röttenbach,roettenbach,24 km,4.200,91187
+Schwarzenbruck,schwarzenbruck,8 km,8.500,90592
+Ottensoos,ottensoos,17 km,1.500,91242
+Neuhaus an der Pegnitz,neuhaus-pegnitz,35 km,2.900,91284
+Reichenschwand,reichenschwand,22 km,1.700,91244
+Eckental,eckental,22 km,14.000,90542
+Kalchreuth,kalchreuth,18 km,6.500,90562
+Heroldsberg,heroldsberg,17 km,7.600,90562
+Buckenhof,buckenhof,22 km,3.500,91054
+Uttenreuth,uttenreuth,24 km,4.700,91080
+Spardorf,spardorf,25 km,1.500,91080
+Marloffstein,marloffstein,26 km,1.300,91080
+Möhrendorf,moehrendorf,28 km,2.700,91096
+Bubenreuth,bubenreuth,27 km,4.400,91088
+Baiersdorf,baiersdorf,32 km,7.700,91083
+Hemhofen,hemhofen,32 km,4.900,91334
+Höchstadt an der Aisch,hoechstadt,45 km,13.000,91315
+Rednitzhembach,rednitzhembach,14 km,7.200,91126
+Abenberg,abenberg,28 km,5.700,91183
+Greding,greding,38 km,7.000,91171
+Thalmässing,thalmaessing,32 km,5.700,91177
+Spalt,spalt,35 km,5.200,91174
+Georgensgmünd,georgensmund,30 km,6.000,91166
+Zirndorf,zirndorf,22 km,26.000,90513
+Oberasbach,oberasbach,18 km,18.000,90522
+Stein,stein,16 km,14.000,90547
+Langenzenn,langenzenn,30 km,10.500,90579
+Roßtal,rosstal,28 km,10.000,90574
+Cadolzburg,cadolzburg,32 km,11.000,90556
+Wilhermsdorf,wilhermsdorf,42 km,5.200,91452
+Berching,berching,52 km,8.700,92334
+Dietfurt,dietfurt,58 km,6.000,92345
+Freystadt,freystadt,45 km,9.400,92342
+Parsberg,parsberg,62 km,6.900,92331
+Postbauer-Heng,postbauer-heng,32 km,6.200,92353
+Seubersdorf,seubersdorf,48 km,4.700,92358
+Treuchtlingen,treuchtlingen,68 km,13.000,91757
+Ellingen,ellingen,58 km,3.800,91792
+Pappenheim,pappenheim,65 km,4.100,91788
+Pleinfeld,pleinfeld,52 km,7.800,91785
+Herrieden,herrieden,68 km,7.800,91567
+Feuchtwangen,feuchtwangen,70 km,12.500,91555
+Ornbau,ornbau,62 km,1.600,91737
+Merkendorf,merkendorf,68 km,3.000,91732
+Offenhausen,offenhausen,22 km,1.200,91238
+Henfenfeld,henfenfeld,18 km,2.100,91239
+Kirchensittenbach,kirchensittenbach,20 km,1.800,91241
+Vorra,vorra,25 km,1.600,91247
+Hartenstein,hartenstein,30 km,900,91235
+Pegnitz,pegnitz,48 km,14.000,91257
+Auerbach,auerbach,60 km,9.500,91275
+Königstein,koenigstein,32 km,1.600,91224
+Simmelsdorf,simmelsdorf,24 km,2.600,91245
+Hohenstadt,hohenstadt,26 km,1.500,91235
+Adelsdorf,adelsdorf,38 km,8.700,91325
+Aurachtal,aurachtal,42 km,3.900,91086
+Gremsdorf,gremsdorf,46 km,4.200,91350
+Lonnerstadt,lonnerstadt,48 km,3.700,91475
+Mühlhausen,muehlhausen,34 km,3.800,91091
+Vestenbergsgreuth,vestenbergsgreuth,52 km,1.900,91472
+Wachenroth,wachenroth,50 km,2.400,96193
+Röttenbach (Erh),roettenbach-erh,32 km,2.600,91341
+Ammerndorf,ammerndorf,24 km,2.100,90614
+Seukendorf,seukendorf,26 km,3.700,90556
+Veitsbronn,veitsbronn,22 km,6.800,90587
+Großhabersdorf,grosshabersdorf,34 km,4.300,90613
+Obermichelbach,obermichelbach,28 km,3.200,90617
+Tuchenbach,tuchenbach,26 km,1.800,90587
+Büchenbach,buechenbach,22 km,5.200,91186
+Kammerstein,kammerstein,28 km,2.700,91126
+Schwanstetten,schwanstetten,16 km,9.800,90596
+Rohr,rohr,18 km,7.100,91189
+Pyrbaum,pyrbaum,32 km,3.300,90602
+Heideck,heideck,38 km,5.300,91180
+Belmbrach,belmbrach,42 km,1.100,91171
+Berg bei Neumarkt,berg-neumarkt,35 km,5.800,92348
+Lauterhofen,lauterhofen,52 km,2.600,92283
+Lupburg,lupburg,58 km,2.700,92331
+Velburg,velburg,55 km,5.200,92355
+Mühlhausen (Oberpfalz),muehlhausen-oberpfalz,48 km,2.400,92360
+Pilsach,pilsach,62 km,2.000,92367
+Deining,deining,50 km,4.200,92364
+Nennslingen,nennslingen,52 km,1.900,91790
+Markt Berolzheim,markt-berolzheim,62 km,1.600,91801
+Dittenheim,dittenheim,58 km,1.700,91723
+Muhr am See,muhr-am-see,62 km,2.000,91735
+Absberg,absberg,58 km,1.500,91720
+Theilenhofen,theilenhofen,48 km,1.800,91741
+Lichtenau,lichtenau,65 km,5.100,91586
+Lehrberg,lehrberg,68 km,3.200,91611
+Heilsbronn,heilsbronn,42 km,9.400,91560
+Windsbach,windsbach,48 km,6.200,91575
+Neuendettelsau,neuendettelsau,52 km,7.800,91564
+Dietenhofen,dietenhofen,38 km,6.600,90599
+Petersaurach,petersaurach,55 km,3.000,91580
+
+TOTAL: 122 Orte

@@ -1,0 +1,52 @@
+ID,Keyword,Service,Ort,Transaktions_Score,Prioritaet,Kategorie,URL_Pfad
+1,Entrümpelung Nürnberg,Entrümpelung,Nürnberg,5,Höchste,Nürnberg,entruempelung-nuernberg
+2,Haushaltsauflösung Nürnberg,Haushaltsauflösung,Nürnberg,5,Höchste,Nürnberg,haushaltsaufloesung-nuernberg
+3,Entrümpelung Nürnberg günstig,Entrümpelung,Nürnberg,5,Höchste,Nürnberg,entruempelung-nuernberg-guenstig
+4,Wohnungsauflösung Nürnberg,Wohnungsauflösung,Nürnberg,4,Hoch,Nürnberg,wohnungsaufloesung-nuernberg
+5,Entrümpelung Nürnberg Preis,Entrümpelung,Nürnberg,4,Hoch,Nürnberg,entruempelung-nuernberg-preis
+6,Entrümpelung Nürnberg kostenlos,Entrümpelung,Nürnberg,4,Hoch,Nürnberg,entruempelung-nuernberg-kostenlos
+7,Haushaltsauflösung Nürnberg schnell,Haushaltsauflösung,Nürnberg,4,Hoch,Nürnberg,haushaltsaufloesung-nuernberg-schnell
+8,Entrümpelung Nürnberg 24h,Entrümpelung,Nürnberg,3,Mittel,Nürnberg,entruempelung-nuernberg-24h
+9,Entrümpelung Feucht,Entrümpelung,Feucht,4,Hoch,Nürnberger Land,entruempelung-feucht
+10,Haushaltsauflösung Feucht,Haushaltsauflösung,Feucht,4,Hoch,Nürnberger Land,haushaltsaufloesung-feucht
+11,Entrümpelung Feucht günstig,Entrümpelung,Feucht,3,Mittel,Nürnberger Land,entruempelung-feucht-guenstig
+12,Entrümpelung Wendelstein,Entrümpelung,Wendelstein,4,Hoch,Nürnberger Land,entruempelung-wendelstein
+13,Haushaltsauflösung Wendelstein,Haushaltsauflösung,Wendelstein,4,Hoch,Nürnberger Land,haushaltsaufloesung-wendelstein
+14,Entrümpelung Wendelstein Preis,Entrümpelung,Wendelstein,3,Mittel,Nürnberger Land,entruempelung-wendelstein-preis
+15,Entrümpelung Altdorf,Entrümpelung,Altdorf,4,Hoch,Nürnberger Land,entruempelung-altdorf
+16,Haushaltsauflösung Altdorf,Haushaltsauflösung,Altdorf,4,Hoch,Nürnberger Land,haushaltsaufloesung-altdorf
+17,Wohnungsauflösung Altdorf,Wohnungsauflösung,Altdorf,3,Mittel,Nürnberger Land,wohnungsaufloesung-altdorf
+18,Entrümpelung Lauf,Entrümpelung,Lauf an der Pegnitz,4,Hoch,Nürnberger Land,entruempelung-lauf
+19,Haushaltsauflösung Lauf,Haushaltsauflösung,Lauf an der Pegnitz,3,Mittel,Nürnberger Land,haushaltsaufloesung-lauf
+20,Entrümpelung Lauf günstig,Entrümpelung,Lauf an der Pegnitz,3,Mittel,Nürnberger Land,entruempelung-lauf-guenstig
+21,Entrümpelung Hersbruck,Entrümpelung,Hersbruck,4,Hoch,Nürnberger Land,entruempelung-hersbruck
+22,Haushaltsauflösung Hersbruck,Haushaltsauflösung,Hersbruck,3,Mittel,Nürnberger Land,haushaltsaufloesung-hersbruck
+23,Entrümpelung Hersbruck Preis,Entrümpelung,Hersbruck,3,Mittel,Nürnberger Land,entruempelung-hersbruck-preis
+24,Entrümpelung Röthenbach,Entrümpelung,Röthenbach,3,Mittel,Nürnberger Land,entruempelung-roethenbach
+25,Entrümpelung Schwaig,Entrümpelung,Schwaig,3,Mittel,Nürnberger Land,entruempelung-schwaig
+26,Entrümpelung Neunkirchen,Entrümpelung,Neunkirchen,3,Mittel,Nürnberger Land,entruempelung-neunkirchen
+27,Entrümpelung Schnaittach,Entrümpelung,Schnaittach,3,Mittel,Nürnberger Land,entruempelung-schnaittach
+28,Entrümpelung Velden,Entrümpelung,Velden,3,Mittel,Nürnberger Land,entruempelung-velden
+29,Entrümpelung Happurg,Entrümpelung,Happurg,2,Niedrig-Mittel,Nürnberger Land,entruempelung-happurg
+30,Entrümpelung Engelthal,Entrümpelung,Engelthal,2,Niedrig-Mittel,Nürnberger Land,entruempelung-engelthal
+31,Entrümpelung Vorra,Entrümpelung,Vorra,2,Niedrig-Mittel,Nürnberger Land,entruempelung-vorra
+32,Entrümpelung Pommelsbrunn,Entrümpelung,Pommelsbrunn,2,Niedrig-Mittel,Nürnberger Land,entruempelung-pommelsbrunn
+33,Entrümpelung Fürth,Entrümpelung,Fürth,4,Hoch,Umkreis 100km,entruempelung-fuerth
+34,Haushaltsauflösung Fürth,Haushaltsauflösung,Fürth,4,Hoch,Umkreis 100km,haushaltsaufloesung-fuerth
+35,Entrümpelung Fürth günstig,Entrümpelung,Fürth,3,Mittel,Umkreis 100km,entruempelung-fuerth-guenstig
+36,Entrümpelung Erlangen,Entrümpelung,Erlangen,4,Hoch,Umkreis 100km,entruempelung-erlangen
+37,Haushaltsauflösung Erlangen,Haushaltsauflösung,Erlangen,4,Hoch,Umkreis 100km,haushaltsaufloesung-erlangen
+38,Entrümpelung Erlangen Preis,Entrümpelung,Erlangen,3,Mittel,Umkreis 100km,entruempelung-erlangen-preis
+39,Entrümpelung Schwabach,Entrümpelung,Schwabach,4,Hoch,Umkreis 100km,entruempelung-schwabach
+40,Haushaltsauflösung Schwabach,Haushaltsauflösung,Schwabach,3,Mittel,Umkreis 100km,haushaltsaufloesung-schwabach
+41,Entrümpelung Schwabach günstig,Entrümpelung,Schwabach,3,Mittel,Umkreis 100km,entruempelung-schwabach-guenstig
+42,Entrümpelung Ansbach,Entrümpelung,Ansbach,3,Mittel,Umkreis 100km,entruempelung-ansbach
+43,Haushaltsauflösung Ansbach,Haushaltsauflösung,Ansbach,3,Mittel,Umkreis 100km,haushaltsaufloesung-ansbach
+44,Entrümpelung Ansbach Preis,Entrümpelung,Ansbach,2,Niedrig-Mittel,Umkreis 100km,entruempelung-ansbach-preis
+45,Entrümpelung Nürnberg kostenlos Abholung,Entrümpelung,Nürnberg,5,Höchste,Premium,entruempelung-nuernberg-kostenlos-abholung
+46,Haushaltsauflösung Nürnberg mit Wertanrechnung,Haushaltsauflösung,Nürnberg,5,Höchste,Premium,haushaltsaufloesung-nuernberg-wertanrechnung
+47,Entrümpelung Nürnberg Angebot,Entrümpelung,Nürnberg,4,Hoch,Premium,entruempelung-nuernberg-angebot
+48,Entrümpelung Nürnberg Preise,Entrümpelung,Nürnberg,4,Hoch,Premium,entruempelung-nuernberg-preise
+49,Entrümpelung Nürnberg sofort,Entrümpelung,Nürnberg,4,Hoch,Premium,entruempelung-nuernberg-sofort
+50,Entrümpelung Nürnberg Termin,Entrümpelung,Nürnberg,4,Hoch,Premium,entruempelung-nuernberg-termin
+
