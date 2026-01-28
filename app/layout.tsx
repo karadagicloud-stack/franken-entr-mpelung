@@ -23,11 +23,14 @@ export const metadata: Metadata = {
   publisher: 'Franken-Entrümpelung',
   icons: {
     icon: [
+      { url: '/logo-original.png', type: 'image/png', sizes: '512x512' },
       { url: '/icon', type: 'image/png', sizes: '32x32' },
     ],
     apple: [
+      { url: '/logo-original.png', type: 'image/png', sizes: '512x512' },
       { url: '/apple-icon', type: 'image/png', sizes: '180x180' },
     ],
+    shortcut: '/logo-original.png',
   },
   formatDetection: {
     email: false,
