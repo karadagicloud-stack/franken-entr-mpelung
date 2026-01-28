@@ -11,7 +11,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://franken-entruempelung.de'),
+  metadataBase: new URL('https://franken-entruempelung.vercel.app'),
   title: {
     default: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
     template: '%s | Franken-Entrümpelung'
@@ -21,6 +21,14 @@ export const metadata: Metadata = {
   authors: [{ name: 'Franken-Entrümpelung' }],
   creator: 'Franken-Entrümpelung',
   publisher: 'Franken-Entrümpelung',
+  icons: {
+    icon: [
+      { url: '/icon', type: 'image/png', sizes: '32x32' },
+    ],
+    apple: [
+      { url: '/apple-icon', type: 'image/png', sizes: '180x180' },
+    ],
+  },
   formatDetection: {
     email: false,
     address: false,
@@ -29,15 +37,24 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'de_DE',
-    url: 'https://franken-entruempelung.de',
+    url: 'https://franken-entruempelung.vercel.app',
     title: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
     description: 'Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land. Schnell, zuverlässig und günstig.',
     siteName: 'Franken-Entrümpelung',
+    images: [
+      {
+        url: '/logo-original.png',
+        width: 512,
+        height: 512,
+        alt: 'Franken-Entrümpelung Logo',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
     description: 'Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land.',
+    images: ['/logo-original.png'],
   },
   robots: {
     index: true,
