@@ -15,6 +15,7 @@ const Footer = () => {
       { label: 'Büroauflösung', href: '#leistungen' },
       { label: 'Gewerbeentrümpelung', href: '#leistungen' },
       { label: 'Nachlassauflösung', href: '#leistungen' },
+      { label: 'Wertanrechnung & Ankauf', href: '/wertanrechnung' },
     ],
     areas: [
       { label: 'Entrümpelung Nürnberg', href: '/entruempelung-nuernberg' },
