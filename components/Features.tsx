@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'
-import { Clock, Shield, Euro, Truck, Recycle, Award } from 'lucide-react'
+import { Clock, Shield, Euro, Truck, Recycle, Award, Coins } from 'lucide-react'
 
 const features = [
   {
@@ -17,9 +17,14 @@ const features = [
     description: 'Haftpflicht- und Transportversicherung für Ihre Sicherheit inklusive.',
   },
   {
+    icon: Coins,
+    title: 'Wertanrechnung & Ankauf',
+    description: 'Wir kaufen verwertbare Gegenstände wie Möbel, Elektrogeräte und Antiquitäten an. Der Wert wird direkt verrechnet oder ausgezahlt.',
+  },
+  {
     icon: Euro,
     title: 'Faire Preise',
-    description: 'Transparente Preisgestaltung ohne versteckte Kosten. Wertanrechnung möglich.',
+    description: 'Transparente Preisgestaltung ohne versteckte Kosten. Kostenlose Besichtigung.',
   },
   {
     icon: Truck,
@@ -30,11 +35,6 @@ const features = [
     icon: Recycle,
     title: 'Umweltgerecht',
     description: 'Fachgerechte Entsorgung und Recycling gemäß allen Vorschriften.',
-  },
-  {
-    icon: Award,
-    title: '15+ Jahre Erfahrung',
-    description: 'Über 500 zufriedene Kunden vertrauen auf unsere Expertise.',
   },
 ]
 

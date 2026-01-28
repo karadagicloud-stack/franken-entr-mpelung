@@ -19,7 +19,7 @@ const services = [
   {
     icon: DoorOpen,
     title: 'Wohnungsauflösung',
-    description: 'Professionelle Wohnungsauflösung – schnell, diskret und zuverlässig.',
+    description: 'Professionelle Wohnungsauflösung mit Wertanrechnung – schnell, diskret und zuverlässig.',
     locations: ['Altdorf', 'Feucht', 'Wendelstein'],
     image: 'https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80',
     link: '/wohnungsaufloesung',
@@ -27,7 +27,7 @@ const services = [
   {
     icon: Package,
     title: 'Kellerentrümpelung',
-    description: 'Entrümpelung von Kellern, Dachböden und Garagen mit Komplettservice.',
+    description: 'Entrümpelung von Kellern, Dachböden und Garagen mit Ankauf verwertbarer Gegenstände.',
     locations: ['Lauf', 'Hersbruck', 'Röthenbach'],
     image: 'https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=600&q=80',
     link: '/kellerentruempelung',
@@ -35,7 +35,7 @@ const services = [
   {
     icon: Briefcase,
     title: 'Büroauflösung',
-    description: 'Auflösung von Büros und Praxen mit Aktenvernichtung und Möbelentsorgung.',
+    description: 'Auflösung von Büros und Praxen mit Wertanrechnung, Aktenvernichtung und Möbelentsorgung.',
     locations: ['Schwabach', 'Ansbach', 'Nürnberg'],
     image: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&q=80',
     link: '/bueroaufloesung',
@@ -43,7 +43,7 @@ const services = [
   {
     icon: Building2,
     title: 'Gewerbeentrümpelung',
-    description: 'Entrümpelung gewerblicher Objekte jeder Größenordnung.',
+    description: 'Entrümpelung gewerblicher Objekte jeder Größenordnung mit Ankauf verwertbarer Ausstattung.',
     locations: ['Schwaig', 'Neunkirchen', 'Velden'],
     image: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=600&q=80',
     link: '/gewerbeentruempelung',

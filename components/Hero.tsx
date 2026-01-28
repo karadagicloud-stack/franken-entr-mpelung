@@ -43,7 +43,7 @@ const Hero = () => {
                 {[
                   'Kostenlose Beratung',
                   'Faire Preise',
-                  '24h Service',
+                  'Wertanrechnung',
                 ].map((usp, index) => (
                   <motion.div
                     key={usp}

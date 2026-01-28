@@ -17,7 +17,7 @@ const steps = [
   {
     icon: Calendar,
     title: 'Besichtigung & Angebot',
-    description: 'Wir besichtigen das Objekt vor Ort und erstellen Ihnen ein transparentes Festpreis-Angebot.',
+    description: 'Wir besichtigen das Objekt vor Ort, schätzen verwertbare Gegenstände und erstellen ein transparentes Festpreis-Angebot mit Wertanrechnung.',
     color: 'from-primary-600 to-primary-700',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&q=80',
   },
