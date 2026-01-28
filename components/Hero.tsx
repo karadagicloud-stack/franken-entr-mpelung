@@ -10,14 +10,15 @@ const Hero = () => {
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-primary-50 -z-10" />
       
-      <div className="container-custom">
-        <div className="grid lg:grid-cols-2 gap-12 items-center">
+      <div className="container-custom relative">
+        <div className="grid lg:grid-cols-2 gap-12 items-center relative isolate">
           {/* Left Content */}
-          <div className="relative z-10">
+          <div className="relative z-20 overflow-hidden">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
+              className="w-full"
             >
               <div className="inline-flex items-center space-x-2 bg-primary-100 text-primary-700 px-4 py-2 rounded-full text-sm font-semibold mb-6">
                 <CheckCircle size={16} />
@@ -111,9 +112,9 @@ const Hero = () => {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8 }}
-            className="relative hidden lg:block z-0"
+            className="relative hidden lg:block z-0 w-full overflow-hidden"
           >
-            <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl">
+            <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl max-w-full">
               <Image
                 src="https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=800&q=80"
                 alt="Professionelle Entrümpelung Service"
