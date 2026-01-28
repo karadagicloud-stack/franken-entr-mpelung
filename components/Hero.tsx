@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="container-custom">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
-          <div>
+          <div className="relative z-10">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -111,7 +111,7 @@ const Hero = () => {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8 }}
-            className="relative hidden lg:block"
+            className="relative hidden lg:block z-0"
           >
             <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl">
               <Image
