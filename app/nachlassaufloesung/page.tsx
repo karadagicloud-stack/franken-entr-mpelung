@@ -1,6 +1,4 @@
 import { Metadata } from 'next'
-import Navigation from '@/components/Navigation'
-import Footer from '@/components/Footer'
 import { Phone, CheckCircle, Heart, Euro, Shield, Users } from 'lucide-react'
 import Image from 'next/image'
 
@@ -12,8 +10,6 @@ export const metadata: Metadata = {
 
 export default function NachlassauflösungPage() {
   return (
-    <>
-      <Navigation />
       <main>
         <section className="relative pt-32 pb-20 bg-gradient-to-br from-primary-50 via-white to-primary-50">
           <div className="container-custom">
@@ -115,8 +111,6 @@ export default function NachlassauflösungPage() {
           </div>
         </section>
       </main>
-      <Footer />
-    </>
   )
 }
 

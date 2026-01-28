@@ -1,6 +1,4 @@
 import type { Metadata } from 'next'
-import Navigation from '@/components/Navigation'
-import Footer from '@/components/Footer'
 import { ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 
@@ -11,8 +9,6 @@ export const metadata: Metadata = {
 
 export default function DatenschutzPage() {
   return (
-    <>
-      <Navigation />
       <main className="pt-32 pb-16">
         <div className="container-custom">
           <Link
@@ -155,8 +151,6 @@ export default function DatenschutzPage() {
           </div>
         </div>
       </main>
-      <Footer />
-    </>
   )
 }
 
