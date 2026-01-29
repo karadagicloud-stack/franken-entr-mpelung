@@ -192,7 +192,7 @@ const ServiceAreas = () => {
               Kein Problem! Wir sind flexibel und kommen auch gerne zu Ihnen – fragen Sie uns einfach unverbindlich an!
             </p>
             <a
-              href="tel:+491234567890"
+              href="tel:+491708005653"
               className="btn bg-white text-primary-600 hover:bg-primary-50 inline-flex items-center space-x-2"
             >
               <Phone size={20} />

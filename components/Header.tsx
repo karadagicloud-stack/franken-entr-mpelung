@@ -63,7 +63,7 @@ export default function Header() {
           {/* Contact Info & CTA */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:+491234567890"
+              href="tel:+491708005653"
               className="flex items-center space-x-2 text-secondary-700 hover:text-primary-600 transition-colors"
             >
               <Phone className="w-5 h-5" />
@@ -119,7 +119,7 @@ export default function Header() {
               ))}
               <div className="pt-4 space-y-3">
                 <a
-                  href="tel:+491234567890"
+                  href="tel:+491708005653"
                   className="flex items-center space-x-2 text-secondary-900 font-semibold"
                 >
                   <Phone className="w-5 h-5 text-primary-600" />

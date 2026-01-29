@@ -118,7 +118,7 @@ export default function WertanrechnungPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+491234567890"
+              href="tel:+491708005653"
               className="btn btn-primary text-lg"
             >
               Jetzt kostenlose Werteinschätzung
@@ -365,10 +365,10 @@ export default function WertanrechnungPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+491234567890"
+              href="tel:+491708005653"
               className="btn bg-white text-primary-600 hover:bg-gray-100 text-lg"
             >
-              Jetzt anrufen: +49 123 456 7890
+              Jetzt anrufen: 0170 800 5653
             </a>
             <a
               href="/kontakt"

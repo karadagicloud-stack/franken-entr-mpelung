@@ -26,7 +26,7 @@ export default function HaushaltsaufloesungPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <a
-                    href="tel:+491234567890"
+                    href="tel:+491708005653"
                     className="btn btn-primary text-lg flex items-center justify-center space-x-2"
                   >
                     <Phone size={20} />
@@ -136,11 +136,11 @@ export default function HaushaltsaufloesungPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+491234567890"
+                href="tel:+491708005653"
                 className="btn bg-white text-primary-600 hover:bg-primary-50 text-lg inline-flex items-center space-x-2"
               >
                 <Phone size={20} />
-                <span>+49 123 456 7890</span>
+                <span>0170 800 5653</span>
               </a>
               <a
                 href="/kontakt"

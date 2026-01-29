@@ -5,10 +5,9 @@ import { MessageCircle } from 'lucide-react'
 
 const WhatsAppButton = () => {
   // WhatsApp Business Link
-  // WICHTIG: Ersetze die Nummer mit deiner echten WhatsApp Business Nummer!
   // Format: 49 (Deutschland) + Vorwahl ohne 0 + Rufnummer
-  // Beispiel: +49 123 456 7890 wird zu 491234567890
-  const whatsappNumber = '491234567890'
+  // 0170 800 5653 → 491708005653
+  const whatsappNumber = '491708005653'
   const defaultMessage = 'Hallo! Ich interessiere mich für eine Entrümpelung.'
   
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(defaultMessage)}`

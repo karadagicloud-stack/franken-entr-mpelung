@@ -70,7 +70,7 @@ https://www.ihk.de/agb-generator (kostenlos)
 ## 📞 KONTAKTDATEN ÄNDERN
 
 ### **TELEFONNUMMER**
-**Aktuell:** `+491234567890` (Fake-Nummer!)
+**Aktuell:** `+491708005653` (Fake-Nummer!)
 
 **Wo ändern:**
 - `components/Hero.tsx` (Zeile 63, 107)
@@ -84,7 +84,7 @@ https://www.ihk.de/agb-generator (kostenlos)
 ```bash
 # Im Terminal:
 cd "/Users/batuhankaradag/seo frankenentrümpelung"
-grep -r "+491234567890" . --exclude-dir=node_modules
+grep -r "+491708005653" . --exclude-dir=node_modules
 ```
 
 Dann ersetze ÜBERALL durch deine echte Nummer!

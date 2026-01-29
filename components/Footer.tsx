@@ -55,14 +55,14 @@ const Footer = () => {
 
             <div className="space-y-3">
               <a
-                href="tel:+491234567890"
+                href="tel:+491708005653"
                 className="flex items-center space-x-3 hover:text-primary-400 transition-colors"
               >
                 <Phone size={18} />
-                <span>+49 123 456 7890</span>
+                <span>0170 800 5653</span>
               </a>
               <a
-                href="https://wa.me/491234567890?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
+                href="https://wa.me/491708005653?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 hover:text-[#25D366] transition-colors"

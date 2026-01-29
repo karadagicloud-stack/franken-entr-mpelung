@@ -63,7 +63,7 @@ const Navigation = () => {
             ))}
             <div className="flex items-center space-x-3">
               <a
-                href="https://wa.me/491234567890?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
+                href="https://wa.me/491708005653?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn bg-[#25D366] hover:bg-[#20BA5A] text-white flex items-center space-x-2"
@@ -72,7 +72,7 @@ const Navigation = () => {
                 <span>WhatsApp</span>
               </a>
               <a
-                href="tel:+491234567890"
+                href="tel:+491708005653"
                 className="btn btn-primary flex items-center space-x-2"
               >
                 <Phone size={18} />
@@ -112,7 +112,7 @@ const Navigation = () => {
                   </Link>
                 ))}
                 <a
-                  href="https://wa.me/491234567890?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
+                  href="https://wa.me/491708005653?text=Hallo!%20Ich%20interessiere%20mich%20für%20eine%20Entrümpelung."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn bg-[#25D366] hover:bg-[#20BA5A] text-white w-full flex items-center justify-center space-x-2"
@@ -121,7 +121,7 @@ const Navigation = () => {
                   <span>WhatsApp</span>
                 </a>
                 <a
-                  href="tel:+491234567890"
+                  href="tel:+491708005653"
                   className="btn btn-primary w-full flex items-center justify-center space-x-2"
                 >
                   <Phone size={18} />

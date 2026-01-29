@@ -6,7 +6,7 @@ export default function SchemaMarkup() {
     name: 'Franken-Entrümpelung',
     description: 'Professionelle Entrümpelung, Haushaltsauflösung und Wohnungsauflösung in Nürnberg und Umgebung',
     url: 'https://franken-entruempelung.de',
-    telephone: '+491234567890',
+    telephone: '+491708005653',
     email: 'info@franken-entruempelung.de',
     address: {
       '@type': 'PostalAddress',

@@ -126,7 +126,7 @@ const HowItWorks = () => {
           className="text-center mt-12 relative z-10"
         >
           <a
-            href="tel:+491234567890"
+            href="tel:+491708005653"
             className="btn btn-primary text-lg inline-flex items-center space-x-2"
           >
             <Phone size={20} />

@@ -25,7 +25,7 @@ export default function WohnungsaufloesungPage() {
                   Wir räumen Ihre Wohnung komplett leer – diskret, schnell und zuverlässig.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="tel:+491234567890" className="btn btn-primary text-lg flex items-center justify-center space-x-2">
+                  <a href="tel:+491708005653" className="btn btn-primary text-lg flex items-center justify-center space-x-2">
                     <Phone size={20} />
                     <span>Jetzt anrufen</span>
                   </a>
@@ -101,7 +101,7 @@ export default function WohnungsaufloesungPage() {
           <div className="container-custom text-center">
             <h2 className="text-4xl font-bold mb-6">Wohnungsauflösung benötigt?</h2>
             <p className="text-xl mb-8 text-primary-100">Wir helfen Ihnen schnell und unkompliziert!</p>
-            <a href="tel:+491234567890" className="btn bg-white text-primary-600 hover:bg-primary-50 text-lg inline-flex items-center space-x-2">
+            <a href="tel:+491708005653" className="btn bg-white text-primary-600 hover:bg-primary-50 text-lg inline-flex items-center space-x-2">
               <Phone size={20} />
               <span>Jetzt kostenlos anfragen</span>
             </a>

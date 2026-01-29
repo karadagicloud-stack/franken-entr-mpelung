@@ -209,7 +209,7 @@ const CallToAction = () => {
 
               <div className="space-y-6">
                 <a
-                  href="tel:+491234567890"
+                  href="tel:+491708005653"
                   className="flex items-start space-x-4 group cursor-pointer"
                 >
                   <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-white/30 transition-colors">
@@ -218,7 +218,7 @@ const CallToAction = () => {
                   <div>
                     <div className="text-sm text-primary-200 mb-1">Telefon</div>
                     <div className="text-xl font-bold group-hover:underline">
-                      +49 123 456 7890
+                      0170 800 5653
                     </div>
                     <div className="text-sm text-primary-200 mt-1">
                       Mo-Fr: 7:00-20:00 Uhr<br />Sa: 8:00-18:00 Uhr

@@ -154,7 +154,7 @@ Framer Motion wird verwendet für:
 
 ## 📞 Kontakt-Integration
 
-- Telefon: `+49 123 456 7890` (bitte anpassen)
+- Telefon: `0170 800 5653` (bitte anpassen)
 - E-Mail: `info@franken-entruempelung.de` (bitte anpassen)
 - Kontaktformular mit Validierung
 
@@ -174,7 +174,7 @@ npm run build
 ## ⚙️ Anpassungen
 
 ### Telefonnummer ändern:
-Suchen und ersetzen Sie `+491234567890` in allen Dateien.
+Suchen und ersetzen Sie `+491708005653` in allen Dateien.
 
 ### E-Mail ändern:
 Suchen und ersetzen Sie `info@franken-entruempelung.de`.

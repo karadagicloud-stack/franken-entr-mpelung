@@ -24,7 +24,7 @@ export default function NachlassauflösungPage() {
                   Professionelle und respektvolle Nachlassauflösung mit Wertermittlung.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="tel:+491234567890" className="btn btn-primary text-lg flex items-center justify-center space-x-2">
+                  <a href="tel:+491708005653" className="btn btn-primary text-lg flex items-center justify-center space-x-2">
                     <Phone size={20} />
                     <span>Jetzt anrufen</span>
                   </a>
@@ -104,7 +104,7 @@ export default function NachlassauflösungPage() {
             <p className="text-xl mb-8 text-primary-100">
               In schweren Zeiten unterstützen wir Sie mit Einfühlungsvermögen und Professionalität
             </p>
-            <a href="tel:+491234567890" className="btn bg-white text-primary-600 hover:bg-primary-50 text-lg inline-flex items-center space-x-2">
+            <a href="tel:+491708005653" className="btn bg-white text-primary-600 hover:bg-primary-50 text-lg inline-flex items-center space-x-2">
               <Phone size={20} />
               <span>Jetzt Kontakt aufnehmen</span>
             </a>

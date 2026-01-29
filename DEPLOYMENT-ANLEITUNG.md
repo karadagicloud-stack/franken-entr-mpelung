@@ -222,13 +222,13 @@
 **VOR dem Deployment musst du noch Dinge ändern:**
 
 ### 1. **Telefonnummer ersetzen**
-Suche in ALLEN Dateien nach: `+491234567890`
+Suche in ALLEN Dateien nach: `+491708005653`
 Ersetze durch deine echte Nummer: `+49911XXXXXXX`
 
 ```bash
 # Im Terminal:
 cd "/Users/batuhankaradag/seo frankenentrümpelung"
-grep -r "+491234567890" components/ app/
+grep -r "+491708005653" components/ app/
 ```
 
 ### 2. **E-Mail-Adressen einfügen**
