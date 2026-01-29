@@ -165,10 +165,13 @@ const ServiceAreas = () => {
           </div>
           <div className="mt-6 p-4 bg-primary-50 rounded-xl text-center">
             <p className="text-gray-700">
-              <strong>Gesamter Service-Radius:</strong> 70km von Feucht<br />
+              <strong>Unser Haupteinsatzgebiet:</strong> Nürnberg und Region (bis ca. 70km)<br />
               <strong>Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden<br />
               <span className="text-sm text-gray-600 mt-2 block">
-                Alle Orte im Nürnberger Land, Landkreis Roth, Erlangen-Höchstadt und weitere
+                Nürnberger Land, Landkreis Roth, Erlangen-Höchstadt und Umgebung
+              </span>
+              <span className="text-sm font-semibold text-primary-700 mt-2 block">
+                Auch weitere Entfernungen auf Anfrage möglich!
               </span>
             </p>
           </div>
@@ -183,10 +186,10 @@ const ServiceAreas = () => {
         >
           <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-3xl p-8 md:p-12 text-white">
             <h3 className="text-3xl font-bold mb-4">
-              Ihr Ort ist nicht dabei?
+              Ihr Ort ist nicht aufgeführt?
             </h3>
             <p className="text-xl mb-6 text-primary-100">
-              Wir bedienen auch viele weitere Orte im Umkreis von 100km. Fragen Sie einfach an!
+              Kein Problem! Wir sind flexibel und kommen auch gerne zu Ihnen – fragen Sie uns einfach unverbindlich an!
             </p>
             <a
               href="tel:+491234567890"
