@@ -7,6 +7,13 @@ import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 const testimonials = [
   {
+    name: 'MyHammer-Kunde aus Zirndorf',
+    location: 'MyHammer Bewertung',
+    rating: 5,
+    text: 'Wie ausgemacht war Franken Dienstleistung heute pünktlich da und es hat alles super geklappt. Perfekt organisiert, sauber und ordentlich gearbeitet. Alles wurde für mich zu meiner vollsten Zufriedenheit erledigt. Ich kann Franken Dienstleistungen nur empfehlen. Außerdem ein sehr netter Kontakt.',
+    service: 'Haushaltsauflösung',
+  },
+  {
     name: 'Jan K',
     location: 'Google Rezension',
     rating: 5,
@@ -14,10 +21,10 @@ const testimonials = [
     service: 'Entrümpelung',
   },
   {
-    name: 'Joel Wüstenberg',
-    location: 'Google Rezension',
+    name: 'Lamine',
+    location: 'MyHammer Bewertung',
     rating: 5,
-    text: 'Unkompliziert! Kontaktieren & beauftragen, mehr gibt es nicht zu sagen!',
+    text: 'Toller Service und wirklich fleißige Hilfe! Danke für alles',
     service: 'Entrümpelung',
   },
   {
@@ -35,25 +42,18 @@ const testimonials = [
     service: 'Verifizierte Bewertung',
   },
   {
+    name: 'Alina',
+    location: 'MyHammer Bewertung',
+    rating: 5,
+    text: 'Wir sind super zufrieden und werden das Team von Franken Entrümpelung garantiert wieder beauftragen.',
+    service: 'Haushaltsauflösung',
+  },
+  {
     name: 'Can Tekin',
     location: 'Google Rezension',
     rating: 5,
     text: 'Ich bin sehr zufrieden mit der Entrümpelung meiner alten Wohnung. Von der ersten Kontaktaufnahme bis zur Durchführung lief alles reibungslos. Pünktlich, sauber gearbeitet und sehr freundlich. Preis-Leistung stimmt auf jeden Fall.',
     service: 'Wohnungsentrümpelung',
-  },
-  {
-    name: 'Kerem',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Sehr zuverlässige Entrümpelungsfirma. Terminabsprache lief problemlos, das Team war pünktlich, freundlich und hat sauber gearbeitet. Preis wie vereinbart, keine versteckten Kosten.',
-    service: 'Entrümpelung',
-  },
-  {
-    name: 'Mehmet',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Sehr zuverlässiger und schneller Service! Alles wurde sauber und professionell erledigt. Absolut empfehlenswert!',
-    service: 'Entrümpelung',
   },
   {
     name: 'Maël',
