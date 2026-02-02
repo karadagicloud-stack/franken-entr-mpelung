@@ -40,22 +40,41 @@ const Hero = () => {
 
               {/* USPs */}
               <div className="grid sm:grid-cols-3 gap-4 mb-8">
-                {[
-                  'Kostenlose Beratung',
-                  'Faire Preise',
-                  'Wertanrechnung',
-                ].map((usp, index) => (
-                  <motion.div
-                    key={usp}
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: 0.3 + index * 0.1 }}
-                    className="flex items-center space-x-2"
-                  >
-                    <CheckCircle className="text-primary-600" size={20} />
-                    <span className="font-semibold text-gray-700">{usp}</span>
-                  </motion.div>
-                ))}
+                {/* Kostenlose Beratung */}
+                <motion.div
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.3 }}
+                  className="flex items-center space-x-2"
+                >
+                  <CheckCircle className="text-primary-600" size={20} />
+                  <span className="font-semibold text-gray-700">Kostenlose Beratung</span>
+                </motion.div>
+
+                {/* Faire Preise */}
+                <motion.div
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.4 }}
+                  className="flex items-center space-x-2"
+                >
+                  <CheckCircle className="text-primary-600" size={20} />
+                  <span className="font-semibold text-gray-700">Faire Preise</span>
+                </motion.div>
+
+                {/* Wertanrechnung - Klickbar mit Link */}
+                <motion.a
+                  href="/wertanrechnung"
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.5 }}
+                  whileHover={{ scale: 1.05 }}
+                  className="flex items-center space-x-2 group cursor-pointer"
+                >
+                  <CheckCircle className="text-primary-600 group-hover:text-primary-700 transition-colors" size={20} />
+                  <span className="font-semibold text-gray-700 group-hover:text-primary-700 transition-colors">Wertanrechnung</span>
+                  <ArrowRight className="text-primary-600 group-hover:translate-x-1 transition-transform" size={16} />
+                </motion.a>
               </div>
 
               {/* CTA Buttons */}
