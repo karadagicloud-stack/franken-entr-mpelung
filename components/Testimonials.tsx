@@ -77,19 +77,21 @@ const Testimonials = () => {
   const [currentIndex, setCurrentIndex] = useState(0)
 
   const nextTestimonial = () => {
-    setCurrentIndex((prev) => (prev + 1) % testimonials.length)
+    setCurrentIndex((prev) => {
+      const next = prev + 3
+      return next >= testimonials.length ? 0 : next
+    })
   }
 
   const prevTestimonial = () => {
-    setCurrentIndex((prev) => (prev - 1 + testimonials.length) % testimonials.length)
+    setCurrentIndex((prev) => {
+      const prev_val = prev - 3
+      return prev_val < 0 ? testimonials.length - 3 : prev_val
+    })
   }
 
   const getVisibleTestimonials = () => {
-    const visible = []
-    for (let i = 0; i < 3; i++) {
-      visible.push(testimonials[(currentIndex + i) % testimonials.length])
-    }
-    return visible
+    return testimonials.slice(currentIndex, currentIndex + 3)
   }
 
   return (
