@@ -29,21 +29,19 @@ export default function ImpressumPage() {
                 <h2 className="text-2xl font-bold text-gray-900 mb-4">
                   Angaben gemäß § 5 TMG
                 </h2>
-                <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 mb-6">
-                  <p className="text-yellow-800 font-semibold">
-                    ⚠️ WICHTIG: Bitte ersetzen Sie diese Platzhalter-Daten durch Ihre echten Firmendaten!
-                  </p>
-                </div>
                 <p className="text-gray-700 leading-relaxed">
                   <strong>Firmenname:</strong><br />
-                  [Ihre Firma / Ihr Name]<br />
+                  Franken-Entrümpelung GbR<br />
                   <br />
                   <strong>Anschrift:</strong><br />
-                  [Straße und Hausnummer]<br />
-                  [PLZ] Nürnberg<br />
+                  Hauptstraße 53<br />
+                  90537 Feucht<br />
                   <br />
-                  <strong>Vertreten durch:</strong><br />
-                  [Ihr Name / Geschäftsführer]
+                  <strong>Vertreten durch die Gesellschafter:</strong><br />
+                  Batuhan Karadag<br />
+                  Faik Ege Karadag<br />
+                  Gökhan Karadag<br />
+                  Antonio Campisano
                 </p>
               </section>
 
@@ -52,9 +50,9 @@ export default function ImpressumPage() {
                   Kontakt
                 </h2>
                 <p className="text-gray-700 leading-relaxed">
-                  <strong>Telefon:</strong> [Ihre Telefonnummer]<br />
-                  <strong>E-Mail:</strong> [Ihre E-Mail-Adresse]<br />
-                  <strong>Website:</strong> www.franken-entruempelung.de
+                  <strong>Telefon:</strong> <a href="tel:+4917080005653" className="text-primary-600 hover:underline">0170 8005653</a><br />
+                  <strong>E-Mail:</strong> <a href="mailto:info@franken-entruempelung.de" className="text-primary-600 hover:underline">info@franken-entruempelung.de</a><br />
+                  <strong>Website:</strong> <a href="https://franken-entruempelung.vercel.app" className="text-primary-600 hover:underline">www.franken-entruempelung.de</a>
                 </p>
               </section>
 
@@ -63,19 +61,18 @@ export default function ImpressumPage() {
                   Umsatzsteuer-ID
                 </h2>
                 <p className="text-gray-700 leading-relaxed">
-                  Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:<br />
-                  [Ihre USt-IdNr. falls vorhanden]
+                  Als Kleinunternehmer im Sinne von § 19 Abs. 1 UStG wird keine Umsatzsteuer berechnet.
                 </p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-bold text-gray-900 mb-4">
-                  Berufsbezeichnung und berufsrechtliche Regelungen
+                  Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
                 </h2>
                 <p className="text-gray-700 leading-relaxed">
-                  Berufsbezeichnung: Entrümpelungsdienstleister<br />
-                  Zuständige Kammer: [falls zutreffend]<br />
-                  Verliehen in: Deutschland
+                  Batuhan Karadag<br />
+                  Hauptstraße 53<br />
+                  90537 Feucht
                 </p>
               </section>
 
