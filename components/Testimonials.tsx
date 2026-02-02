@@ -7,46 +7,46 @@ import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 const testimonials = [
   {
-    name: 'Familie Schmidt',
-    location: 'Nürnberg',
+    name: 'Kaan Gürbüz',
+    location: 'Local Guide',
     rating: 5,
-    text: 'Sehr professionelle und schnelle Abwicklung. Die Haushaltsauflösung wurde innerhalb von 2 Tagen erledigt. Faire Preise und nettes Team!',
+    text: 'Bei Franken-Entrümpelung handelt es sich um ein hervorragendes Unternehmen. Die versprochenen Leistungszeiten werden pflichtgemäß eingehalten und ein Top Service ist der Standard. Mit Herrn Karadag hat man einen sehr freundlichen und kompetenten Ansprechpartner. Wahrlich ein Top-Service.',
+    service: 'Verifizierte Google-Bewertung',
+  },
+  {
+    name: 'Maël',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Nach dem Tod eines nahen Angehörigen in Deutschland habe ich dieses Unternehmen mit der kompletten Reinigung eines Hauses beauftragt. Die Arbeit wurde schnell, mit viel Sorgfalt und Professionalität erledigt. Das Team war pünktlich, respektvoll und sehr effizient. Ich kann ihre Dienstleistungen wärmstens empfehlen!',
     service: 'Haushaltsauflösung',
   },
   {
-    name: 'Thomas Müller',
-    location: 'Fürth',
+    name: 'Can Tekin',
+    location: 'Google Rezension',
     rating: 5,
-    text: 'Kompetent, zuverlässig und pünktlich. Die Kellerentrümpelung wurde reibungslos durchgeführt. Kann ich nur weiterempfehlen!',
-    service: 'Kellerentrümpelung',
+    text: 'Ich bin sehr zufrieden mit der Entrümpelung von meiner alten Wohnung gewesen. Von der ersten Kontaktaufnahme bis zur Durchführung lief alles reibungslos. Pünktlich, sauber gearbeitet und sehr freundlich. Preis-Leistung stimmt auf jeden Fall. Gerne wieder.',
+    service: 'Wohnungsentrümpelung',
   },
   {
-    name: 'Andrea Wagner',
-    location: 'Erlangen',
+    name: 'Boris Jamchtchik',
+    location: 'Local Guide',
     rating: 5,
-    text: 'Nach dem Tod meiner Mutter musste die Wohnung aufgelöst werden. Das Team war sehr einfühlsam und hat alles professionell erledigt. Vielen Dank!',
-    service: 'Nachlassauflösung',
+    text: 'Ein ehemaliger Mieter hat die ganze Wohnungseinrichtung inkl. Müll in der Wohnung gelassen. Das Team von Franken Entrümpelung hat innerhalb von einem Tag die ganze Wohnung entrümpt, trotz 6. Stock ohne Aufzug! Professionell, schnell und zuverlässig.',
+    service: 'Wohnungsentrümpelung',
   },
   {
-    name: 'Markus Weber',
-    location: 'Feucht',
+    name: 'Ümit Kazmacan',
+    location: 'Google Rezension',
     rating: 5,
-    text: 'Schneller Termin, faire Preisgestaltung und saubere Arbeit. Die Wohnungsauflösung wurde perfekt durchgeführt.',
-    service: 'Wohnungsauflösung',
-  },
-  {
-    name: 'Julia Hoffmann',
-    location: 'Wendelstein',
-    rating: 5,
-    text: 'Sehr zufrieden mit dem Service! Pünktlich, freundlich und gründlich. Die Entrümpelung war in kürzester Zeit erledigt.',
+    text: 'Ich war sehr zufrieden mit der Entrümpelung von Franken-Entrumpelung, es verlief alles sehr schnell und kostengünstiger als bei der Konkurrenz, zuverlässig und sauber. Nur weiter zu empfehlen!',
     service: 'Entrümpelung',
   },
   {
-    name: 'Stefan Bauer',
-    location: 'Altdorf',
+    name: 'Jan K',
+    location: 'Local Guide',
     rating: 5,
-    text: 'Professionelle Büroauflösung mit Aktenvernichtung. Alles lief reibungslos und termingerecht. Absolut empfehlenswert!',
-    service: 'Büroauflösung',
+    text: 'Super kompetente und freundliche Mitarbeiter. Arbeiten sorgfältig und ordentlich. Würde den Service jederzeit wieder in Anspruch nehmen.',
+    service: 'Entrümpelung',
   },
 ]
 
@@ -85,7 +85,7 @@ const Testimonials = () => {
             Das sagen unsere Kunden
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Über 500 zufriedene Kunden vertrauen auf unseren Service
+            Echte Bewertungen von echten Kunden auf Google
           </p>
           <div className="flex items-center justify-center space-x-2 mt-6">
             <div className="flex">
@@ -93,8 +93,8 @@ const Testimonials = () => {
                 <Star key={i} className="text-yellow-400 fill-current" size={24} />
               ))}
             </div>
-            <span className="text-2xl font-bold text-gray-900">4.9/5</span>
-            <span className="text-gray-600">(500+ Bewertungen)</span>
+            <span className="text-2xl font-bold text-gray-900">5.0/5</span>
+            <span className="text-gray-600">(Google Bewertungen)</span>
           </div>
         </motion.div>
 
