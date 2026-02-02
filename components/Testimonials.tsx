@@ -31,15 +31,8 @@ const testimonials = [
     name: 'Kaan Gürbüz',
     location: 'Local Guide',
     rating: 5,
-    text: 'Bei Franken-Entrümpelung handelt es sich um ein hervorragendes Unternehmen. Die versprochenen Leistungszeiten werden pflichtgemäß eingehalten. Mit Herrn Karadag hat man einen sehr freundlichen und kompetenten Ansprechpartner. Wahrlich ein Top-Service.',
+    text: 'Bei Franken-Entrümpelung handelt es sich um ein hervorragendes Unternehmen. Die versprochenen Leistungszeiten werden pflichtgemäß eingehalten. Mit Herrn Karadag hat man einen sehr freundlichen und kompetenten Ansprechpartner.',
     service: 'Verifizierte Bewertung',
-  },
-  {
-    name: 'Kerem',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Sehr zuverlässige Entrümpelungsfirma. Terminabsprache lief problemlos, das Team war pünktlich, freundlich und hat sauber gearbeitet. Preis wie vereinbart, keine versteckten Kosten. Klare Weiterempfehlung.',
-    service: 'Entrümpelung',
   },
   {
     name: 'Can Tekin',
@@ -49,6 +42,13 @@ const testimonials = [
     service: 'Wohnungsentrümpelung',
   },
   {
+    name: 'Kerem',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Sehr zuverlässige Entrümpelungsfirma. Terminabsprache lief problemlos, das Team war pünktlich, freundlich und hat sauber gearbeitet. Preis wie vereinbart, keine versteckten Kosten.',
+    service: 'Entrümpelung',
+  },
+  {
     name: 'Mehmet',
     location: 'Google Rezension',
     rating: 5,
@@ -56,39 +56,18 @@ const testimonials = [
     service: 'Entrümpelung',
   },
   {
-    name: 'Ümit Kazmacan',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Ich war sehr zufrieden mit der Entrümpelung. Es verlief alles sehr schnell und kostengünstiger als bei der Konkurrenz, zuverlässig und sauber. Nur weiter zu empfehlen!',
-    service: 'Entrümpelung',
-  },
-  {
-    name: 'R S',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Super kompetent! Habe diese Firma für die Entrümpelung meines Kellers kontaktiert! Preislich top! Ging ganz flott und super freundlicher Kundenservice! Absolute Empfehlung!',
-    service: 'Kellerentrümpelung',
-  },
-  {
     name: 'Maël',
     location: 'Google Rezension',
     rating: 5,
-    text: 'Nach dem Tod eines nahen Angehörigen in Deutschland habe ich dieses Unternehmen mit der kompletten Reinigung eines Hauses beauftragt. Die Arbeit wurde schnell, mit viel Sorgfalt und Professionalität erledigt. Das Team war pünktlich und sehr effizient.',
+    text: 'Nach dem Tod eines nahen Angehörigen habe ich dieses Unternehmen mit der kompletten Reinigung eines Hauses beauftragt. Die Arbeit wurde schnell, mit viel Sorgfalt und Professionalität erledigt.',
     service: 'Haushaltsauflösung',
   },
   {
     name: 'Boris Jamchtchik',
     location: 'Local Guide',
     rating: 5,
-    text: 'Ein ehemaliger Mieter hat die ganze Wohnungseinrichtung inkl. Müll in der Wohnung gelassen. Das Team von Franken Entrümpelung hat innerhalb von einem Tag die ganze Wohnung entrümpt, trotz 6. Stock ohne Aufzug! Professionell und zuverlässig.',
+    text: 'Ein ehemaliger Mieter hat die ganze Wohnungseinrichtung inkl. Müll in der Wohnung gelassen. Das Team hat innerhalb von einem Tag die ganze Wohnung entrümpt, trotz 6. Stock ohne Aufzug!',
     service: 'Wohnungsentrümpelung',
-  },
-  {
-    name: 'Samet Sahan',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Ich bin mit der Entrümpelung sehr zufrieden! Das Team war schnell, professionell und hat alles ordentlich hinterlassen. Ich hatte zwei volle Zimmer zum Entrümpeln, und sie haben alles super erledigt.',
-    service: 'Entrümpelung',
   },
 ]
 
