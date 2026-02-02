@@ -108,18 +108,18 @@ const Hero = () => {
                 transition={{ delay: 0.8 }}
                 className="mt-8 pt-8 border-t border-gray-200"
               >
-                <div className="flex items-center space-x-8">
-                  <div>
-                    <div className="text-3xl font-bold text-primary-600">500+</div>
-                    <div className="text-sm text-gray-600">Zufriedene Kunden</div>
+                <div className="flex flex-wrap items-center gap-6 sm:gap-8">
+                  <div className="min-w-[140px]">
+                    <div className="text-xl sm:text-2xl font-bold text-primary-600">100% Zufriedenheit</div>
+                    <div className="text-sm text-gray-600">Kunden-Garantie</div>
                   </div>
-                  <div>
-                    <div className="text-3xl font-bold text-primary-600">15+</div>
-                    <div className="text-sm text-gray-600">Jahre Erfahrung</div>
+                  <div className="min-w-[140px]">
+                    <div className="text-xl sm:text-2xl font-bold text-primary-600">24h Rückruf</div>
+                    <div className="text-sm text-gray-600">Schnelle Termine</div>
                   </div>
-                  <div>
+                  <div className="min-w-[100px]">
                     <div className="text-3xl font-bold text-primary-600">4.9★</div>
-                    <div className="text-sm text-gray-600">Bewertung</div>
+                    <div className="text-sm text-gray-600">Google Bewertung</div>
                   </div>
                 </div>
               </motion.div>
