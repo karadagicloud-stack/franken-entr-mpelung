@@ -21,6 +21,13 @@ const testimonials = [
     service: 'Entrümpelung',
   },
   {
+    name: 'Joel Wüstenberg',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Unkompliziert! Kontaktieren & beauftragen, mehr gibt es nicht zu sagen!',
+    service: 'Entrümpelung',
+  },
+  {
     name: 'Lamine',
     location: 'MyHammer Bewertung',
     rating: 5,
@@ -54,13 +61,6 @@ const testimonials = [
     rating: 5,
     text: 'Ich bin sehr zufrieden mit der Entrümpelung meiner alten Wohnung. Von der ersten Kontaktaufnahme bis zur Durchführung lief alles reibungslos. Pünktlich, sauber gearbeitet und sehr freundlich. Preis-Leistung stimmt auf jeden Fall.',
     service: 'Wohnungsentrümpelung',
-  },
-  {
-    name: 'Maël',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Nach dem Tod eines nahen Angehörigen habe ich dieses Unternehmen mit der kompletten Reinigung eines Hauses beauftragt. Die Arbeit wurde schnell, mit viel Sorgfalt und Professionalität erledigt.',
-    service: 'Haushaltsauflösung',
   },
   {
     name: 'Boris Jamchtchik',
