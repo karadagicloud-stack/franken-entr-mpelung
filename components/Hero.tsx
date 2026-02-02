@@ -110,16 +110,16 @@ const Hero = () => {
               >
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
                   <div>
-                    <div className="text-xl md:text-2xl font-bold text-primary-600 mb-1 leading-tight">100% Zufriedenheit</div>
-                    <div className="text-sm text-gray-600">Kunden-Garantie</div>
+                    <div className="text-3xl font-bold text-primary-600 mb-2">100%</div>
+                    <div className="text-sm text-gray-600">Zufriedenheit</div>
                   </div>
                   <div>
-                    <div className="text-xl md:text-2xl font-bold text-primary-600 mb-1 leading-tight">24h Rückruf</div>
-                    <div className="text-sm text-gray-600">Schnelle Termine</div>
+                    <div className="text-3xl font-bold text-primary-600 mb-2">24h</div>
+                    <div className="text-sm text-gray-600">Rückruf-Garantie</div>
                   </div>
                   <div>
-                    <div className="text-xl md:text-2xl font-bold text-primary-600 mb-1 leading-tight">5.0★ Google</div>
-                    <div className="text-sm text-gray-600">Top bewertet</div>
+                    <div className="text-3xl font-bold text-primary-600 mb-2">5.0★</div>
+                    <div className="text-sm text-gray-600">Google Bewertung</div>
                   </div>
                 </div>
               </motion.div>
