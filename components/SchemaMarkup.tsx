@@ -68,6 +68,46 @@ export default function SchemaMarkup() {
     "areaServed": [
       {
         "@type": "City",
+        "name": "Lauf an der Pegnitz"
+      },
+      {
+        "@type": "City",
+        "name": "Wendelstein"
+      },
+      {
+        "@type": "City",
+        "name": "Feucht"
+      },
+      {
+        "@type": "City",
+        "name": "Altdorf bei Nürnberg"
+      },
+      {
+        "@type": "City",
+        "name": "Hersbruck"
+      },
+      {
+        "@type": "City",
+        "name": "Schwabach"
+      },
+      {
+        "@type": "City",
+        "name": "Schwarzenbruck"
+      },
+      {
+        "@type": "City",
+        "name": "Eckental"
+      },
+      {
+        "@type": "City",
+        "name": "Röthenbach an der Pegnitz"
+      },
+      {
+        "@type": "City",
+        "name": "Schnaittach"
+      },
+      {
+        "@type": "City",
         "name": "Nürnberg"
       },
       {
@@ -80,19 +120,7 @@ export default function SchemaMarkup() {
       },
       {
         "@type": "City",
-        "name": "Feucht"
-      },
-      {
-        "@type": "City",
-        "name": "Schwabach"
-      },
-      {
-        "@type": "City",
         "name": "Roth"
-      },
-      {
-        "@type": "City",
-        "name": "Lauf an der Pegnitz"
       }
     ],
     "hasOfferCatalog": {

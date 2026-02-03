@@ -60,20 +60,45 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // Lokale Seiten (extrem wichtig für Local SEO!)
-  const locationPages = [
-    'nuernberg',
-    'fuerth',
-    'erlangen',
-    'feucht',
-    'schwabach',
-    'roth',
+  // Nürnberger Land Seiten (HÖCHSTE PRIORITÄT!)
+  const nuernbergerLandPages = [
     'lauf',
+    'wendelstein',
+    'feucht',
+    'altdorf',
+    'hersbruck',
+    'schwabach',
+    'schwarzenbruck',
+    'eckental',
+    'roethenbach',
+    'schnaittach',
   ].map((location) => ({
     url: `${baseUrl}/entruempelung-${location}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: 0.9, // Sehr wichtig für Local SEO!
+    priority: 0.95, // HÖCHSTE Priorität - unser Hauptgebiet!
+  }))
+
+  // Großstädte (wichtig, aber sekundär)
+  const grossstadtPages = [
+    'nuernberg',
+    'fuerth',
+    'erlangen',
+  ].map((location) => ({
+    url: `${baseUrl}/entruempelung-${location}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.85, // Wichtig, aber nicht Fokus
+  }))
+  
+  // Weitere Umgebung
+  const umgebungPages = [
+    'roth',
+  ].map((location) => ({
+    url: `${baseUrl}/entruempelung-${location}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
   }))
 
   // Rechtliche Seiten
@@ -98,7 +123,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     ...mainPages,
     ...servicePages,
-    ...locationPages,
+    ...nuernbergerLandPages,
+    ...grossstadtPages,
+    ...umgebungPages,
     ...legalPages,
   ]
 }

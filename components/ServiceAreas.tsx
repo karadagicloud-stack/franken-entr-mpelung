@@ -9,52 +9,55 @@ import { locations } from '@/lib/locations'
 
 const serviceAreas = [
   {
-    name: 'Nürnberg',
-    description: 'Entrümpelung in allen Stadtteilen',
-    link: '/entruempelung-nuernberg',
+    name: 'Lauf a.d. Pegnitz',
+    description: '✨ Unser Hauptgebiet - nur 10km!',
+    link: '/entruempelung-lauf',
     isMain: true,
   },
   {
-    name: 'Fürth',
-    description: 'Schneller Service in Fürth',
-    link: '/entruempelung-fuerth',
-    isMain: true,
-  },
-  {
-    name: 'Erlangen',
-    description: 'Professionell in Erlangen',
-    link: '/entruempelung-erlangen',
+    name: 'Wendelstein',
+    description: '✨ Regional & schnell - 7km Entfernung',
+    link: '/entruempelung-wendelstein',
     isMain: true,
   },
   {
     name: 'Feucht',
-    description: 'Zuverlässig vor Ort',
+    description: '🏠 Unser Heimatort - vor Ort!',
     link: '/entruempelung-feucht',
-  },
-  {
-    name: 'Wendelstein',
-    description: 'Ihr Partner in Wendelstein',
-    link: '/entruempelung-wendelstein',
+    isMain: true,
   },
   {
     name: 'Altdorf',
-    description: 'Kompetent in Altdorf',
+    description: '✨ Ihr Partner im Nürnberger Land',
     link: '/entruempelung-altdorf',
-  },
-  {
-    name: 'Lauf',
-    description: 'Service in Lauf a.d. Pegnitz',
-    link: '/entruempelung-lauf',
+    isMain: true,
   },
   {
     name: 'Hersbruck',
-    description: 'Entrümpelung in Hersbruck',
+    description: '✨ Zuverlässig im Nürnberger Land',
     link: '/entruempelung-hersbruck',
+    isMain: true,
   },
   {
     name: 'Schwabach',
-    description: 'Komplett-Service',
+    description: '✨ Professionell & regional',
     link: '/entruempelung-schwabach',
+    isMain: true,
+  },
+  {
+    name: 'Nürnberg',
+    description: 'Auch in der Großstadt für Sie da',
+    link: '/entruempelung-nuernberg',
+  },
+  {
+    name: 'Fürth',
+    description: 'Service auch in Fürth',
+    link: '/entruempelung-fuerth',
+  },
+  {
+    name: 'Erlangen',
+    description: 'Auch in Erlangen verfügbar',
+    link: '/entruempelung-erlangen',
   },
   {
     name: 'Röthenbach',
@@ -99,7 +102,8 @@ const ServiceAreas = () => {
             Unsere Servicegebiete
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Wir sind in Nürnberg, dem gesamten Nürnberger Land und Umgebung für Sie da
+            <strong>Aus Feucht - für das gesamte Nürnberger Land!</strong><br />
+            <span className="text-lg">Plus Nürnberg, Fürth, Erlangen und Umgebung</span>
           </p>
         </motion.div>
 
@@ -165,13 +169,15 @@ const ServiceAreas = () => {
           </div>
           <div className="mt-6 p-4 bg-primary-50 rounded-xl text-center">
             <p className="text-gray-700">
-              <strong>Unser Haupteinsatzgebiet:</strong> Nürnberg und Region (bis ca. 70km)<br />
-              <strong>Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden<br />
+              <strong>🏠 Unser Haupteinsatzgebiet:</strong> Nürnberger Land (bis ca. 30km um Feucht)<br />
+              <strong>💚 Spezialisiert auf:</strong> Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach<br />
+              <strong>✅ Auch verfügbar:</strong> Nürnberg, Fürth, Erlangen<br />
+              <strong>📍 Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden<br />
               <span className="text-sm text-gray-600 mt-2 block">
-                Nürnberger Land, Landkreis Roth, Erlangen-Höchstadt und Umgebung
+                Nürnberger Land, Landkreis Roth, Nürnberg-Umland
               </span>
               <span className="text-sm font-semibold text-primary-700 mt-2 block">
-                Auch weitere Entfernungen auf Anfrage möglich!
+                Regional aus Feucht - Ihr Nachbar hilft! ❤️
               </span>
             </p>
           </div>

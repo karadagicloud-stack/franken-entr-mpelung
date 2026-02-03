@@ -30,12 +30,12 @@ const Hero = () => {
                 <span className="bg-gradient-to-r from-primary-600 to-primary-700 bg-clip-text text-transparent">
                   Entrümpelung
                 </span>{' '}
-                in Nürnberg & Umgebung
+                im Nürnberger Land & Nürnberg
               </h1>
 
               <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-                Schnell, zuverlässig und zu fairen Preisen. Von der Haushaltsauflösung bis zur 
-                Gewerbeentrümpelung – wir übernehmen alles für Sie.
+                <strong>Aus Feucht - für die Region!</strong> Schnell, zuverlässig und zu fairen Preisen. 
+                Von der Haushaltsauflösung bis zur Gewerbeentrümpelung – Ihr regionaler Partner!
               </p>
 
               {/* USPs */}

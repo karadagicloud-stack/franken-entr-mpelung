@@ -14,10 +14,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://franken-entruempelung.vercel.app'),
   title: {
-    default: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
+    default: 'Franken-Entrümpelung | Professionelle Entrümpelung im Nürnberger Land & Nürnberg',
     template: '%s | Franken-Entrümpelung'
   },
-  description: 'Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land. ✓ Schnell ✓ Zuverlässig ✓ Günstige Preise. Jetzt kostenlose Beratung anfordern!',
+  description: 'Aus Feucht - für das Nürnberger Land! Professionelle Entrümpelung in Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach und Region. ✓ Regional ✓ Schnell ✓ Fair. Kostenlose Besichtigung!',
   keywords: ['Entrümpelung Nürnberg', 'Haushaltsauflösung Nürnberg', 'Wohnungsauflösung Nürnberg', 'Entrümpelung Fürth', 'Entrümpelung Erlangen', 'Nürnberger Land'],
   authors: [{ name: 'Franken-Entrümpelung' }],
   creator: 'Franken-Entrümpelung',
