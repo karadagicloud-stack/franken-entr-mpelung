@@ -10,55 +10,55 @@ import { locations } from '@/lib/locations'
 const serviceAreas = [
   {
     name: 'Lauf a.d. Pegnitz',
-    description: '✨ Unser Hauptgebiet - nur 10km!',
+    description: 'Professionelle Entrümpelung - 10km Entfernung',
     link: '/entruempelung-lauf',
     isMain: true,
   },
   {
     name: 'Wendelstein',
-    description: '✨ Regional & schnell - 7km Entfernung',
+    description: 'Schneller Service - 7km Entfernung',
     link: '/entruempelung-wendelstein',
     isMain: true,
   },
   {
     name: 'Feucht',
-    description: '🏠 Unser Heimatort - vor Ort!',
+    description: 'Unser Standort - Direkter Service vor Ort',
     link: '/entruempelung-feucht',
     isMain: true,
   },
   {
     name: 'Altdorf',
-    description: '✨ Ihr Partner im Nürnberger Land',
+    description: 'Zuverlässiger Partner - 12km Entfernung',
     link: '/entruempelung-altdorf',
     isMain: true,
   },
   {
     name: 'Hersbruck',
-    description: '✨ Zuverlässig im Nürnberger Land',
+    description: 'Kompetenter Service - 28km Entfernung',
     link: '/entruempelung-hersbruck',
     isMain: true,
   },
   {
     name: 'Schwabach',
-    description: '✨ Professionell & regional',
+    description: 'Professionelle Abwicklung - 19km',
     link: '/entruempelung-schwabach',
     isMain: true,
   },
   {
     name: 'Zirndorf',
-    description: '✨ Schnell & zuverlässig - 22km',
+    description: 'Schnelle Terminvergabe - 22km',
     link: '/entruempelung-zirndorf',
     isMain: true,
   },
   {
     name: 'Stein',
-    description: '✨ Service bei Nürnberg - 16km',
+    description: 'Zuverlässiger Service - 16km',
     link: '/entruempelung-stein',
     isMain: true,
   },
   {
     name: 'Oberasbach',
-    description: '✨ Kompetent & nah - 18km',
+    description: 'Faire Preise - 18km Entfernung',
     link: '/entruempelung-oberasbach',
     isMain: true,
   },
@@ -205,19 +205,27 @@ const ServiceAreas = () => {
               </Link>
             ))}
           </div>
-          <div className="mt-6 p-4 bg-primary-50 rounded-xl text-center">
-            <p className="text-gray-700">
-              <strong>🏠 Unser Haupteinsatzgebiet:</strong> Nürnberger Land & Metropolregion Nürnberg<br />
-              <strong>💚 Spezialisiert auf:</strong> Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach<br />
-              <strong>✅ Auch verfügbar:</strong> Nürnberg, Fürth, Erlangen & Umgebung<br />
-              <strong>📍 Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden<br />
-              <span className="text-sm text-gray-600 mt-2 block">
+          <div className="mt-6 p-4 bg-primary-50 rounded-xl">
+            <div className="text-gray-700 space-y-3">
+              <div>
+                <strong className="text-gray-900">Haupteinsatzgebiet:</strong> Nürnberger Land & Metropolregion Nürnberg
+              </div>
+              <div>
+                <strong className="text-gray-900">Spezialisiert auf:</strong> Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach
+              </div>
+              <div>
+                <strong className="text-gray-900">Auch verfügbar in:</strong> Nürnberg, Fürth, Erlangen & Umgebung
+              </div>
+              <div>
+                <strong className="text-gray-900">Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden
+              </div>
+              <div className="text-sm text-gray-600 pt-2 border-t border-primary-100">
                 Landkreise: Nürnberger Land, Fürth, Roth, Erlangen-Höchstadt
-              </span>
-              <span className="text-sm font-semibold text-primary-700 mt-2 block">
-                Regional aus Feucht - Ihr lokaler Partner! ❤️
-              </span>
-            </p>
+              </div>
+              <div className="text-sm font-semibold text-primary-700 pt-1">
+                Standort Feucht – Ihr regionaler Partner für die gesamte Metropolregion
+              </div>
+            </div>
           </div>
         </motion.div>
 
