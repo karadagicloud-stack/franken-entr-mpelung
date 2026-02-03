@@ -6,6 +6,29 @@ import { useRef, useState } from 'react'
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 const testimonials = [
+  // NEU: 3 frische Bewertungen vom 03.02.2026 - GANZ VORNE!
+  {
+    name: 'Sandro Benitez',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Wir sind rundum begeistert von dieser Entrümpelungsfirma. Vom ersten Kontakt bis zur finalen Übergabe lief alles absolut professionell, zuverlässig und freundlich. Das Team war pünktlich, extrem fleißig und dabei jederzeit gut gelaunt – man merkt sofort, dass hier Profis mit Erfahrung am Werk sind. Die Entrümpelung wurde schnell, sauber und sorgfältig durchgeführt, selbst schwierige Ecken waren kein Problem. Besonders positiv hervorzuheben ist der respektvolle Umgang mit dem Eigentum und die transparente Preisgestaltung – keine versteckten Kosten, alles wie vorher besprochen.',
+    service: 'Entrümpelung',
+  },
+  {
+    name: 'Joshua Ullmann',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Top und zuverlässig. Wir haben die Männer für das alte Haus meiner Oma bestellt. Der Kontakt war sehr vertraut und wir haben super schnell einen Termin vereinbaren können. Die Herren waren dann auch pünktlich da und sogar schneller als gedacht mit allem fertig. Sehr saubere Arbeit und sehr zuverlässig. Kann man nur weiterempfehlen.',
+    service: 'Haushaltsauflösung',
+  },
+  {
+    name: 'Amelie Füssel',
+    location: 'Google Rezension',
+    rating: 5,
+    text: 'Sehr zuverlässig und empfehlenswert!',
+    service: 'Entrümpelung',
+  },
+  // Bewährte Bewertungen
   {
     name: 'MyHammer-Kunde aus Zirndorf',
     location: 'MyHammer Bewertung',
@@ -21,20 +44,6 @@ const testimonials = [
     service: 'Entrümpelung',
   },
   {
-    name: 'Joel Wüstenberg',
-    location: 'Google Rezension',
-    rating: 5,
-    text: 'Unkompliziert! Kontaktieren & beauftragen, mehr gibt es nicht zu sagen!',
-    service: 'Entrümpelung',
-  },
-  {
-    name: 'Lamine',
-    location: 'MyHammer Bewertung',
-    rating: 5,
-    text: 'Toller Service und wirklich fleißige Hilfe! Danke für alles',
-    service: 'Entrümpelung',
-  },
-  {
     name: 'Emil Venus',
     location: 'Local Guide',
     rating: 5,
@@ -47,13 +56,6 @@ const testimonials = [
     rating: 5,
     text: 'Bei Franken-Entrümpelung handelt es sich um ein hervorragendes Unternehmen. Die versprochenen Leistungszeiten werden pflichtgemäß eingehalten. Mit Herrn Karadag hat man einen sehr freundlichen und kompetenten Ansprechpartner.',
     service: 'Verifizierte Bewertung',
-  },
-  {
-    name: 'Alina',
-    location: 'MyHammer Bewertung',
-    rating: 5,
-    text: 'Wir sind super zufrieden und werden das Team von Franken Entrümpelung garantiert wieder beauftragen.',
-    service: 'Haushaltsauflösung',
   },
   {
     name: 'Can Tekin',
