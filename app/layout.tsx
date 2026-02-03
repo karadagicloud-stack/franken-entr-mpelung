@@ -5,6 +5,7 @@ import Navigation from '@/components/Navigation'
 import Footer from '@/components/Footer'
 import WhatsAppButton from '@/components/WhatsAppButton'
 import SchemaMarkup from '@/components/SchemaMarkup'
+import GoogleAnalytics from '@/components/GoogleAnalytics'
 
 const inter = Inter({ 
   subsets: ['latin'],
@@ -83,6 +84,7 @@ export default function RootLayout({
   return (
     <html lang="de" className={inter.variable}>
       <body>
+        <GoogleAnalytics />
         <SchemaMarkup />
         <Navigation />
         {children}
