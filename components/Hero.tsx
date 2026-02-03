@@ -22,20 +22,18 @@ const Hero = () => {
             >
               <div className="inline-flex items-center space-x-2 bg-primary-100 text-primary-700 px-4 py-2 rounded-full text-sm font-semibold mb-6">
                 <CheckCircle size={16} />
-                <span>Ihr zuverlässiger Partner in Franken</span>
+                <span>Ihr regionaler Partner</span>
               </div>
 
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-                Professionelle{' '}
                 <span className="bg-gradient-to-r from-primary-600 to-primary-700 bg-clip-text text-transparent">
                   Entrümpelung
                 </span>{' '}
-                im Nürnberger Land & Nürnberg
+                Nürnberger Land
               </h1>
 
               <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-                <strong>Aus Feucht - für die Region!</strong> Schnell, zuverlässig und zu fairen Preisen. 
-                Von der Haushaltsauflösung bis zur Gewerbeentrümpelung – Ihr regionaler Partner!
+                Professionell, schnell und zu fairen Preisen. Ihre Experten für Haushalts- und Gewerbeentrümpelung in der Region.
               </p>
 
               {/* USPs */}
