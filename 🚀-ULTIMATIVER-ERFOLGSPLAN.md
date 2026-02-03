@@ -1,189 +1,59 @@
-# 🚀 ULTIMATIVER ERFOLGSPLAN: NÜRNBERGER LAND DOMINIEREN!
-**Franken-Entrümpelung | Von 0 auf 100 in 30 Tagen**
+# 🚀 DER ULTIMATIVE 30-TAGE-PLAN
+**Franken-Entrümpelung | Nürnberger Land dominieren**
 
 ---
 
-## 📋 INHALTSVERZEICHNIS
+## 📋 SCHNELLÜBERSICHT
 
-1. [Deine Situation & Ziele](#deine-situation--ziele)
-2. [Die Strategie: Warum Nürnberger Land?](#die-strategie-warum-nürnberger-land)
-3. [Budget & ROI](#budget--roi)
-4. [Woche 1: Foundation & Quick Wins](#woche-1-foundation--quick-wins)
-5. [Woche 2: Google Ads & GMB Dominanz](#woche-2-google-ads--gmb-dominanz)
-6. [Woche 3: Offline Marketing & Sichtbarkeit](#woche-3-offline-marketing--sichtbarkeit)
-7. [Woche 4: Skalierung & Automatisierung](#woche-4-skalierung--automatisierung)
-8. [Erwartete Ergebnisse pro Woche](#erwartete-ergebnisse-pro-woche)
-9. [Vorlagen & Templates](#vorlagen--templates)
-10. [FAQ & Troubleshooting](#faq--troubleshooting)
+| Woche | Hauptfokus | Zeitaufwand | Erwartete Anrufe | Erwartete Aufträge |
+|-------|-----------|-------------|------------------|-------------------|
+| **Woche 1** | Foundation & Google Ads Setup | 30h | 5-10 | 3-5 |
+| **Woche 2** | Google Ads Skalierung + Bewertungen | 25h | 20-30 | 12-18 |
+| **Woche 3** | Offline Marketing (Flyer, Magnetfolien) | 30h | 30-40 | 18-25 |
+| **Woche 4** | Skalierung & Automatisierung | 20h | 40-50 | 25-30 |
+| **GESAMT** | **105 Stunden über 30 Tage** | **105h** | **95-130** | **58-78** |
 
----
-
-## 🎯 DEINE SITUATION & ZIELE
-
-### **WO DU JETZT BIST:**
-- ✅ Professionelle Website (franken-entruempelung.vercel.app) - **LIVE!**
-- ✅ Google My Business Profil - **AKTIV!**
-- ✅ 17 x 5-Sterne Bewertungen - **STARKER START!**
-- ✅ Standort in Feucht (90537) - **PERFEKT FÜR NÜRNBERGER LAND!**
-- ✅ Leihwagen (noch kein eigener Transporter) - **KEIN PROBLEM!**
-- ✅ VIEL ZEIT & MOTIVATION - **DEIN GRÖẞTER VORTEIL!**
-
-### **WO DU HIN WILLST:**
-- 🎯 **Top 1** für "Entrümpelung [Stadt]" in Lauf, Wendelstein, Altdorf, Hersbruck
-- 🎯 **50+ Kundenanfragen/Monat** aus dem Nürnberger Land
-- 🎯 **Bekannt werden** in allen wichtigen Städten der Region
-- 🎯 **Passives Einkommen** durch gute Rankings (weniger Werbung nötig)
-- 🎯 **Wachstum** zum Marktführer im Nürnberger Land
-
-### **DEIN VORTEIL GEGENÜBER GROẞEN KONKURRENTEN:**
-```
-❌ Große Firmen in Nürnberg:
-   → Teure Büros
-   → Hohe Overheadkosten
-   → Fokus auf Nürnberg Stadt
-   → Lange Anfahrt ins Nürnberger Land
-
-✅ DU:
-   → Aus Feucht = MITTEN IM NÜRNBERGER LAND!
-   → Kurze Anfahrt zu ALLEN wichtigen Städten
-   → Persönlicher Service
-   → Günstigere Preise möglich
-   → "Lokaler Held"-Status
-```
+**ERWARTETER UMSATZ:** 46.400 - 62.400€  
+**INVESTITION:** 1.700€  
+**ROI:** 2.600%
 
 ---
 
-## 💡 DIE STRATEGIE: WARUM NÜRNBERGER LAND?
+## 💰 BUDGET GESAMT
 
-### **DIE HARTEN FAKTEN:**
-
-| Kriterium | Nürnberg Stadt | Nürnberger Land (Lauf, Wendelstein, etc.) |
-|-----------|----------------|-------------------------------------------|
-| **Konkurrenz** | 20+ Firmen | 2-3 Firmen |
-| **Google Ads CPC** | 8-15€ | 3-6€ |
-| **Zeit zu Top 3** | 6-12 Monate | 2-4 Wochen |
-| **Preisdruck** | Sehr hoch | Niedrig |
-| **Kundentreue** | Niedrig | Hoch |
-| **Durchschnittsalter** | Jünger | Älter (= mehr Haushaltsauflösungen!) |
-
-### **DEINE ZIELSTÄDTE (PRIORISIERT):**
-
-#### **🥇 TIER 1: HAUPTFOKUS (70% deiner Energie)**
-Diese Städte sind GOLD für dich:
-
-| Stadt | Einwohner | Entfernung von Feucht | Konkurrenz | Priorität |
-|-------|-----------|----------------------|------------|-----------|
-| **Lauf a.d. Pegnitz** | 27.000 | 10 km | Niedrig | 🔥🔥🔥 SEHR HOCH |
-| **Zirndorf** | 26.000 | 22 km | Mittel | 🔥🔥🔥 SEHR HOCH |
-| **Wendelstein** | 16.000 | 7 km | Sehr niedrig | 🔥🔥🔥 SEHR HOCH |
-| **Altdorf** | 16.000 | 12 km | Sehr niedrig | 🔥🔥🔥 SEHR HOCH |
-| **Oberasbach** | 18.000 | 18 km | Niedrig | 🔥🔥 HOCH |
-| **Stein** | 14.000 | 16 km | Niedrig | 🔥🔥 HOCH |
-| **Hersbruck** | 12.500 | 28 km | Sehr niedrig | 🔥🔥 HOCH |
-| **Schwabach** | 41.000 | 19 km | Mittel | 🔥🔥 HOCH |
-| **Schwarzenbruck** | 8.500 | 8 km | Sehr niedrig | 🔥 MITTEL |
-| **Eckental** | 14.000 | 22 km | Niedrig | 🔥 MITTEL |
-
-#### **🥈 TIER 2: BONUS-GEBIETE (30% deiner Energie)**
-Gute Ergänzung, aber nicht dein Hauptfokus:
-
-| Stadt | Einwohner | Konkurrenz | Strategie |
-|-------|-----------|------------|-----------|
-| **Nürnberg** | 518.000 | Sehr hoch | Nur wenn Budget übrig |
-| **Fürth** | 128.000 | Hoch | Stadtteile nah an Feucht |
-| **Erlangen** | 113.000 | Hoch | Nur wenn Anfragen kommen |
-| **Roth** | 26.000 | Mittel | Wenn Zeit ist |
-
-### **WARUM DIESE STRATEGIE FUNKTIONIERT:**
-
-```
-🎯 BEISPIEL LAUF AN DER PEGNITZ:
-
-Wenn jemand in Lauf googelt "Entrümpelung Lauf":
-→ Nur 2-3 Konkurrenten erscheinen
-→ Die meisten sind aus Nürnberg (12km+ entfernt)
-→ DU bist aus Feucht (nur 10km!)
-→ DU kannst sagen: "Ich bin Ihr Nachbar!"
-→ DU gewinnst! 💪
-
-VS.
-
-Wenn jemand in Nürnberg googelt "Entrümpelung Nürnberg":
-→ 20+ Konkurrenten
-→ Alle haben große Websites
-→ Alle zahlen viel für Werbung
-→ Schwer zu gewinnen als Neuer
-```
+| Was | Betrag | Wann bezahlen |
+|-----|--------|---------------|
+| Google Ads | 800€ | Über 30 Tage verteilt (Kreditkarte) |
+| Flyer Druck | 250€ | Woche 1 (Vorkasse) |
+| Flyer Verteilung | 100€ | Woche 3 (nach Erhalt) |
+| Magnetfolien | 150€ | Woche 1 (Vorkasse) |
+| Facebook Ads | 100€ | Über 30 Tage (Kreditkarte) |
+| Lokale Zeitungen | 200€ | Woche 2 (Rechnung) |
+| Diverses/Notfall | 100€ | Bei Bedarf |
+| **SUMME** | **1.700€** | |
 
 ---
 
-## 💰 BUDGET & ROI
+# 📅 WOCHE 1: FOUNDATION
 
-### **GESAMTBUDGET FÜR 30 TAGE:**
+## TAG 1 (MONTAG) - 6 STUNDEN
 
-| Bereich | Budget | Was bekommst du dafür? |
-|---------|--------|------------------------|
-| **Google Ads** | 800€ | Top-Platzierungen in Nürnberger Land-Städten |
-| **Flyer-Kampagne** | 350€ | 20.000 Flyer in Briefkästen (Lauf, Wendelstein, Altdorf) |
-| **Magnetfolien für Leihwagen** | 150€ | Mobile Werbung überall |
-| **Facebook Ads (lokal)** | 100€ | Lokale Gruppen + Awareness |
-| **Lokale Zeitungen** | 200€ | 2-3 Anzeigen in Nürnberger Land |
-| **Diverses** | 100€ | Notfallbudget |
-| **GESAMT** | **1.700€** | |
+### ⏰ 9:00-12:00 (3h): GOOGLE MY BUSINESS OPTIMIEREN
 
-### **ERWARTETER ROI:**
-
-```
-💰 INVESTITION: 1.700€
-
-📊 ERWARTETE ERGEBNISSE NACH 30 TAGEN:
-   → 40-60 qualifizierte Anfragen
-   → 25-35 tatsächliche Aufträge (60% Conversion)
-   → Durchschnitt: 800€/Auftrag
-   → UMSATZ: 20.000 - 28.000€
-
-🚀 ROI: 1.100% - 1.550%!
-
-💡 AB MONAT 2:
-   → Google Rankings sind besser (weniger Ads nötig!)
-   → Bewertungen sind mehr (mehr Vertrauen!)
-   → Mundpropaganda läuft (kostenlose Kunden!)
-   → Budget kann auf 800-1.000€ reduziert werden
-```
-
-### **BUDGET-SPARSAME ALTERNATIVE (1.000€):**
-
-Wenn 1.700€ zu viel sind:
-
-| Bereich | Budget | Kompromiss |
-|---------|--------|------------|
-| Google Ads | 600€ | Nur Tier 1 Städte |
-| Flyer | 200€ | 10.000 Flyer, nur Lauf + Wendelstein |
-| Magnetfolien | 100€ | Kleinere Größe |
-| Facebook Ads | 50€ | Minimiert |
-| Zeitungen | 50€ | 1 Anzeige |
-| **GESAMT** | **1.000€** | Immer noch sehr effektiv! |
-
----
-
-## 📅 WOCHE 1: FOUNDATION & QUICK WINS
-**Ziel:** Basis schaffen + Erste Kunden gewinnen
-
-### **TAG 1 (MONTAG) - 6 STUNDEN**
-
-#### ⏰ VORMITTAGS (3h): GOOGLE MY BUSINESS PERFEKTIONIEREN
-
-**🎯 PRIORITÄT A: GMB-Beschreibung optimieren**
-
-**SCHRITT 1:** Gehe zu https://business.google.com
-**SCHRITT 2:** Klicke auf "Info bearbeiten"
-**SCHRITT 3:** Kopiere diese OPTIMIERTE BESCHREIBUNG:
+#### SCHRITT 1: GMB Beschreibung ändern
+1. Gehe zu: https://business.google.com
+2. Login mit deinem Google-Account
+3. Klicke auf dein Profil "Franken-Entrümpelung"
+4. Links: "Info bearbeiten" → "Unternehmensbeschreibung bearbeiten"
+5. **LÖSCHE ALLES** was da steht
+6. **KOPIERE EXAKT DIESEN TEXT:**
 
 ```
 Entrümpelung Nürnberger Land | Professionell • Schnell • Fair
 
-✓ Spezialisiert auf: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Feucht & alle Orte im Nürnberger Land
-✓ Auch in: Zirndorf, Stein, Oberasbach, Nürnberg, Fürth, Erlangen
+Spezialisiert auf: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Feucht & alle Orte im Nürnberger Land
+
+Auch verfügbar in: Zirndorf, Stein, Oberasbach, Nürnberg, Fürth, Erlangen
 
 Unsere Leistungen:
 • Haushaltsauflösung & Wohnungsentrümpelung
@@ -191,351 +61,589 @@ Unsere Leistungen:
 • Geschäfts- & Gewerbeauflösung
 • Wertanrechnung für verkaufsfähige Gegenstände
 
-⭐ 17x 5-Sterne auf Google
-📞 Kostenlose Besichtigung & Festpreise
-🚛 Aus Feucht - für die ganze Region
+17x 5-Sterne auf Google
+Kostenlose Besichtigung & Festpreise
+Aus Feucht - für die ganze Region
 
 Tel: 0170 8005653
 ```
 
-**SCHRITT 4:** Speichern!
+7. Klicke "Speichern"
 
-**🎯 PRIORITÄT A: Service Areas neu sortieren**
+#### SCHRITT 2: Service Areas NEU SORTIEREN
+1. GMB → "Info" → "Servicegebiete"
+2. Klicke "Alle entfernen" (falls schon welche da sind)
+3. **FÜGE IN GENAU DIESER REIHENFOLGE HINZU:**
+   - Lauf an der Pegnitz
+   - Wendelstein
+   - Altdorf bei Nürnberg
+   - Hersbruck
+   - Schwabach
+   - Zirndorf
+   - Stein
+   - Oberasbach
+   - Feucht
+   - Schwarzenbruck
+   - Eckental
+   - Röthenbach an der Pegnitz
+   - Schnaittach
+   - Nürnberg
+   - Fürth
+   - Erlangen
 
-**WICHTIG:** Google zeigt die ersten 3-5 Städte als deine "Hauptgebiete"!
+4. "Speichern"
 
-**OPTIMALE REIHENFOLGE:**
-1. 91207 Lauf an der Pegnitz
-2. 90530 Wendelstein
-3. 90518 Altdorf bei Nürnberg
-4. 91217 Hersbruck
-5. 91126 Schwabach
-6. 90513 Zirndorf
-7. 90547 Stein
-8. 90522 Oberasbach
-9. 90537 Feucht
-10. 90592 Schwarzenbruck
-11. 90542 Eckental
-12. 90552 Röthenbach
-13. 91220 Schnaittach
-14. 90402 Nürnberg
-15. 90762 Fürth
-16. 91052 Erlangen
+**WARUM DIESE REIHENFOLGE?** Google zeigt die ersten 3-5 als "Hauptgebiete"!
 
-**SCHRITT 1:** GMB → "Standorte bearbeiten" → "Servicegebiete"
-**SCHRITT 2:** Alle löschen
-**SCHRITT 3:** In genau dieser Reihenfolge neu eingeben
-**SCHRITT 4:** Speichern!
+#### SCHRITT 3: Fotos hochladen
+1. GMB → "Fotos"
+2. "Fotos hinzufügen"
+3. **DIESE FOTOS VON DEINER WEBSITE RUNTERLADEN:**
+   - Gehe zu: https://franken-entruempelung.vercel.app
+   - Rechtsklick auf Vorher/Nachher Bilder
+   - "Bild speichern unter"
+   - Speichere: wohnung-vorher.jpg, wohnung-nachher.jpg, keller-vorher.jpg, keller-nachher.jpg
 
-**🎯 PRIORITÄT A: Fotos uploaden**
+4. **IN GMB HOCHLADEN:**
+   - Kategorie "Vorher/Nachher" auswählen
+   - Alle 4 Bilder hochladen
+   - Beschriftung: "Wohnungsentrümpelung in [Stadt]"
 
-**BENÖTIGT:**
-- [ ] 5-10 Fotos von Vorher/Nachher (hast du schon auf der Website!)
-- [ ] 3-5 Fotos vom Team (Selfies beim Arbeiten sind ok!)
-- [ ] 1 Foto vom Leihwagen mit Magnetfolie (kommt später)
+5. **FALLS DU TEAM-FOTOS HAST:** Auch hochladen!
 
-**SCHRITT 1:** GMB → "Fotos"
-**SCHRITT 2:** Upload:
-   - Wohnung-Vorher/Nachher
-   - Keller-Vorher/Nachher
-   - Team-Fotos (falls vorhanden)
+✅ **CHECKPOINT:** GMB ist jetzt perfekt optimiert!
 
-#### ⏰ MITTAGS (1h): GOOGLE SEARCH CONSOLE CHECKEN
+---
 
-**SCHRITT 1:** Gehe zu https://search.google.com/search-console
-**SCHRITT 2:** Checke "Leistung" → Welche Keywords ranken schon?
-**SCHRITT 3:** Screenshot machen für Vergleich in 30 Tagen
-**SCHRITT 4:** Sitemap checken (sollte unter `/sitemap.xml` sein)
+### ⏰ 13:00-14:00 (1h): GOOGLE SEARCH CONSOLE CHECKEN
 
-#### ⏰ NACHMITTAGS (2h): ERSTE GOOGLE ADS KAMPAGNE
+1. Gehe zu: https://search.google.com/search-console
+2. Login mit Google-Account
+3. Klicke auf deine Property "franken-entruempelung.vercel.app"
+4. Links: "Leistung"
+5. **SCREENSHOT MACHEN** von aktuellen Rankings (für Vergleich in 30 Tagen)
+6. Notiere dir die Top 5 Keywords
 
-**🎯 PRIORITÄT A: Lauf an der Pegnitz - Dein Hauptziel!**
+**ERWARTUNG:** Jetzt wahrscheinlich noch wenig Traffic - wird besser!
 
-**KAMPAGNE 1: LAUF**
-- Budget: 20€/Tag (höchste Priorität!)
-- Laufzeit: Sofort starten
+---
 
-**KEYWORDS (Exakt passend):**
+### ⏰ 14:00-16:00 (2h): GOOGLE ADS KAMPAGNE 1 - LAUF
+
+#### VORBEREITUNG:
+**BRAUCHST DU:**
+- Google-Account
+- Kreditkarte für Zahlung
+- 20€/Tag Budget
+
+#### SETUP:
+1. Gehe zu: https://ads.google.com
+2. "Neue Kampagne erstellen"
+3. **ZIEL:** "Leads" auswählen
+4. **KAMPAGNENTYP:** "Suchnetzwerk"
+5. **NAME:** "Lauf - Entrümpelung"
+
+#### EINSTELLUNGEN:
+**STANDORTE:**
+- "Zielgebiete eingeben"
+- Tippe: "Lauf an der Pegnitz"
+- Radius: 10 km
+- "Speichern"
+
+**SPRACHE:**
+- Deutsch
+
+**BUDGET:**
+- Tagesbudget: 20€
+- "Durchschnittliches Tagesbudget"
+
+**GEBOTSSTRATEGIE:**
+- "Conversions maximieren"
+- (Falls nicht verfügbar: "Klicks maximieren")
+
+**KAMPAGNENSTART:**
+- Sofort
+
+#### ANZEIGENGRUPPE ERSTELLEN:
+**NAME:** "Entrümpelung Lauf - Keywords"
+
+**KEYWORDS HINZUFÜGEN:**
+Klicke "Keywords hinzufügen" und kopiere diese Liste:
+
 ```
 [entrümpelung lauf]
 [entrümpelung lauf an der pegnitz]
 [haushaltsauflösung lauf]
 [wohnungsauflösung lauf]
 [entrümpelungsfirma lauf]
+[wohnungsentrümpelung lauf]
+[kellerentrümpelung lauf]
 ```
 
-**ANZEIGE:**
+**WICHTIG:** Die `[eckigen Klammern]` bedeuten "Exakt passend" - UNBEDINGT SO EINGEBEN!
+
+#### ANZEIGE ERSTELLEN:
+
+**TITEL-ZEILEN (3 Stück):**
 ```
-Titel 1: Entrümpelung Lauf ✓
+Titel 1: Entrümpelung Lauf
 Titel 2: Aus Feucht | Nur 10km Entfernung
-Titel 3: Heute noch Termin | ⭐ 5.0★
-
-Beschreibung 1: Professionelle Entrümpelung in Lauf an der Pegnitz. ✓ Aus der Region ✓ Faire Preise ✓ Wertanrechnung. Anruf genügt: 0170 8005653!
-
-Beschreibung 2: 17x 5-Sterne auf Google. Kostenlose Besichtigung in Lauf! Familienunternehmen aus Feucht - wir kennen die Region!
-
-Anzeigenerweiterungen:
-- Anruf: 0170 8005653
-- Standort: Hauptstraße 53, Feucht (10km von Lauf!)
-- Sitelinks:
-  → Kostenlose Beratung
-  → Wertanrechnung
-  → Über uns
-  → Bewertungen
+Titel 3: Heute noch Termin | 5.0★
 ```
 
-**ANLEITUNG GOOGLE ADS SETUP:**
+**BESCHREIBUNGEN (2 Stück):**
+```
+Beschreibung 1: Professionelle Entrümpelung in Lauf an der Pegnitz. Aus der Region. Faire Preise. Wertanrechnung möglich. Anruf genügt: 0170 8005653!
 
-1. Gehe zu https://ads.google.com
-2. "Neue Kampagne erstellen"
-3. Ziel: "Leads"
-4. Kampagnentyp: "Suchnetzwerk"
-5. Name: "Lauf - Entrümpelung"
-6. Standorte: "Lauf an der Pegnitz" + 15km Umkreis
-7. Budget: 20€/Tag
-8. Gebotsstrategie: "Conversions maximieren"
-9. Anzeigengruppe erstellen: "Entrümpelung Lauf"
-10. Keywords eingeben (siehe oben)
-11. Anzeige erstellen (siehe oben)
-12. Kampagne starten!
+Beschreibung 2: 17x 5-Sterne auf Google. Kostenlose Besichtigung in Lauf! Familienunternehmen aus Feucht - wir kennen die Region.
+```
 
-**✅ TAG 1 CHECKLIST:**
-- [ ] GMB Beschreibung optimiert
-- [ ] GMB Service Areas neu sortiert
-- [ ] GMB Fotos uploaded
-- [ ] Google Search Console gecheckt
-- [ ] Google Ads Kampagne "Lauf" gestartet
+**FINALE URL:**
+```
+https://franken-entruempelung.vercel.app/entruempelung-lauf
+```
+
+#### ANZEIGENERWEITERUNGEN:
+1. **ANRUFERWEITERUNG:**
+   - Telefonnummer: 0170 8005653
+   - "Hinzufügen"
+
+2. **STANDORTERWEITERUNG:**
+   - "Mit Google My Business verknüpfen"
+   - Dein GMB-Profil auswählen
+
+3. **SITELINK-ERWEITERUNGEN:**
+   - Link 1: "Kostenlose Beratung" → /kontakt
+   - Link 2: "Wertanrechnung" → /wertanrechnung
+   - Link 3: "Bewertungen" → /bewertungen
+   - Link 4: "Über uns" → /ueber-uns
+
+#### KAMPAGNE STARTEN:
+- Alles nochmal überprüfen
+- "Kampagne veröffentlichen"
+- **FERTIG!**
+
+✅ **CHECKPOINT:** Deine erste Kampagne läuft!
 
 ---
 
-### **TAG 2 (DIENSTAG) - 6 STUNDEN**
+### ⏰ 16:00-17:00 (1h): CONVERSION TRACKING
 
-#### ⏰ VORMITTAGS (3h): GOOGLE ADS KAMPAGNE 2-4
+1. Google Ads → Oben rechts "Tools" → "Conversions"
+2. "Neue Conversion-Aktion"
+3. Typ: "Telefonanrufe"
+4. Quelle: "Anrufe von Anzeigen mit deiner Nummer"
+5. Name: "Anruf Lead"
+6. Conversion-Wert: "Keine" (wir tracken erstmal nur Anzahl)
+7. Zählmethode: "Jede Conversion"
+8. Conversion-Zeitraum: 30 Tage
+9. "Erstellen und fortfahren"
+10. "Fertig"
 
-**KAMPAGNE 2: WENDELSTEIN**
-- Budget: 15€/Tag
-- Keywords: [entrümpelung wendelstein], [haushaltsauflösung wendelstein], etc.
-- Anzeige: Ähnlich wie Lauf, aber "Nur 7km von Feucht!"
+**JETZT SIEHST DU:** Wie viele Anrufe von Google Ads kommen!
 
-**KAMPAGNE 3: ALTDORF**
+---
+
+### 📝 TAG 1 ABSCHLUSS-CHECKLIST:
+- [ ] GMB Beschreibung optimiert
+- [ ] GMB Service Areas neu sortiert  
+- [ ] GMB Fotos hochgeladen
+- [ ] Google Search Console gecheckt
+- [ ] Google Ads Kampagne "Lauf" läuft
+- [ ] Conversion Tracking aktiviert
+
+**ERWARTUNG TAG 1:** Erste Impressionen in Google Ads
+
+---
+
+## TAG 2 (DIENSTAG) - 6 STUNDEN
+
+### ⏰ 9:00-12:00 (3h): 3 WEITERE GOOGLE ADS KAMPAGNEN
+
+**WICHTIG:** Du kopierst jetzt die "Lauf"-Kampagne und änderst nur Stadt + Keywords!
+
+#### KAMPAGNE 2: WENDELSTEIN
+
+**SCHNELLMETHODE:**
+1. Google Ads → "Kampagnen"
+2. Klicke auf "Lauf - Entrümpelung"
+3. Oben: 3 Punkte "..." → "Kopieren"
+4. Kampagne wird dupliziert
+5. Umbenennen: "Wendelstein - Entrümpelung"
+
+**ÄNDERUNGEN:**
+- **Standort:** Wendelstein + 10km Radius (statt Lauf)
+- **Budget:** 15€/Tag (statt 20€)
+- **Keywords:** Ersetze "lauf" mit "wendelstein" in allen Keywords
+- **Anzeige:** Ersetze "Lauf" mit "Wendelstein" in allen Texten
+- **Anzeige:** Ändere "10km" zu "7km Entfernung"
+- **Finale URL:** /entruempelung-wendelstein
+
+**KEYWORDS:**
+```
+[entrümpelung wendelstein]
+[haushaltsauflösung wendelstein]
+[wohnungsauflösung wendelstein]
+[entrümpelungsfirma wendelstein]
+[wohnungsentrümpelung wendelstein]
+```
+
+#### KAMPAGNE 3: ALTDORF
+
+Gleiche Methode wie Wendelstein:
 - Budget: 10€/Tag
-- Keywords: [entrümpelung altdorf], [entrümpelung altdorf nürnberg], etc.
-- Anzeige: Ähnlich wie Lauf, aber "12km von Feucht!"
+- Standort: Altdorf bei Nürnberg + 10km
+- Entfernung: 12km
+- Keywords: mit "altdorf"
+- URL: /entruempelung-altdorf
 
-**KAMPAGNE 4: HERSBRUCK**
-- Budget: 10€/Tag
-- Keywords: [entrümpelung hersbruck], [haushaltsauflösung hersbruck], etc.
-- Anzeige: "28km von Feucht - Wir kommen gerne!"
+#### KAMPAGNE 4: HERSBRUCK
 
-**WICHTIG:**
-- Jede Stadt = EIGENE KAMPAGNE!
-- Warum? Google belohnt Relevanz!
-- Wenn jemand "Entrümpelung Lauf" sucht, soll er "Entrümpelung Lauf" in der Anzeige sehen!
+Gleiche Methode:
+- Budget: 10€/Tag  
+- Standort: Hersbruck + 15km (größerer Radius, weil Stadt weiter weg)
+- Entfernung: 28km
+- Keywords: mit "hersbruck"
+- URL: /entruempelung-hersbruck
 
-#### ⏰ MITTAGS (1h): CONVERSION TRACKING EINRICHTEN
+✅ **CHECKPOINT:** 4 Kampagnen laufen! Budget: 55€/Tag
 
-**SCHRITT 1:** Google Ads → "Tools" → "Conversions"
-**SCHRITT 2:** "Neue Conversion-Aktion"
-**SCHRITT 3:** Typ: "Telefonanrufe"
-**SCHRITT 4:** Quelle: "Anrufe von Anzeigen mit deiner Nummer"
-**SCHRITT 5:** Conversion-Name: "Anruf Lead"
-**SCHRITT 6:** Speichern!
+---
 
-**JETZT WEISST DU:** Wie viele Anrufe kommen von Google Ads!
+### ⏰ 13:00-14:00 (1h): TRACKING-TABELLE ERSTELLEN
 
-#### ⏰ NACHMITTAGS (2h): BEWERTUNGEN SAMMELN
+1. Öffne Google Sheets (https://sheets.google.com)
+2. "Neue Tabelle"
+3. Name: "Google Ads Tracking - Franken-Entrümpelung"
 
-**🎯 PRIORITÄT A: Bestehende Kunden anrufen**
+**SPALTEN:**
+| Datum | Kampagne | Impressionen | Klicks | CTR | CPC | Kosten | Anrufe | Aufträge | Umsatz |
+|-------|----------|--------------|--------|-----|-----|--------|--------|----------|--------|
 
-**SKRIPT:**
+**AB JETZT:** Jeden Abend 5 Minuten die Zahlen von Google Ads eintragen!
+
+**WO FINDE ICH DIE ZAHLEN?**
+- Google Ads → "Kampagnen" → Die Zahlen stehen da direkt
+
+---
+
+### ⏰ 14:00-17:00 (3h): BEWERTUNGEN SAMMELN
+
+#### SCHRITT 1: Review-Link erstellen
+1. Gehe zu: https://search.google.com/local/writereview
+2. Suche dein Unternehmen: "Franken-Entrümpelung Feucht"
+3. Kopiere den Link aus der URL-Leiste
+4. **SPEICHERE DIESEN LINK!** (z.B. in Notes-App)
+
+**BEISPIEL-LINK:**
+```
+https://g.page/r/XXXXXXX/review
+```
+
+#### SCHRITT 2: Kunden-Liste erstellen
+Schreibe auf (Excel/Sheets):
+| Name | Telefon | Wann Auftrag | Zufrieden? | Bewertung erhalten? |
+|------|---------|--------------|------------|---------------------|
+
+**ALLE BISHERIGEN KUNDEN** die du hattest!
+
+#### SCHRITT 3: Kunden anrufen
+
+**SKRIPT (auswendig lernen oder Notizen daneben haben):**
+
 ```
 "Hallo [Name], hier ist Batuhan von Franken-Entrümpelung!
 
-Ich wollte mich nochmal für Ihr Vertrauen bedanken und fragen, ob alles zu Ihrer Zufriedenheit war?
+Ich wollte mich nochmal für Ihr Vertrauen bedanken und 
+kurz nachfragen, ob alles zu Ihrer Zufriedenheit war?
 
-[Warte auf Antwort]
+[WARTE AUF ANTWORT]
 
-Das freut mich sehr! Könnten Sie uns einen großen Gefallen tun und uns eine kurze Google-Bewertung dalassen? Das würde uns sehr helfen!
+Das freut mich sehr! 
 
-Ich schicke Ihnen gleich den Link per WhatsApp/SMS.
+Ich habe eine Bitte: Könnten Sie uns eine kurze 
+Google-Bewertung dalassen? Das würde uns als kleines 
+Familienunternehmen extrem helfen!
 
-[LINK: https://g.page/r/YOUR_REVIEW_LINK/review]
+Ich schicke Ihnen gleich den Link per WhatsApp, 
+dauert nur 30 Sekunden!
 
-Vielen Dank!"
+[LINK SCHICKEN]
+
+Vielen Dank und bis bald!"
 ```
 
-**ZIEL:** 5-10 neue Bewertungen in Woche 1!
+**WHATSAPP-NACHRICHT (VORLAGE):**
+```
+Hallo [Name]! 👋
 
-**✅ TAG 2 CHECKLIST:**
-- [ ] Kampagne Wendelstein gestartet
-- [ ] Kampagne Altdorf gestartet
-- [ ] Kampagne Hersbruck gestartet
-- [ ] Conversion Tracking eingerichtet
-- [ ] 5-10 Kunden angerufen für Bewertungen
+Vielen Dank nochmal für Ihr Vertrauen! 
+
+Falls Sie zufrieden waren, würde uns eine kurze 
+Google-Bewertung extrem helfen! ⭐⭐⭐⭐⭐
+
+Hier der direkte Link (dauert nur 30 Sek):
+[DEIN REVIEW-LINK]
+
+Vielen Dank!
+Batuhan & Team
+```
+
+**ZIEL:** 5-10 Anrufe heute → 3-5 neue Bewertungen
+
+✅ **CHECKPOINT:** Erste neue Bewertungen kommen rein!
 
 ---
 
-### **TAG 3 (MITTWOCH) - 5 STUNDEN**
+### 📝 TAG 2 ABSCHLUSS-CHECKLIST:
+- [ ] Kampagne Wendelstein läuft
+- [ ] Kampagne Altdorf läuft
+- [ ] Kampagne Hersbruck läuft
+- [ ] Tracking-Tabelle erstellt
+- [ ] 5-10 Kunden für Bewertungen angerufen
+- [ ] Review-Link an Kunden geschickt
 
-#### ⏰ VORMITTAGS (2h): FACEBOOK LOKALE GRUPPEN
+**ERWARTUNG TAG 2:** Erste Klicks in allen Kampagnen
 
-**STRATEGIE:** In lokalen Facebook-Gruppen präsent sein (KEIN SPAM!)
+---
 
-**SCHRITT 1:** Suche Facebook-Gruppen:
+## TAG 3 (MITTWOCH) - 5 STUNDEN
+
+### ⏰ 9:00-11:00 (2h): FACEBOOK GRUPPEN
+
+#### SCHRITT 1: Relevante Gruppen finden
+1. Facebook öffnen
+2. Suchleiste oben: "[Stadt] Aktuelles" eingeben
+3. Filter: "Gruppen"
+
+**SUCHE NACH DIESEN GRUPPEN:**
 - "Lauf an der Pegnitz - Aktuelles"
+- "Lauf an der Pegnitz Info"
 - "Wendelstein Info"
+- "Altdorf Aktuelles"
+- "Hersbruck News"
+- "Schwabach Aktuelles"
 - "Flohmarkt Nürnberger Land"
 - "Nachbarschaftshilfe [Stadt]"
-- etc.
+- "Verschenken [Stadt]"
+- "Zu verschenken [Stadt]"
 
-**SCHRITT 2:** Gruppen beitreten (10-15 Gruppen)
+**ZIEL:** 15-20 Gruppen beitreten
 
-**SCHRITT 3:** **NICHT SOFORT WERBEN!**
-- Erst 1-2 Wochen "mitlesen"
-- Auf Fragen antworten
-- Hilfsbereit sein
+#### SCHRITT 2: Gruppen beitreten
+- Klicke "Beitreten"
+- Bei Frage nach Grund: "Ich wohne in der Region"
+- **WICHTIG:** NICHT SOFORT WERBEN!
 
-**SCHRITT 4:** Nach 1 Woche: Subtiler Post:
+#### SCHRITT 3: Was du in den nächsten 7 Tagen machst
+**TAG 3-9:** NUR MITLESEN! Auf Fragen antworten, hilfsbereit sein
+
+**AB TAG 10:** Subtil eigene Firma erwähnen (siehe Woche 2)
+
+✅ **CHECKPOINT:** 15-20 Gruppen beigetreten
+
+---
+
+### ⏰ 11:00-12:00 (1h): GOOGLE POSTS ERSTELLEN
+
+**WAS SIND GOOGLE POSTS?**
+- Erscheinen direkt in deinem GMB-Profil
+- Potentielle Kunden sehen sie, wenn sie dich googeln
+- Sehr effektiv für Sichtbarkeit!
+
+#### POST 1: ANGEBOT
+
+1. GMB → "Beiträge" → "Angebot hinzufügen"
+2. **TITEL:** "Kostenlose Besichtigung!"
+3. **TEXT:**
 ```
-"Hallo zusammen! Ich bin Batuhan, habe ein kleines Entrümpelungsunternehmen hier in Feucht und helfe Leuten in der Region beim Entrümpeln. Falls jemand Hilfe braucht oder jemanden kennt - gerne melden! 😊"
-```
+Entrümpelung in Lauf, Wendelstein, Altdorf & Umgebung!
 
-**🎯 WICHTIG:** Nicht aggressiv werben! Authentisch bleiben!
-
-#### ⏰ MITTAGS (1h): GOOGLE POSTS ERSTELLEN
-
-Google Posts erscheinen direkt in deinem GMB-Profil!
-
-**POST 1: ANGEBOT**
-```
-🏠 KOSTENLOSE BESICHTIGUNG!
-
-Entrümpelung in Lauf, Wendelstein & Umgebung!
 ✓ Faire Festpreise
-✓ Wertanrechnung
+✓ Wertanrechnung möglich
 ✓ Heute noch Termin möglich
 
-📞 0170 8005653
-
-[Foto: Vorher/Nachher]
+Jetzt anrufen: 0170 8005653
 ```
+4. **FOTO:** Vorher/Nachher Foto hochladen
+5. **CALL-TO-ACTION:** "Anrufen"
+6. **START/ENDE:** Heute bis in 7 Tagen
+7. "Veröffentlichen"
 
-**POST 2: KUNDENBEWERTUNG**
+#### POST 2: BEWERTUNG
+
+1. "Beitrag hinzufügen" → "Neuigkeiten"
+2. **TEXT:**
 ```
 ⭐⭐⭐⭐⭐ 5 STERNE!
 
-"Super kompetente und freundliche Mitarbeiter..."
+"Super kompetente und freundliche Mitarbeiter. 
+Arbeiten sorgfältig und ordentlich."
 
-Vielen Dank für das Vertrauen! 💚
+Vielen Dank für das Vertrauen!
 
 Jetzt auch in IHRER Stadt:
 Lauf • Wendelstein • Altdorf • Hersbruck
 
-[Foto: Team]
+📞 0170 8005653
 ```
+3. **FOTO:** Team-Foto (falls vorhanden)
+4. "Veröffentlichen"
 
-**SCHRITT 1:** GMB → "Beiträge" → "Neuer Beitrag"
-**SCHRITT 2:** Post erstellen
-**SCHRITT 3:** Foto hinzufügen
-**SCHRITT 4:** Call-to-Action: "Anrufen"
-**SCHRITT 5:** Veröffentlichen!
+**PLAN:** 2-3 Posts pro Woche erstellen!
 
-**🎯 ZIEL:** 2-3 Posts pro Woche!
-
-#### ⏰ NACHMITTAGS (2h): LOKALE VERZEICHNISSE
-
-**WICHTIG FÜR SEO:** Dein Unternehmen muss in lokalen Verzeichnissen stehen!
-
-**LISTE DER WICHTIGSTEN VERZEICHNISSE:**
-
-1. **GoLocal** (www.golocal.de)
-   - Kostenlos
-   - Eintrag erstellen
-   - Alle Infos + Fotos
-
-2. **11880.com**
-   - Kostenlos
-   - Basiseintrag
-
-3. **Gelbe Seiten** (www.gelbeseiten.de)
-   - Kostenlos
-   - Firmeneintrag
-
-4. **Yelp** (www.yelp.de)
-   - Kostenlos
-   - Profil erstellen
-
-5. **Wer liefert was** (www.wlw.de)
-   - Für Gewerbekunden
-   - Kostenloser Basiseintrag
-
-**SCHRITT 1:** Registrieren bei allen 5
-**SCHRITT 2:** Identische Daten verwenden (NAP = Name, Address, Phone)
-```
-Franken-Entrümpelung GbR
-Hauptstraße 53
-90537 Feucht
-0170 8005653
-```
-**SCHRITT 3:** Überall die gleiche Beschreibung
-**SCHRITT 4:** Fotos uploaden
-**SCHRITT 5:** Link zu deiner Website
-
-**EFFEKT:** Google sieht, dass dein Unternehmen "echt" ist → bessere Rankings!
-
-**✅ TAG 3 CHECKLIST:**
-- [ ] 10-15 Facebook-Gruppen beigetreten
-- [ ] 2 Google Posts veröffentlicht
-- [ ] 5 Verzeichnis-Einträge erstellt
+✅ **CHECKPOINT:** 2 Google Posts live
 
 ---
 
-### **TAG 4 (DONNERSTAG) - 4 STUNDEN**
+### ⏰ 13:00-15:00 (2h): LOKALE VERZEICHNISSE
 
-#### ⏰ VORMITTAGS (2h): GOOGLE ADS OPTIMIEREN
+**WARUM?** Google sieht: "Diese Firma ist echt!" → Besseres Ranking
 
-**SCHRITT 1:** Google Ads → "Kampagnen" → Performance checken
+#### VERZEICHNIS 1: GOLOCAL
+1. Gehe zu: www.golocal.de
+2. Oben rechts: "Anmelden"
+3. "Unternehmen eintragen"
+4. **EINGEBEN:**
+   - Firmenname: Franken-Entrümpelung GbR
+   - Straße: Hauptstraße 53
+   - PLZ/Ort: 90537 Feucht
+   - Telefon: 0170 8005653
+   - Email: info@franken-entruempelung.de
+   - Website: https://franken-entruempelung.vercel.app
+   - Kategorie: "Entrümpelung"
+   - Beschreibung: [Kopiere von GMB]
+5. Fotos hochladen
+6. "Speichern"
 
-**FRAGEN:**
-- Welche Kampagne läuft am besten?
-- Welche Keywords bringen Klicks?
-- Welche Keywords sind zu teuer?
+#### VERZEICHNIS 2: 11880.COM
+1. Gehe zu: www.11880.com
+2. "Unternehmen eintragen"
+3. Gleiche Daten wie GoLocal
+4. "Speichern"
 
-**SCHRITT 2:** Negative Keywords hinzufügen
+#### VERZEICHNIS 3: GELBE SEITEN
+1. Gehe zu: www.gelbeseiten.de
+2. "Firmeneintrag"
+3. Gleiche Daten
+4. "Speichern"
 
-**BEISPIELE:**
+#### VERZEICHNIS 4: YELP
+1. Gehe zu: www.yelp.de/biz/create
+2. Gleiche Daten
+3. "Speichern"
+
+#### VERZEICHNIS 5: WER LIEFERT WAS
+1. Gehe zu: www.wlw.de
+2. "Firmenprofil anlegen"
+3. Gleiche Daten
+4. "Speichern"
+
+**WICHTIG:** ÜBERALL die GLEICHEN Daten (Name, Adresse, Telefon)!
+
+✅ **CHECKPOINT:** 5 Verzeichnis-Einträge erstellt
+
+---
+
+### 📝 TAG 3 ABSCHLUSS-CHECKLIST:
+- [ ] 15-20 Facebook-Gruppen beigetreten
+- [ ] 2 Google Posts veröffentlicht
+- [ ] GoLocal Eintrag
+- [ ] 11880 Eintrag
+- [ ] Gelbe Seiten Eintrag
+- [ ] Yelp Eintrag
+- [ ] WLW Eintrag
+
+---
+
+## TAG 4 (DONNERSTAG) - 4 STUNDEN
+
+### ⏰ 9:00-11:00 (2h): GOOGLE ADS OPTIMIEREN
+
+#### SCHRITT 1: Performance checken
+1. Google Ads → "Kampagnen"
+2. **SCHAUE DIR AN:**
+   - Welche Kampagne hat die meisten Impressionen?
+   - Welche hat die meisten Klicks?
+   - Welche den besten CPC (Cost per Click)?
+   - Welche die beste CTR (Click-Through-Rate)?
+
+#### SCHRITT 2: Negative Keywords hinzufügen
+
+**WAS SIND NEGATIVE KEYWORDS?**
+- Wörter, bei denen deine Anzeige NICHT erscheinen soll
+- Spart Geld!
+
+**BEISPIEL:** Jemand sucht "Entrümpelung kostenlos" → Will nichts bezahlen → Verschwendet dein Budget!
+
+**ZU BLOCKIERENDE WÖRTER:**
+1. Google Ads → "Keywords" → "Negative Keywords"
+2. "Negative Keywords hinzufügen"
+3. **KOPIERE DIESE LISTE:**
+
 ```
-- "kostenlos" (Leute wollen nichts bezahlen)
-- "selber machen" (DIY-Leute)
-- "container mieten" (wollen keinen Service)
-- "gebraucht" (suchen Möbel)
-- "job" (suchen Arbeit)
+kostenlos
+gratis
+umsonst
+selber
+selbst
+diy
+container mieten
+gebraucht
+kaufen
+verkaufen
+job
+jobs
+karriere
+ausbildung
+minijob
 ```
 
-**SCHRITT 3:** Budget anpassen
-- Gute Kampagnen: Budget erhöhen
-- Schlechte Kampagnen: Budget senken oder pausieren
+4. Kampagne auswählen: "Alle Kampagnen"
+5. "Speichern"
 
-#### ⏰ NACHMITTAGS (2h): FLYER VORBEREITEN
+#### SCHRITT 3: Budget anpassen
 
-**🎯 PRIORITÄT A: Flyer-Design**
+**REGEL:**
+- Kampagne läuft gut (viele Klicks, niedrige CPC) → Budget +20%
+- Kampagne läuft schlecht (wenig Klicks, hohe CPC) → Budget -20% oder pausieren
 
-**OPTION 1:** Selbst designen (Canva.com - kostenlos)
-**OPTION 2:** Designer beauftragen (Fiverr.de - 20-50€)
+**BEISPIEL:**
+- Lauf: 20€ → läuft super → erhöhe auf 24€
+- Hersbruck: 10€ → kaum Klicks → senke auf 8€
 
-**INHALT DES FLYERS:**
+✅ **CHECKPOINT:** Ads optimiert, Budget effizienter verteilt
+
+---
+
+### ⏰ 11:00-13:00 (2h): FLYER VORBEREITEN
+
+#### OPTION A: SELBST DESIGNEN (KOSTENLOS)
+
+1. Gehe zu: www.canva.com
+2. "Registrieren" (kostenlos)
+3. "Flyer erstellen"
+4. Format: A5 (148 x 210 mm)
+
+**VORLAGE NUTZEN:**
+- Suche: "Flyer Entrümpelung"
+- Oder: "Flyer Handwerker"
+- Vorlage auswählen
+
+**TEXT ANPASSEN:**
 
 **VORDERSEITE:**
 ```
-🏠 ENTRÜMPELUNG IM NÜRNBERGER LAND
+ENTRÜMPELUNG NÜRNBERGER LAND
 
-✓ Aus Feucht - Ihr Nachbar hilft!
 ✓ Haushalts- & Wohnungsauflösung
 ✓ Keller, Dachboden, Garage
 ✓ Wertanrechnung möglich
 ✓ Kostenlose Besichtigung
 
-⭐⭐⭐⭐⭐ 17x 5-Sterne auf Google!
+⭐⭐⭐⭐⭐ 17x 5-Sterne auf Google
+
+AUS FEUCHT - FÜR DIE GANZE REGION!
 
 📞 0170 8005653
 🌐 franken-entruempelung.de
@@ -560,84 +668,152 @@ Hersbruck • Schwabach • Feucht
 Zirndorf • Stein • Oberasbach
 + ganze Region
 
-JETZT ANRUFEN:
+KOSTENLOSE BESICHTIGUNG:
 0170 8005653
+
+www.franken-entruempelung.de
+info@franken-entruempelung.de
+
+Franken-Entrümpelung GbR
+Hauptstraße 53, 90537 Feucht
 ```
 
-**SCHRITT 1:** Design fertigstellen
-**SCHRITT 2:** PDF exportieren
-**SCHRITT 3:** Online-Druckerei suchen (z.B. FLYERALARM.de)
+5. "Herunterladen" → PDF (Druckqualität)
 
-**FLYER BESTELLEN:**
-- Format: DIN A5 (148 x 210 mm)
-- Menge: 20.000 Stück
-- Papier: 135g/qm Bilderdruckpapier
-- Preis: ca. 200-300€
+#### OPTION B: DESIGNER BEAUFTRAGEN (50€)
 
-**VERTEILUNG:** Woche 3 (siehe unten)
+1. Gehe zu: www.fiverr.de
+2. Suche: "Flyer Design Deutsch"
+3. Designer für 30-50€ auswählen
+4. Brief schreiben mit allen Infos (siehe oben)
+5. 2-3 Tage warten
 
-**✅ TAG 4 CHECKLIST:**
-- [ ] Google Ads optimiert
-- [ ] Negative Keywords hinzugefügt
-- [ ] Flyer-Design fertig
-- [ ] Flyer bestellt
+#### FLYER DRUCKEN BESTELLEN
+
+1. Gehe zu: www.flyeralarm.com
+2. "Flyer" → "DIN A5"
+3. **AUSWAHL:**
+   - Papier: 135g/qm Bilderdruckpapier
+   - Menge: 20.000 Stück
+   - Druck: 4/4-farbig (Vorder- & Rückseite)
+
+4. PDF hochladen
+5. **PREIS:** ca. 200-300€
+6. Bestellen!
+7. **LIEFERZEIT:** 3-5 Werktage
+
+✅ **CHECKPOINT:** Flyer designed & bestellt
 
 ---
 
-### **TAG 5 (FREITAG) - 5 STUNDEN**
+### 📝 TAG 4 ABSCHLUSS-CHECKLIST:
+- [ ] Google Ads Performance gecheckt
+- [ ] Negative Keywords hinzugefügt
+- [ ] Budget angepasst
+- [ ] Flyer designt
+- [ ] Flyer bei Druckerei bestellt
 
-#### ⏰ VORMITTAGS (3h): MAGNETFOLIEN FÜR LEIHWAGEN
+---
 
-**🎯 PRIORITÄT A: Mobile Werbung!**
+## TAG 5 (FREITAG) - 5 STUNDEN
 
-**SCHRITT 1:** Online-Shop suchen (z.B. werbetechnik-shop.de)
-**SCHRITT 2:** Magnetfolie bestellen:
-- Größe: 2x A3 (420 x 297 mm) - Passt auf Autotüren
-- Design:
+### ⏰ 9:00-11:00 (2h): MAGNETFOLIEN BESTELLEN
+
+#### SCHRITT 1: Design erstellen
+
+1. Canva.com (wieder)
+2. "Benutzerdefinierte Größe" → 420 x 297 mm (A3)
+3. **DESIGN:**
 
 ```
-┌─────────────────────────────┐
-│  🏠 ENTRÜMPELUNG            │
-│  NÜRNBERGER LAND            │
-│                             │
-│  ✓ Haushaltsauflösung       │
-│  ✓ Wohnungsentrümpelung     │
-│  ✓ Kellerentrümpelung       │
-│                             │
-│  📞 0170 8005653            │
-│                             │
-│  Aus Feucht - für die       │
-│  ganze Region!              │
-└─────────────────────────────┘
+┌─────────────────────────────────┐
+│                                 │
+│   🏠 ENTRÜMPELUNG               │
+│   NÜRNBERGER LAND               │
+│                                 │
+│   ✓ Haushaltsauflösung          │
+│   ✓ Wohnungsentrümpelung        │
+│   ✓ Kellerentrümpelung          │
+│                                 │
+│   📞 0170 8005653               │
+│                                 │
+│   Aus Feucht - für die Region   │
+│                                 │
+└─────────────────────────────────┘
 ```
 
-- Kosten: ca. 100-150€
+**FARBEN:** Grün/Weiß (wie deine Website)
+**SCHRIFT:** Groß und gut lesbar!
 
-**VORTEIL:**
-- Leihwagen = Werbefläche!
-- Überall wo du hinfährst, sehen Leute dein Angebot!
-- Kostet fast nichts, bringt viel!
+4. Download als PNG (hohe Qualität)
 
-#### ⏰ NACHMITTAGS (2h): LOKALE ZEITUNGEN RECHERCHIEREN
+#### SCHRITT 2: Magnetfolien bestellen
 
-**ZIEL:** 2-3 Anzeigen in lokalen Zeitungen schalten
+1. Google: "Magnetfolie Autowerbung"
+2. Z.B.: www.werbetechnik-shop.de
+3. "Magnetfolie bedruckt"
+4. **AUSWAHL:**
+   - Größe: 2x A3 (420 x 297 mm)
+   - Stärke: 0,4-0,6mm
+   - Design hochladen
 
-**ZEITUNGEN NÜRNBERGER LAND:**
+5. **PREIS:** ca. 100-150€
+6. Bestellen!
+7. **LIEFERZEIT:** 5-7 Tage
 
-1. **"Nürnberger Land" (Zeitung)**
-   - Recherchiere: Anzeigenpreise
-   - Kontakt: Anzeigenabteilung anrufen
-   - Frage nach: "Kleinanzeige im Serviceteil"
-   - Erwarteter Preis: 80-150€
+**TIPP:** Magnet auf beide Autotüren kleben = mobile Werbung!
 
-2. **"Bote vom Nürnberger Land"**
-   - Ähnliches Vorgehen
+✅ **CHECKPOINT:** Magnetfolien bestellt
 
-3. **Lokale Anzeigenblätter (kostenlos)**
-   - Oft gibt es kostenlose Anzeigenblätter!
-   - Google: "Anzeigenblatt [Stadt]"
+---
 
-**ANZEIGENTEXT:**
+### ⏰ 11:00-14:00 (3h): LOKALE ZEITUNGEN RECHERCHIEREN
+
+#### SCHRITT 1: Zeitungen finden
+
+**GOOGLE-SUCHE:**
+- "Zeitung Nürnberger Land"
+- "Anzeigenblatt Lauf"
+- "Lokale Zeitung Altdorf"
+
+**WICHTIGE ZEITUNGEN:**
+
+1. **Nürnberger Land (Zeitung)**
+   - Website: [recherchieren]
+   - Telefon: [recherchieren]
+
+2. **Bote vom Nürnberger Land**
+   - Website: [recherchieren]
+   - Telefon: [recherchieren]
+
+3. **Lokale Anzeigenblätter** (oft KOSTENLOS!)
+   - Google: "Anzeigenblatt kostenlos [Stadt]"
+
+#### SCHRITT 2: Preise erfragen
+
+**TELEFON-SKRIPT:**
+```
+"Guten Tag,
+
+ich habe ein Entrümpelungsunternehmen hier in Feucht und 
+würde gerne eine Anzeige im Serviceteil schalten.
+
+Was würde eine Anzeige kosten?
+
+[Format]: Kleinanzeige, ca. 1/8 Seite
+
+[Wann]: Nächstmöglicher Termin
+
+Können Sie mir die Preise und Deadlines nennen?"
+```
+
+**NOTIERE:**
+| Zeitung | Preis | Deadline | Kontaktperson |
+|---------|-------|----------|---------------|
+
+#### SCHRITT 3: Anzeigentext vorbereiten
+
+**TEXT (UNIVERSAL):**
 ```
 ENTRÜMPELUNG NÜRNBERGER LAND
 
@@ -654,430 +830,413 @@ www.franken-entruempelung.de
 ⭐⭐⭐⭐⭐ 17x 5-Sterne auf Google
 ```
 
-**✅ TAG 5 CHECKLIST:**
-- [ ] Magnetfolien bestellt
-- [ ] Zeitungen recherchiert
-- [ ] Anzeigen geplant
+**BUDGET:** 2-3 Anzeigen à 80-100€ = ca. 200€
+
+✅ **CHECKPOINT:** Zeitungen recherchiert, Anzeigen geplant
 
 ---
 
-### **🎯 WOCHE 1 ZUSAMMENFASSUNG:**
+### 📝 TAG 5 ABSCHLUSS-CHECKLIST:
+- [ ] Magnetfolien-Design erstellt
+- [ ] Magnetfolien bestellt
+- [ ] 3-5 lokale Zeitungen recherchiert
+- [ ] Preise erfragt
+- [ ] Anzeigentext vorbereitet
+
+---
+
+## 🎯 WOCHE 1 ZUSAMMENFASSUNG
 
 **WAS DU ERREICHT HAST:**
-✅ Google My Business perfektioniert
-✅ 4 Google Ads Kampagnen am Laufen (Lauf, Wendelstein, Altdorf, Hersbruck)
-✅ Erste Bewertungen gesammelt
-✅ Lokale Verzeichnisse eingetragen
-✅ Flyer vorbereitet
-✅ Magnetfolien bestellt
-✅ Facebook-Gruppen beigetreten
-✅ Google Posts veröffentlicht
+- ✅ Google My Business perfektioniert
+- ✅ 4 Google Ads Kampagnen laufen (Lauf, Wendelstein, Altdorf, Hersbruck)
+- ✅ Conversion Tracking aktiv
+- ✅ 15-20 Facebook-Gruppen beigetreten
+- ✅ 5 Verzeichnis-Einträge erstellt
+- ✅ 2 Google Posts veröffentlicht
+- ✅ Flyer bestellt (20.000 Stück)
+- ✅ Magnetfolien bestellt
+- ✅ Lokale Zeitungen kontaktiert
+- ✅ 3-5 neue Bewertungen
 
 **ERWARTETE ERGEBNISSE:**
-→ 5-10 Anrufe
-→ 3-5 Aufträge
-→ Erste Rankings steigen
-→ Google kennt dein Gebiet
+- Anrufe: 5-10
+- Aufträge: 3-5
+- Umsatz: 2.400-4.000€
+- Investition: 400€
+
+**NÄCHSTE WOCHE:** Skalierung!
 
 ---
 
-## 📅 WOCHE 2: GOOGLE ADS & GMB DOMINANZ
-**Ziel:** Sichtbarkeit massiv erhöhen + Bewertungen sammeln
+# 📅 WOCHE 2: SKALIERUNG
 
-### **TAG 8 (MONTAG) - 5 STUNDEN**
+## TAG 8-12 (MO-FR) - Je 5 STUNDEN
 
-#### ⏰ VORMITTAGS (2h): MEHR GOOGLE ADS KAMPAGNEN
+### TÄGLICHE ROUTINE:
 
-**KAMPAGNE 5: SCHWABACH**
+#### ⏰ 9:00-10:00 (1h): GOOGLE ADS MANAGEMENT
+**JEDEN TAG:**
+1. Google Ads öffnen
+2. Performance aller Kampagnen checken
+3. Tracking-Tabelle updaten
+4. Budget anpassen (gute Kampagnen +, schlechte -)
+5. Neue negative Keywords hinzufügen
+
+#### ⏰ 10:00-11:00 (1h): NEUE KAMPAGNEN STARTEN
+
+**TAG 8: KAMPAGNE 5 - SCHWABACH**
 - Budget: 12€/Tag
-- Große Stadt (41.000 Einw.) = mehr Potential!
+- Setup wie Woche 1
+- Keywords mit "schwabach"
 
-**KAMPAGNE 6: ZIRNDORF**
+**TAG 9: KAMPAGNE 6 - ZIRNDORF**
 - Budget: 12€/Tag
-- Große Stadt (26.000 Einw.), gute Kaufkraft!
+- Keywords mit "zirndorf"
 
-**KAMPAGNE 7: STEIN**
+**TAG 10: KAMPAGNE 7 - STEIN**
 - Budget: 8€/Tag
-- Nähe zu Nürnberg, aber weniger Konkurrenz!
+- Keywords mit "stein"
 
-**KAMPAGNE 8: OBERASBACH**
+**TAG 11: KAMPAGNE 8 - OBERASBACH**
 - Budget: 8€/Tag
-- Gehobene Gegend = höhere Preise möglich!
+- Keywords mit "oberasbach"
 
-**GESAMTBUDGET PRO TAG:** ca. 90€
-**GESAMTBUDGET PRO MONAT:** ca. 2.700€
+**TAG 12: KAMPAGNE 9 - NÜRNBERG (BONUS)**
+- Budget: 15€/Tag
+- **NUR FALLS BUDGET ÜBRIG!**
+- Keywords: [entrümpelung nürnberg], [haushaltsauflösung nürnberg]
 
-**ZU TEUER?** Reduziere Budget pro Kampagne um 20%!
+**GESAMT NACH WOCHE 2:** 90-100€/Tag Budget!
 
-#### ⏰ MITTAGS (1h): GOOGLE ADS PERFORMANCE REPORT
-
-**SCHRITT 1:** Excel/Google Sheets öffnen
-**SCHRITT 2:** Tracking-Tabelle erstellen:
-
-```
-| Datum | Kampagne | Impressionen | Klicks | CTR | CPC | Kosten | Anrufe | Aufträge |
-|-------|----------|--------------|--------|-----|-----|--------|--------|----------|
-| 06.02 | Lauf     | 234          | 12     | 5,1%| 4,20€| 50,40€ | 3      | 1        |
-| 06.02 | Wendelst.| 156          | 8      | 5,1%| 3,80€| 30,40€ | 2      | 1        |
-| ...   | ...      | ...          | ...    | ... | ... | ...    | ...    | ...      |
-```
-
-**SCHRITT 3:** Jeden Tag 5 Minuten aktualisieren!
-**WARUM?** Du siehst genau, was funktioniert!
-
-#### ⏰ NACHMITTAGS (2h): BEWERTUNGEN-PUSH
-
-**🎯 ZIEL:** 10 neue Bewertungen diese Woche!
+#### ⏰ 11:00-12:00 (1h): BEWERTUNGEN SAMMELN
 
 **STRATEGIE:**
-1. Nach jedem Auftrag: Direkt vor Ort fragen!
-2. Smartphone rausholen
-3. Google Review Link öffnen
-4. Kunde lässt Bewertung da (dauert 30 Sekunden)
+1. Nach jedem Auftrag: Direkt VOR ORT fragen!
+2. Smartphone raus
+3. Google Review-Link öffnen
+4. Kunde lässt Bewertung da (30 Sekunden)
 
-**TRICK:** Anreiz schaffen
+**INCENTIVE:**
 ```
-"Wenn Sie uns eine Google-Bewertung dalassen, 
-bekommen Sie 10€ Rabatt auf den nächsten Auftrag!"
-```
-
-**LEGAL?** Ja, solange die Bewertung ehrlich ist!
-
-### **TAG 9-12 (DI-FR) - Je 4 STUNDEN/TAG**
-
-**FOKUS:** Google Ads optimieren + Calls beantworten + Aufträge abarbeiten
-
-**TÄGLICHE ROUTINE:**
-
-**MORGENS (1h):**
-- [ ] Google Ads Performance checken
-- [ ] Kampagnen mit schlechter Performance pausieren
-- [ ] Budget umverteilen zu guten Kampagnen
-- [ ] Neue Keywords testen
-
-**MITTAGS (1h):**
-- [ ] Anrufe zurückrufen
-- [ ] Kostenvoranschläge erstellen
-- [ ] Termine vereinbaren
-
-**NACHMITTAGS (2h):**
-- [ ] Aufträge abarbeiten
-- [ ] Bewertungen sammeln
-- [ ] Facebook-Gruppen checken (gibt's Anfragen?)
-
-**✅ WOCHE 2 ZUSAMMENFASSUNG:**
-
-**WAS DU ERREICHT HAST:**
-✅ 8 Google Ads Kampagnen am Laufen (alle wichtigen Städte!)
-✅ 10+ neue Bewertungen
-✅ Performance-Tracking etabliert
-✅ Routine entwickelt
-
-**ERWARTETE ERGEBNISSE:**
-→ 20-30 Anrufe
-→ 12-18 Aufträge
-→ Rankings steigen weiter
-→ Erste Mundpropaganda
-
----
-
-## 📅 WOCHE 3: OFFLINE MARKETING & SICHTBARKEIT
-**Ziel:** Überall sichtbar sein + Lokaler Held werden
-
-### **TAG 15 (MONTAG) - 6 STUNDEN**
-
-#### ⏰ GANZTAGS: FLYER-VERTEILUNG STARTEN
-
-**🎯 PRIORITÄT A: 20.000 Flyer verteilen!**
-
-**OPTION 1: SELBST VERTEILEN (Kostenlos, aber zeitintensiv)**
-
-**PLAN:**
-- Woche 3+4: Jeden Tag 2-3 Stunden Flyer verteilen
-- Pro Stunde: ca. 100-150 Briefkästen
-- Gesamt: ca. 20 Stunden für 20.000 Flyer
-
-**GEBIETE (PRIORISIERT):**
-
-| Stadt | Flyer-Menge | Fokus-Gebiete |
-|-------|-------------|---------------|
-| **Lauf** | 5.000 | Innenstadt + Wohngebiete |
-| **Wendelstein** | 3.000 | Gesamtes Stadtgebiet |
-| **Altdorf** | 3.000 | Gesamtes Stadtgebiet |
-| **Hersbruck** | 2.500 | Altstadt + Neubaugebiete |
-| **Schwabach** | 3.000 | Stadtteile nah an Feucht |
-| **Feucht** | 1.500 | Eigener Ort |
-| **Rest** | 2.000 | Zirndorf, Stein, Oberasbach |
-
-**TIPPS:**
-- Morgens/Vormittags verteilen (weniger verdächtig)
-- Nicht zu viele auf einmal in einem Gebiet (sieht nach Spam aus)
-- Ordentlich in Briefkasten stecken (nicht zusammengeknüllt)
-- Route planen (Google Maps)
-
-**OPTION 2: VERTEILDIENST BEAUFTRAGEN (200-400€ extra)**
-
-**ANBIETER:**
-- Deutsche Post (Dialogpost)
-- Lokale Verteildienste
-- Zeitungszusteller
-
-**VORTEIL:** Du sparst Zeit!
-**NACHTEIL:** Kostet 200-400€ mehr
-
-**EMPFEHLUNG:** Mix! 50% selbst, 50% Dienst
-
-#### ⏰ PARALLEL: MAGNETFOLIEN ANBRINGEN
-
-**SCHRITT 1:** Folien sind angekommen
-**SCHRITT 2:** Leihwagen holen
-**SCHRITT 3:** Magnetfolien auf beide Seiten kleben
-**SCHRITT 4:** Foto machen für GMB + Website!
-
-**EFFEKT:** Überall wo du hinfährst = Werbung! 🚗
-
-### **TAG 16-19 (DI-FR) - Je 5 STUNDEN**
-
-**FOKUS:** Flyer verteilen + Aufträge abarbeiten + Google Ads laufen lassen
-
-**TÄGLICHE ROUTINE:**
-
-**MORGENS (2h):**
-- [ ] 200-300 Flyer verteilen
-
-**MITTAGS (1h):**
-- [ ] Anrufe beantworten
-- [ ] Google Ads checken
-
-**NACHMITTAGS (2h):**
-- [ ] Aufträge abarbeiten
-- [ ] Bewertungen sammeln
-
-**✅ WOCHE 3 ZUSAMMENFASSUNG:**
-
-**WAS DU ERREICHT HAST:**
-✅ 10.000-15.000 Flyer verteilt
-✅ Magnetfolien auf Leihwagen
-✅ Überall sichtbar!
-✅ Lokale Zeitungsanzeigen geschaltet
-
-**ERWARTETE ERGEBNISSE:**
-→ 30-40 Anrufe (Google Ads + Flyer!)
-→ 18-25 Aufträge
-→ Bekanntheit steigt massiv
-→ Erste Empfehlungen kommen
-
----
-
-## 📅 WOCHE 4: SKALIERUNG & AUTOMATISIERUNG
-**Ziel:** System optimieren + Für Zukunft planen
-
-### **TAG 22 (MONTAG) - 4 STUNDEN**
-
-#### ⏰ VORMITTAGS (2h): GOOGLE ADS MEISTERKAMPAGNE
-
-**🎯 NEUE STRATEGIE: "Smart Campaigns"**
-
-**WARUM?**
-- Nach 3 Wochen: Google hat genug Daten!
-- Jetzt kann Google selbst optimieren!
-
-**SCHRITT 1:** Neue Kampagne erstellen
-**SCHRITT 2:** Typ: "Smart Campaign"
-**SCHRITT 3:** Gebotsstrategie: "Conversions maximieren"
-**SCHRITT 4:** Alle Keywords aus allen Kampagnen kombinieren
-**SCHRITT 5:** Budget: 50€/Tag
-**SCHRITT 6:** Laufen lassen!
-
-**EFFEKT:** Google lernt, welche Kombos am besten funktionieren!
-
-#### ⏰ NACHMITTAGS (2h): PARTNERSCHAFTEN VOR ORT
-
-**🎯 ZIEL:** Lokale Partner finden!
-
-**POTENTIELLE PARTNER:**
-
-1. **Immobilienmakler**
-   - Brauchen oft Entrümpelungen
-   - WIN-WIN: Du gibst ihnen 10% Provision für jede Vermittlung
-
-2. **Hausmeister-Services**
-   - Kennen viele Vermieter
-   - Ähnliches Modell
-
-3. **Bestattungsunternehmen**
-   - Nachlassauflösungen
-   - Sensibles Thema, aber hohes Volumen
-
-4. **Seniorenheime**
-   - Zimmerauflösungen
-   - Regelmäßige Aufträge!
-
-**AKTION:**
-- Liste mit 20 potentiellen Partnern erstellen
-- Anrufen: "Hallo, ich habe ein Entrümpelungsunternehmen hier in Feucht. Ich suche Partner für Empfehlungen. Bei jeder Vermittlung gibt's 10% Provision. Interesse?"
-
-**ERWARTUNG:** 3-5 Partner gewinnen!
-
-### **TAG 23-26 (DI-FR) - Je 3 STUNDEN**
-
-**FOKUS:** System am Laufen halten + Neue Partner kontaktieren
-
-**TÄGLICHE ROUTINE:**
-
-**MORGENS (1h):**
-- [ ] Google Ads Performance kurz checken
-- [ ] Top-Kampagnen am Laufen lassen
-- [ ] Schlechte Kampagnen deaktivieren
-
-**MITTAGS (1h):**
-- [ ] Anrufe/Anfragen bearbeiten
-- [ ] Termine vereinbaren
-
-**NACHMITTAGS (1h):**
-- [ ] Partner kontaktieren
-- [ ] Netzwerk aufbauen
-- [ ] Bewertungen sammeln
-
-**✅ WOCHE 4 ZUSAMMENFASSUNG:**
-
-**WAS DU ERREICHT HAST:**
-✅ Google Ads optimiert (Smart Campaigns)
-✅ 3-5 lokale Partner gewonnen
-✅ System läuft automatisch
-✅ Alle Flyer verteilt
-
-**ERWARTETE ERGEBNISSE:**
-→ 40-50 Anrufe
-→ 25-30 Aufträge
-→ Terminkalender voll für Monat 2!
-→ Partnerempfehlungen starten
-
----
-
-## 📊 ERWARTETE ERGEBNISSE PRO WOCHE
-
-### **ÜBERSICHT: 30-TAGE-ENTWICKLUNG**
-
-| Woche | Anrufe | Aufträge | Umsatz | Investition | ROI |
-|-------|--------|----------|--------|-------------|-----|
-| **Woche 1** | 5-10 | 3-5 | 2.400-4.000€ | 400€ | 500% |
-| **Woche 2** | 20-30 | 12-18 | 9.600-14.400€ | 600€ | 1.500% |
-| **Woche 3** | 30-40 | 18-25 | 14.400-20.000€ | 500€ | 2.800% |
-| **Woche 4** | 40-50 | 25-30 | 20.000-24.000€ | 200€ | 9.900% |
-| **GESAMT** | **95-130** | **58-78** | **46.400-62.400€** | **1.700€** | **2.600%** |
-
-**DURCHSCHNITT PRO AUFTRAG:** 800€
-
-### **GOOGLE RANKINGS ENTWICKLUNG:**
-
-| Stadt | Woche 1 | Woche 2 | Woche 3 | Woche 4 |
-|-------|---------|---------|---------|---------|
-| **Lauf** | Pos. 8-10 | Pos. 5-7 | Pos. 3-5 | **Pos. 1-3** |
-| **Wendelstein** | Pos. 10+ | Pos. 6-8 | Pos. 4-6 | **Pos. 2-4** |
-| **Altdorf** | Pos. 10+ | Pos. 7-9 | Pos. 4-6 | **Pos. 1-3** |
-| **Hersbruck** | Nicht sichtbar | Pos. 8-10 | Pos. 5-7 | **Pos. 2-4** |
-| **Schwabach** | Pos. 10+ | Pos. 8-10 | Pos. 6-8 | **Pos. 4-6** |
-
-**ERKLÄRUNG:**
-- Woche 1: Google lernt dich kennen
-- Woche 2: Erste Rankings entstehen
-- Woche 3: Rankings steigen (Bewertungen + Aktivität!)
-- Woche 4: **Top-Platzierungen** in kleineren Städten!
-
----
-
-## 📝 VORLAGEN & TEMPLATES
-
-### **VORLAGE 1: TELEFONSKRIPT**
-
-**WENN KUNDEN ANRUFEN:**
-
-```
-"Franken-Entrümpelung, Batuhan am Apparat, guten Tag!
-
-[Kunde erklärt sein Problem]
-
-Verstehe, das kriegen wir hin! Darf ich kurz ein paar Fragen stellen?
-
-1. Wo befindet sich das Objekt? [Stadt/PLZ]
-2. Was genau muss entrümpelt werden? [Wohnung/Keller/etc.]
-3. Ungefähre Größe? [qm oder Zimmeranzahl]
-4. Gibt es verwertbare Gegenstände? [Wertanrechnung!]
-5. Wie dringend ist es?
-
-Perfect! Ich kann Ihnen ein kostenloses Angebot machen. 
-Am besten schaue ich mir das mal vor Ort an.
-
-Passt Ihnen [Datum] um [Uhrzeit]?
-
-Super! Dann bis dahin!
-
-Ach, und falls es Ihnen gefällt, würden wir uns über eine 
-Google-Bewertung sehr freuen - das hilft uns als kleines 
-Unternehmen extrem!
-
-Bis bald!"
+"Wenn Sie uns jetzt eine Google-Bewertung dalassen, 
+gebe ich Ihnen 10€ Rabatt auf die Rechnung!"
 ```
 
-### **VORLAGE 2: WHATSAPP NACHRICHT FÜR BEWERTUNGEN**
+**ZIEL WOCHE 2:** 10+ neue Bewertungen
 
-```
-Hallo [Name]! 👋
+#### ⏰ 13:00-14:00 (1h): FACEBOOK-GRUPPEN AKTIVITÄT
 
-Vielen Dank nochmal für Ihr Vertrauen! Ich hoffe, Sie waren 
-mit unserer Arbeit zufrieden? 😊
+**AB TAG 10 DARFST DU WERBEN** (nach 7 Tagen Mitgliedschaft)
 
-Falls ja, würde es uns als kleines Familienunternehmen 
-extrem helfen, wenn Sie uns eine kurze Google-Bewertung 
-dalassen könnten! ⭐⭐⭐⭐⭐
-
-Hier der direkte Link (dauert nur 30 Sekunden):
-[DEIN REVIEW-LINK]
-
-Vielen Dank & bis zum nächsten Mal!
-Batuhan & das Franken-Entrümpelung Team 💚
-```
-
-### **VORLAGE 3: FACEBOOK-POST (NACH 1 WOCHE IN GRUPPEN)**
-
+**POST IN GRUPPEN:**
 ```
 Hallo zusammen! 👋
 
-Ich bin Batuhan, wohne hier in Feucht und habe vor ein paar 
-Monaten zusammen mit meiner Familie ein kleines 
-Entrümpelungsunternehmen gegründet. 
+Ich bin Batuhan, wohne hier in Feucht und habe 
+zusammen mit meiner Familie ein Entrümpelungsunternehmen.
 
-Wir helfen Leuten in Lauf, Wendelstein, Altdorf und der ganzen 
-Region beim Entrümpeln, Haushaltsauflösungen, Keller ausräumen, 
-etc. 🏠
+Wir helfen Leuten in Lauf, Wendelstein, Altdorf und 
+der ganzen Region beim Entrümpeln, Haushaltsauflösungen, 
+Keller ausräumen, etc.
 
-Falls jemand Hilfe braucht oder jemanden kennt - gerne melden! 
-Kostenlose Besichtigung & faire Preise. Als lokales Unternehmen 
-sind wir schnell vor Ort und kennen die Region! 😊
+Falls jemand Hilfe braucht oder jemanden kennt - 
+gerne melden! Kostenlose Besichtigung & faire Preise.
 
 📞 0170 8005653
 🌐 franken-entruempelung.de
 
-⭐⭐⭐⭐⭐ 17+ Google-Bewertungen
+⭐ 20+ Google 5-Sterne-Bewertungen
 
-Schönen Tag euch allen! ☀️
+Schönen Tag!
 Batuhan
 ```
 
-### **VORLAGE 4: EMAIL AN PARTNER (IMMOBILIENMAKLER)**
+**WICHTIG:** Nur 1x pro Woche pro Gruppe posten! Sonst = Spam!
+
+#### ⏰ 14:00-15:00 (1h): AUFTRÄGE ABARBEITEN / PLANUNG
+
+- Termine koordinieren
+- Kostenvoranschläge erstellen
+- Mit Kunden telefonieren
+- Route planen
+
+---
+
+### 📝 WOCHE 2 ZUSAMMENFASSUNG
+
+**WAS DU ERREICHT HAST:**
+- ✅ 8-9 Google Ads Kampagnen laufen
+- ✅ 10+ neue Bewertungen
+- ✅ In Facebook-Gruppen aktiv
+- ✅ Performance-Tracking etabliert
+
+**ERWARTETE ERGEBNISSE:**
+- Anrufe: 20-30
+- Aufträge: 12-18
+- Umsatz: 9.600-14.400€
+- Investition: 600€
+
+---
+
+# 📅 WOCHE 3: OFFLINE MARKETING
+
+## TAG 15 (MONTAG) - 6 STUNDEN
+
+### ⏰ 9:00-12:00 (3h): FLYER VERTEILUNG STARTEN
+
+**FLYER SIND ANGEKOMMEN!** (Lieferung nach 5-7 Tagen)
+
+#### OPTION 1: SELBST VERTEILEN
+
+**PLAN:**
+- Nächste 2 Wochen: Täglich 2-3h
+- Pro Stunde: 100-150 Briefkästen
+- Gesamt: 20.000 Flyer in 15-20 Stunden
+
+**VERTEILPLAN:**
+
+| Stadt | Flyer | Gebiete | Wann |
+|-------|-------|---------|------|
+| **Lauf** | 5.000 | Innenstadt, Wohngebiete | Woche 3 |
+| **Wendelstein** | 3.000 | Gesamtes Stadtgebiet | Woche 3 |
+| **Altdorf** | 3.000 | Gesamtes Stadtgebiet | Woche 3 |
+| **Hersbruck** | 2.500 | Altstadt, Neubaugebiete | Woche 4 |
+| **Schwabach** | 3.000 | Stadtteile nah an Feucht | Woche 4 |
+| **Feucht** | 1.500 | Eigener Ort | Woche 4 |
+| **Rest** | 2.000 | Zirndorf, Stein, Oberasbach | Woche 4 |
+
+**HEUTE (TAG 15): LAUF - TEIL 1**
+- Route planen (Google Maps)
+- Innenstadt abdecken
+- 1.500 Flyer verteilen (3h)
+
+**TIPPS:**
+- Morgens 9-12 Uhr (weniger verdächtig)
+- Ordentlich in Briefkasten stecken
+- "Bitte keine Werbung"-Aufkleber respektieren!
+- Nicht zu viele auf einmal in einem Gebiet
+
+#### OPTION 2: VERTEILDIENST BEAUFTRAGEN
+
+**KOSTEN:** 200-400€ extra
+
+**ANBIETER:**
+- Deutsche Post "Dialogpost"
+- Lokale Verteildienste googeln
+
+**EMPFEHLUNG:** 50/50 - Du machst Lauf + Wendelstein selbst, Rest beauftragen!
+
+✅ **CHECKPOINT:** 1.500 Flyer verteilt
+
+---
+
+### ⏰ 13:00-15:00 (2h): MAGNETFOLIEN ANBRINGEN
+
+**FOLIEN SIND ANGEKOMMEN!**
+
+1. Leihwagen holen
+2. Auto waschen (Türen müssen sauber sein!)
+3. Magnetfolien auf beide Türen kleben
+4. **FOTO MACHEN** für:
+   - GMB
+   - Website
+   - Facebook
+   - Google Ads
+
+5. **AB JETZT:** Überall wo du hinfährst = Werbung!
+
+✅ **CHECKPOINT:** Mobile Werbung aktiv!
+
+---
+
+### 📝 TAG 15 ABSCHLUSS:
+- [ ] 1.500 Flyer in Lauf verteilt
+- [ ] Magnetfolien auf Auto
+- [ ] Foto gemacht & hochgeladen
+
+---
+
+## TAG 16-19 (DI-FR) - Je 5 STUNDEN
+
+### TÄGLICHE ROUTINE:
+
+#### ⏰ 9:00-11:00 (2h): FLYER VERTEILEN
+- Täglich weitere 1.000-1.500 Flyer
+- Systematisch Gebiete abarbeiten
+
+#### ⏰ 11:00-12:00 (1h): GOOGLE ADS CHECKEN
+- Performance kurz durchgehen
+- Budget anpassen
+- Tracking updaten
+
+#### ⏰ 13:00-15:00 (2h): AUFTRÄGE ABARBEITEN
+- Termine wahrnehmen
+- Kostenvoranschläge erstellen
+- Bewertungen sammeln
+
+**ERWARTUNG:** Anrufe steigen wegen Flyer + Google Ads!
+
+---
+
+### 📝 WOCHE 3 ZUSAMMENFASSUNG
+
+**WAS DU ERREICHT HAST:**
+- ✅ 10.000-15.000 Flyer verteilt
+- ✅ Magnetfolien auf Auto
+- ✅ Überall sichtbar
+- ✅ 2-3 Zeitungsanzeigen geschaltet
+
+**ERWARTETE ERGEBNISSE:**
+- Anrufe: 30-40
+- Aufträge: 18-25
+- Umsatz: 14.400-20.000€
+- Investition: 500€
+
+---
+
+# 📅 WOCHE 4: AUTOMATISIERUNG
+
+## TAG 22-26 (MO-FR) - Je 4 STUNDEN
+
+### ⏰ 9:00-10:00 (1h): GOOGLE ADS SMART CAMPAIGNS
+
+**NACH 3 WOCHEN:** Google hat genug Daten!
+
+**NEUE STRATEGIE:**
+1. Neue Kampagne erstellen
+2. Typ: "Smart Campaign"
+3. Gebotsstrategie: "Conversions maximieren"
+4. Alle Keywords kombinieren
+5. Budget: 50€/Tag
+6. Laufen lassen!
+
+**EFFEKT:** Google optimiert selbst!
+
+---
+
+### ⏰ 10:00-12:00 (2h): PARTNERSCHAFTEN AUFBAUEN
+
+**POTENTIELLE PARTNER:**
+
+#### 1. IMMOBILIENMAKLER
+**WIE FINDEN?**
+- Google: "Immobilienmakler [Stadt]"
+- Liste mit 20 Maklern erstellen
+
+**ANRUF-SKRIPT:**
+```
+"Guten Tag,
+
+ich habe ein Entrümpelungsunternehmen hier in Feucht.
+
+Als Immobilienmakler haben Sie sicherlich oft das 
+Problem, dass Objekte entrümpelt werden müssen.
+
+Ich biete Ihnen eine Zusammenarbeit an:
+- Schnelle Termine
+- Professionelle Abwicklung
+- 10% Provision für jede Vermittlung
+
+Interesse an einem kurzen Gespräch?"
+```
+
+#### 2. HAUSMEISTER-SERVICES
+- Gleiche Strategie
+- Google: "Hausmeisterservice [Stadt]"
+
+#### 3. BESTATTUNGSUNTERNEHMEN
+- Sensibles Thema!
+- Brief oder Email schreiben (nicht anrufen)
+
+#### 4. SENIORENHEIME
+- Google: "Seniorenheim [Stadt]"
+- Nach Verwaltungsleiter fragen
+- Regelmäßige Zimmerauflösungen anbieten
+
+**ZIEL WOCHE 4:** 3-5 Partner gewinnen
+
+---
+
+### ⏰ 13:00-14:00 (1h): RESTLICHE FLYER VERTEILEN
+
+- Finale 5.000 Flyer in Hersbruck, Schwabach, Feucht
+- Systematisch abschließen
+
+---
+
+### ⏰ 14:00-15:00 (1h): AUFTRÄGE / PLANUNG
+
+- Termine koordinieren
+- Bewertungen sammeln
+- Partner-Meetings
+
+---
+
+### 📝 WOCHE 4 ZUSAMMENFASSUNG
+
+**WAS DU ERREICHT HAST:**
+- ✅ Smart Campaigns aktiv
+- ✅ 3-5 Partner gewonnen
+- ✅ Alle 20.000 Flyer verteilt
+- ✅ System läuft automatisch
+
+**ERWARTETE ERGEBNISSE:**
+- Anrufe: 40-50
+- Aufträge: 25-30
+- Umsatz: 20.000-24.000€
+- Investition: 200€
+
+---
+
+# 📊 30-TAGE-GESAMTERGEBNIS
+
+| Woche | Anrufe | Aufträge | Umsatz | Investition | Profit |
+|-------|--------|----------|--------|-------------|--------|
+| Woche 1 | 5-10 | 3-5 | 2.400-4.000€ | 400€ | 2.000-3.600€ |
+| Woche 2 | 20-30 | 12-18 | 9.600-14.400€ | 600€ | 9.000-13.800€ |
+| Woche 3 | 30-40 | 18-25 | 14.400-20.000€ | 500€ | 13.900-19.500€ |
+| Woche 4 | 40-50 | 25-30 | 20.000-24.000€ | 200€ | 19.800-23.800€ |
+| **TOTAL** | **95-130** | **58-78** | **46.400-62.400€** | **1.700€** | **44.700-60.700€** |
+
+**ROI: 2.600%**
+
+---
+
+# 🎯 VORLAGEN ZUM KOPIEREN
+
+## VORLAGE 1: WHATSAPP FÜR BEWERTUNGEN
+
+```
+Hallo [Name]! 👋
+
+Vielen Dank nochmal für Ihr Vertrauen!
+
+Falls Sie zufrieden waren, würde uns eine kurze 
+Google-Bewertung extrem helfen! ⭐⭐⭐⭐⭐
+
+Hier der direkte Link (dauert nur 30 Sek):
+[DEIN REVIEW-LINK]
+
+Vielen Dank!
+Batuhan & Team
+```
+
+---
+
+## VORLAGE 2: EMAIL AN IMMOBILIENMAKLER
 
 ```
 Betreff: Zusammenarbeit: Entrümpelung für Ihre Immobilien
 
 Sehr geehrte Damen und Herren,
 
-ich bin Batuhan Karadag von Franken-Entrümpelung, einem lokalen 
-Entrümpelungsunternehmen aus Feucht.
+ich bin Batuhan Karadag von Franken-Entrümpelung, 
+einem lokalen Entrümpelungsunternehmen aus Feucht.
 
-Als Immobilienmakler haben Sie sicherlich oft mit der 
-Herausforderung zu tun, dass Objekte vor Verkauf/Vermietung 
-entrümpelt werden müssen.
+Als Immobilienmakler haben Sie sicherlich oft mit 
+der Herausforderung zu tun, dass Objekte vor Verkauf/
+Vermietung entrümpelt werden müssen.
 
 Ich möchte Ihnen eine Zusammenarbeit vorschlagen:
 
@@ -1087,11 +1246,9 @@ Ich möchte Ihnen eine Zusammenarbeit vorschlagen:
 ✓ Wertanrechnung für Ihre Kunden
 ✓ 10% Provision für jede Vermittlung
 
-Wir decken das gesamte Nürnberger Land ab (Lauf, Wendelstein, 
-Altdorf, Hersbruck, etc.) sowie Nürnberg, Fürth, Erlangen.
+Wir decken das gesamte Nürnberger Land ab.
 
-Gerne können wir uns zu einem kurzen Telefonat oder Kaffee treffen, 
-um Details zu besprechen!
+Gerne können wir uns zu einem kurzen Telefonat treffen!
 
 Mit freundlichen Grüßen,
 Batuhan Karadag
@@ -1099,136 +1256,173 @@ Batuhan Karadag
 Franken-Entrümpelung GbR
 Tel: 0170 8005653
 Web: www.franken-entruempelung.de
-⭐ 17+ Google 5-Sterne-Bewertungen
 ```
 
 ---
 
-## 🎯 FAQ & TROUBLESHOOTING
-
-### **PROBLEM 1: "Zu wenig Anrufe trotz Google Ads!"**
-
-**MÖGLICHE URSACHEN:**
-1. Keywords zu allgemein
-2. Anzeige nicht relevant genug
-3. Budget zu niedrig
-4. Falsche Standorteinstellung
-
-**LÖSUNG:**
-✅ Fokus auf [Exakt passende] Keywords
-✅ Stadt-Namen in Anzeigentitel
-✅ Budget auf Top-Kampagnen konzentrieren
-✅ Standort: Nur die eine Stadt + 10km Radius
-
-### **PROBLEM 2: "Google Rankings steigen nicht!"**
-
-**MÖGLICHE URSACHEN:**
-1. Zu wenig Bewertungen
-2. Website zu neu
-3. Keine Aktivität auf GMB
-4. Konkurren hat mehr Backlinks
-
-**LÖSUNG:**
-✅ Mehr Bewertungen sammeln (Ziel: 30+ in 60 Tagen)
-✅ Geduld! SEO braucht 2-3 Monate
-✅ Wöchentlich Google Posts veröffentlichen
-✅ Mehr lokale Verzeichnisse + Partnerschaften
-
-### **PROBLEM 3: "Flyer bringen nichts!"**
-
-**MÖGLICHE URSACHEN:**
-1. Falsche Gebiete
-2. Design nicht ansprechend
-3. Kein klarer Call-to-Action
-4. Zu früh aufgegeben
-
-**LÖSUNG:**
-✅ Fokus auf wohlhabendere Gebiete (Einfamilienhäuser > Hochhäuser)
-✅ Vorher/Nachher-Fotos nutzen!
-✅ Groß & Fett: Telefonnummer + "KOSTENLOSE BESICHTIGUNG"
-✅ Flyer brauchen 2-4 Wochen Vorlauf!
-
-### **PROBLEM 4: "Zu viel zu tun, keine Zeit mehr!"**
-
-**MÖGLICHE URSACHEN:**
-1. Erfolgreich, aber überlastet!
-2. Alles selbst machen wollen
-3. Keine Automatisierung
-
-**LÖSUNG:**
-✅ GRATULIERE! Das ist ein Luxusproblem! 🎉
-✅ Google Ads auf "Smart Campaigns" umstellen
-✅ Partner einbeziehen (Subunternehmer)
-✅ Assistenz einstellen (Minijobbasis)
-✅ Preise erhöhen! (Du bist gefragt!)
-
-### **PROBLEM 5: "Budget reicht nicht für 1.700€!"**
-
-**LÖSUNG - MINIMAL-VERSION (800€):**
-
-| Bereich | Budget |
-|---------|--------|
-| Google Ads (nur Top 3 Städte) | 400€ |
-| Flyer (10.000 Stück) | 200€ |
-| Magnetfolien (klein) | 100€ |
-| Facebook Ads | 50€ |
-| Zeitungen | 50€ |
-| **GESAMT** | **800€** |
-
-**FOKUS:** Lauf + Wendelstein + Altdorf (die 3 besten!)
-
----
-
-## 🚀 DEIN ERFOLGSMANTRA
+## VORLAGE 3: FACEBOOK-POST
 
 ```
-"Ich bin nicht die größte Firma.
-Aber ich bin die lokalste!
+Hallo zusammen! 👋
 
-Ich bin nicht die billigste.
-Aber ich bin die fairste!
+Ich bin Batuhan, wohne hier in Feucht und habe 
+zusammen mit meiner Familie ein Entrümpelungsunternehmen.
 
-Ich bin nicht allein.
-Die ganze Region unterstützt mich!
+Wir helfen Leuten in Lauf, Wendelstein, Altdorf und 
+der ganzen Region beim Entrümpeln, Haushaltsauflösungen, 
+Keller ausräumen, etc.
 
-Ich werde Erfolg haben.
-Weil ich jeden Tag daran arbeite!
+Falls jemand Hilfe braucht oder jemanden kennt - 
+gerne melden! Kostenlose Besichtigung & faire Preise.
 
-LOS GEHT'S! 💪"
+📞 0170 8005653
+🌐 franken-entruempelung.de
+
+⭐ 20+ Google 5-Sterne-Bewertungen
+
+Schönen Tag!
+Batuhan
 ```
 
 ---
 
-## 🎉 SCHLUSSWORT
+## VORLAGE 4: TELEFONSKRIPT BEI KUNDENANRUF
 
-Du hast jetzt alles, was du brauchst:
+```
+"Franken-Entrümpelung, Batuhan am Apparat, guten Tag!
 
-✅ Eine professionelle Website
-✅ Ein durchdachtes Google My Business Profil
-✅ Einen detaillierten 30-Tage-Plan
-✅ Alle Vorlagen und Templates
-✅ Die richtige Strategie (Nürnberger Land!)
+[Kunde erklärt Problem]
 
-**JETZT LIEGT ES AN DIR!**
+Verstehe, das kriegen wir hin! Darf ich kurz ein paar Fragen?
 
-→ Tag 1 starten: **HEUTE!**
-→ Jeden Tag ein Schritt nach vorn!
-→ Nicht aufgeben bei Rückschlägen!
-→ In 30 Tagen: **Dein eigener Chef mit vollem Terminkalender!**
+1. Wo ist das Objekt? [Stadt/PLZ]
+2. Was muss entrümpelt werden? [Wohnung/Keller/etc.]
+3. Ungefähre Größe? [qm oder Zimmeranzahl]
+4. Verwertbare Gegenstände? [Wertanrechnung!]
+5. Wie dringend?
+
+Perfect! Ich schaue mir das gerne vor Ort an.
+
+Passt Ihnen [Datum] um [Uhrzeit]?
+
+Super! Bis dahin!
+
+PS: Falls Sie zufrieden sind, würden wir uns über eine 
+Google-Bewertung freuen!
+
+Bis bald!"
+```
 
 ---
 
-## 📞 SUPPORT
+# 🔧 WICHTIGE LINKS
 
-Bei Fragen zum Plan:
-- Einfach hier im Chat melden!
-- Ich helfe dir bei jedem Schritt!
-
-**VIEL ERFOLG! DU SCHAFFST DAS! 🚀💪🔥**
+| Was | Link |
+|-----|------|
+| **Google My Business** | https://business.google.com |
+| **Google Ads** | https://ads.google.com |
+| **Google Search Console** | https://search.google.com/search-console |
+| **Canva (Design)** | https://www.canva.com |
+| **Flyeralarm (Druck)** | https://www.flyeralarm.com |
+| **Fiverr (Designer)** | https://www.fiverr.de |
+| **GoLocal** | https://www.golocal.de |
+| **11880** | https://www.11880.com |
+| **Gelbe Seiten** | https://www.gelbeseiten.de |
+| **Yelp** | https://www.yelp.de |
+| **WLW** | https://www.wlw.de |
 
 ---
 
-*Erstellt am: 03.02.2026*
-*Version: 1.0 - FINAL*
+# ❓ HÄUFIGE PROBLEME & LÖSUNGEN
+
+## PROBLEM 1: "Zu wenig Anrufe trotz Google Ads!"
+
+**CHECKLISTE:**
+- [ ] Keywords [exakt passend]?
+- [ ] Stadt-Name in Anzeige?
+- [ ] Telefonnummer in Anzeige?
+- [ ] Budget ausreichend (min. 10€/Tag)?
+- [ ] Standort richtig eingestellt?
+- [ ] Negative Keywords hinzugefügt?
+
+**LÖSUNG:**
+- Fokus auf [Exakt passende] Keywords
+- Budget auf 1-2 Top-Kampagnen konzentrieren
+- Anzeige mit Stadt-Namen personalisieren
+
+---
+
+## PROBLEM 2: "Rankings steigen nicht!"
+
+**GEDULD!** SEO braucht 2-3 Monate!
+
+**BESCHLEUNIGEN:**
+- [ ] Mehr Bewertungen (Ziel: 30+ in 60 Tagen)
+- [ ] Wöchentlich Google Posts
+- [ ] Mehr Verzeichnis-Einträge
+- [ ] Partnerschaften mit lokalen Websites
+
+---
+
+## PROBLEM 3: "Flyer bringen nichts!"
+
+**WICHTIG:** Flyer brauchen 2-4 Wochen Vorlauf!
+
+**OPTIMIEREN:**
+- Fokus auf wohlhabende Gebiete (Einfamilienhäuser)
+- Vorher/Nachher-Fotos nutzen
+- Groß & fett: Telefonnummer
+- "KOSTENLOSE BESICHTIGUNG" hervorheben
+
+---
+
+## PROBLEM 4: "Zu viel zu tun!"
+
+**GRATULIERE!** Du bist erfolgreich!
+
+**LÖSUNGEN:**
+- Google Ads auf "Smart Campaigns" umstellen
+- Partner einbeziehen (Subunternehmer)
+- Assistenz einstellen (Minijob 520€/Monat)
+- **PREISE ERHÖHEN!** Du bist gefragt!
+
+---
+
+# ✅ FINALE CHECKLISTE
+
+## WOCHE 1
+- [ ] GMB Beschreibung optimiert
+- [ ] GMB Service Areas sortiert
+- [ ] GMB Fotos hochgeladen
+- [ ] Google Ads Kampagne 1-4 gestartet
+- [ ] Conversion Tracking aktiviert
+- [ ] 15-20 Facebook-Gruppen beigetreten
+- [ ] 5 Verzeichnis-Einträge erstellt
+- [ ] 2 Google Posts veröffentlicht
+- [ ] Flyer bestellt
+- [ ] Magnetfolien bestellt
+- [ ] Zeitungen kontaktiert
+
+## WOCHE 2
+- [ ] Kampagne 5-8 gestartet
+- [ ] 10+ neue Bewertungen gesammelt
+- [ ] Facebook-Posts in Gruppen
+- [ ] Performance-Tracking etabliert
+
+## WOCHE 3
+- [ ] 10.000-15.000 Flyer verteilt
+- [ ] Magnetfolien auf Auto
+- [ ] 2-3 Zeitungsanzeigen geschaltet
+
+## WOCHE 4
+- [ ] Smart Campaigns aktiviert
+- [ ] 3-5 Partner gewonnen
+- [ ] Alle 20.000 Flyer verteilt
+- [ ] System optimiert
+
+---
+
+**VIEL ERFOLG! 🚀**
+
+*Version: 2.0 FINAL - 03.02.2026*
 *Für: Franken-Entrümpelung GbR*
-
