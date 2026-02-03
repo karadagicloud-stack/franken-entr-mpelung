@@ -381,7 +381,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90592'],
     lat: 49.3500,
     lng: 11.2333,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Ottensoos',
@@ -431,7 +431,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90542'],
     lat: 49.5758,
     lng: 11.1833,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Kalchreuth',
@@ -651,7 +651,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90513'],
     lat: 49.4453,
     lng: 10.9531,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Oberasbach',
@@ -663,7 +663,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90522'],
     lat: 49.4289,
     lng: 10.9639,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Stein',
@@ -675,7 +675,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90547'],
     lat: 49.4133,
     lng: 11.0167,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Langenzenn',
@@ -687,7 +687,7 @@ export const locations: LocationData[] = [
     postalCodes: ['90579'],
     lat: 49.4972,
     lng: 10.7944,
-    priority: 'low',
+    priority: 'high',
   },
   {
     name: 'Roßtal',

@@ -14,11 +14,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://franken-entruempelung.vercel.app'),
   title: {
-    default: 'Franken-Entrümpelung | Professionelle Entrümpelung im Nürnberger Land & Nürnberg',
+    default: 'Entrümpelung Nürnberger Land | Lauf, Wendelstein, Altdorf, Hersbruck | Franken-Entrümpelung',
     template: '%s | Franken-Entrümpelung'
   },
-  description: 'Aus Feucht - für das Nürnberger Land! Professionelle Entrümpelung in Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach und Region. ✓ Regional ✓ Schnell ✓ Fair. Kostenlose Besichtigung!',
-  keywords: ['Entrümpelung Nürnberg', 'Haushaltsauflösung Nürnberg', 'Wohnungsauflösung Nürnberg', 'Entrümpelung Fürth', 'Entrümpelung Erlangen', 'Nürnberger Land'],
+  description: 'Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf & Region. ✓ Schnell ✓ Fair ✓ Zuverlässig. Auch in Nürnberg, Fürth, Erlangen. Jetzt anfragen!',
+  keywords: ['Entrümpelung Nürnberger Land', 'Entrümpelung Lauf', 'Entrümpelung Wendelstein', 'Entrümpelung Altdorf', 'Entrümpelung Hersbruck', 'Entrümpelung Schwabach', 'Entrümpelung Zirndorf', 'Haushaltsauflösung Nürnberger Land', 'Wohnungsauflösung Nürnberger Land', 'Entrümpelung Feucht', 'Entrümpelung Stein', 'Entrümpelung Oberasbach', 'Entrümpelung Nürnberg', 'Entrümpelung Fürth', 'Entrümpelung Erlangen'],
   authors: [{ name: 'Franken-Entrümpelung' }],
   creator: 'Franken-Entrümpelung',
   publisher: 'Franken-Entrümpelung',
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'de_DE',
     url: 'https://franken-entruempelung.vercel.app',
-    title: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
-    description: 'Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land. Schnell, zuverlässig und günstig.',
+    title: 'Entrümpelung Nürnberger Land | Lauf, Wendelstein, Altdorf, Hersbruck',
+    description: 'Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf. Auch in Nürnberg, Fürth, Erlangen. Schnell, fair & zuverlässig!',
     siteName: 'Franken-Entrümpelung',
     images: [
       {
@@ -58,8 +58,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Franken-Entrümpelung | Professionelle Entrümpelung in Nürnberg & Umgebung',
-    description: 'Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land.',
+    title: 'Entrümpelung Nürnberger Land | Lauf, Wendelstein, Altdorf, Hersbruck',
+    description: 'Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach. Schnell, fair & zuverlässig!',
     images: ['/logo-original.png'],
   },
   robots: {

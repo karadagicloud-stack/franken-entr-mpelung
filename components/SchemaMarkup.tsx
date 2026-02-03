@@ -13,7 +13,7 @@ export default function SchemaMarkup() {
     "@id": "https://franken-entruempelung.vercel.app",
     "name": "Franken-Entrümpelung GbR",
     "alternateName": "Franken Entrümpelung",
-    "description": "Professionelle Entrümpelung in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land. Schnell, zuverlässig und günstig. Haushaltsauflösung, Wohnungsentrümpelung, Kellerentrümpelung mit Wertanrechnung.",
+    "description": "Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach. Auch in Nürnberg, Fürth, Erlangen. Schnell, zuverlässig und fair. Haushaltsauflösung, Wohnungsentrümpelung, Kellerentrümpelung mit Wertanrechnung.",
     "url": "https://franken-entruempelung.vercel.app",
     "logo": "https://franken-entruempelung.vercel.app/android-chrome-512x512.png",
     "image": [
@@ -92,6 +92,18 @@ export default function SchemaMarkup() {
       },
       {
         "@type": "City",
+        "name": "Zirndorf"
+      },
+      {
+        "@type": "City",
+        "name": "Stein"
+      },
+      {
+        "@type": "City",
+        "name": "Oberasbach"
+      },
+      {
+        "@type": "City",
         "name": "Schwarzenbruck"
       },
       {
@@ -100,11 +112,19 @@ export default function SchemaMarkup() {
       },
       {
         "@type": "City",
+        "name": "Langenzenn"
+      },
+      {
+        "@type": "City",
         "name": "Röthenbach an der Pegnitz"
       },
       {
         "@type": "City",
         "name": "Schnaittach"
+      },
+      {
+        "@type": "City",
+        "name": "Schwaig"
       },
       {
         "@type": "City",
@@ -121,6 +141,10 @@ export default function SchemaMarkup() {
       {
         "@type": "City",
         "name": "Roth"
+      },
+      {
+        "@type": "City",
+        "name": "Neunkirchen am Brand"
       }
     ],
     "hasOfferCatalog": {
@@ -179,7 +203,7 @@ export default function SchemaMarkup() {
       "name": "Batuhan Karadag"
     },
     "foundingDate": "2020",
-    "slogan": "Professionelle Entrümpelung in Nürnberg & Umgebung - Schnell, Zuverlässig, Günstig"
+    "slogan": "Entrümpelung Nürnberger Land - Schnell, Zuverlässig, Fair"
   }
 
   return (

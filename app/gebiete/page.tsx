@@ -4,8 +4,8 @@ import { ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Servicegebiete | Franken-Entrümpelung',
-  description: 'Wir sind in Nürnberg, Fürth, Erlangen und dem gesamten Nürnberger Land für Sie da. Servicegebiet mit 100km Umkreis.',
+  title: 'Servicegebiete: Nürnberger Land & Metropolregion | Franken-Entrümpelung',
+  description: 'Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach. Auch in Nürnberg, Fürth, Erlangen & Umgebung. 150+ abgedeckte Städte.',
 }
 
 export default function GebiPage() {

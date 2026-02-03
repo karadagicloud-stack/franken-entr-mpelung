@@ -45,6 +45,54 @@ const serviceAreas = [
     isMain: true,
   },
   {
+    name: 'Zirndorf',
+    description: '✨ Schnell & zuverlässig - 22km',
+    link: '/entruempelung-zirndorf',
+    isMain: true,
+  },
+  {
+    name: 'Stein',
+    description: '✨ Service bei Nürnberg - 16km',
+    link: '/entruempelung-stein',
+    isMain: true,
+  },
+  {
+    name: 'Oberasbach',
+    description: '✨ Kompetent & nah - 18km',
+    link: '/entruempelung-oberasbach',
+    isMain: true,
+  },
+  {
+    name: 'Schwarzenbruck',
+    description: 'Ihr Nachbar - nur 8km',
+    link: '/entruempelung-schwarzenbruck',
+  },
+  {
+    name: 'Eckental',
+    description: 'Zuverlässig - 22km',
+    link: '/entruempelung-eckental',
+  },
+  {
+    name: 'Langenzenn',
+    description: 'Professionell - 30km',
+    link: '/entruempelung-langenzenn',
+  },
+  {
+    name: 'Röthenbach',
+    description: 'Schnell & günstig',
+    link: '/entruempelung-roethenbach',
+  },
+  {
+    name: 'Schwaig',
+    description: 'Professionelle Hilfe',
+    link: '/entruempelung-schwaig',
+  },
+  {
+    name: 'Schnaittach',
+    description: 'Service im Nürnberger Land',
+    link: '/entruempelung-schnaittach',
+  },
+  {
     name: 'Nürnberg',
     description: 'Auch in der Großstadt für Sie da',
     link: '/entruempelung-nuernberg',
@@ -58,16 +106,6 @@ const serviceAreas = [
     name: 'Erlangen',
     description: 'Auch in Erlangen verfügbar',
     link: '/entruempelung-erlangen',
-  },
-  {
-    name: 'Röthenbach',
-    description: 'Schnell & günstig',
-    link: '/entruempelung-roethenbach',
-  },
-  {
-    name: 'Schwaig',
-    description: 'Professionelle Hilfe',
-    link: '/entruempelung-schwaig',
   },
   {
     name: 'Neunkirchen',
@@ -99,11 +137,11 @@ const ServiceAreas = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Unsere Servicegebiete
+            Entrümpelung im Nürnberger Land & Metropolregion
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            <strong>Aus Feucht - für das gesamte Nürnberger Land!</strong><br />
-            <span className="text-lg">Plus Nürnberg, Fürth, Erlangen und Umgebung</span>
+            <strong>Spezialisiert auf Lauf, Wendelstein, Altdorf, Hersbruck & Region</strong><br />
+            <span className="text-lg">Auch in Zirndorf, Stein, Oberasbach, Nürnberg, Fürth, Erlangen</span>
           </p>
         </motion.div>
 
@@ -169,15 +207,15 @@ const ServiceAreas = () => {
           </div>
           <div className="mt-6 p-4 bg-primary-50 rounded-xl text-center">
             <p className="text-gray-700">
-              <strong>🏠 Unser Haupteinsatzgebiet:</strong> Nürnberger Land (bis ca. 30km um Feucht)<br />
-              <strong>💚 Spezialisiert auf:</strong> Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach<br />
-              <strong>✅ Auch verfügbar:</strong> Nürnberg, Fürth, Erlangen<br />
+              <strong>🏠 Unser Haupteinsatzgebiet:</strong> Nürnberger Land & Metropolregion Nürnberg<br />
+              <strong>💚 Spezialisiert auf:</strong> Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach<br />
+              <strong>✅ Auch verfügbar:</strong> Nürnberg, Fürth, Erlangen & Umgebung<br />
               <strong>📍 Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden<br />
               <span className="text-sm text-gray-600 mt-2 block">
-                Nürnberger Land, Landkreis Roth, Nürnberg-Umland
+                Landkreise: Nürnberger Land, Fürth, Roth, Erlangen-Höchstadt
               </span>
               <span className="text-sm font-semibold text-primary-700 mt-2 block">
-                Regional aus Feucht - Ihr Nachbar hilft! ❤️
+                Regional aus Feucht - Ihr lokaler Partner! ❤️
               </span>
             </p>
           </div>
