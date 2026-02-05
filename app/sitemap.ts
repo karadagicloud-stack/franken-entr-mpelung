@@ -1,8 +1,10 @@
 import { MetadataRoute } from 'next'
+import { locations, serviceTypes } from '@/lib/locations'
 
 /**
  * Sitemap für Google Search Console
  * Zeigt Google alle wichtigen Seiten deiner Website
+ * ALLE 369 Landing Pages werden automatisch generiert!
  */
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -14,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: baseUrl,
       lastModified: new Date(),
       changeFrequency: 'daily' as const,
-      priority: 1.0, // Homepage = wichtigste Seite
+      priority: 1.0,
     },
     {
       url: `${baseUrl}/leistungen`,
@@ -40,18 +42,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
+    {
+      url: `${baseUrl}/bewertungen`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/ablauf`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
   ]
 
   // Dienstleistungs-Seiten
   const servicePages = [
-    'haushaltsauflosung',
-    'wohnungsauflosung',
+    'haushaltsaufloesung',
+    'wohnungsaufloesung',
     'kellerentruempelung',
-    'dachbodenentruempelung',
-    'geschäftsauflösung',
     'bueroaufloesung',
-    'garage-entruempeln',
-    'sperrmull-entsorgen',
+    'nachlassaufloesung',
+    'gewerbeentruempelung',
     'wertanrechnung',
   ].map((service) => ({
     url: `${baseUrl}/${service}`,
@@ -60,46 +72,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // Nürnberger Land Seiten (HÖCHSTE PRIORITÄT!)
-  const nuernbergerLandPages = [
-    'lauf',
-    'wendelstein',
-    'feucht',
-    'altdorf',
-    'hersbruck',
-    'schwabach',
-    'schwarzenbruck',
-    'eckental',
-    'roethenbach',
-    'schnaittach',
-  ].map((location) => ({
-    url: `${baseUrl}/entruempelung-${location}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.95, // HÖCHSTE Priorität - unser Hauptgebiet!
-  }))
-
-  // Großstädte (wichtig, aber sekundär)
-  const grossstadtPages = [
-    'nuernberg',
-    'fuerth',
-    'erlangen',
-  ].map((location) => ({
-    url: `${baseUrl}/entruempelung-${location}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.85, // Wichtig, aber nicht Fokus
-  }))
+  // ALLE dynamischen Landing Pages generieren!
+  // Für jede Location × jeden Service-Typ = 123 × 3 = 369 Seiten!
+  const dynamicPages: MetadataRoute.Sitemap = []
   
-  // Weitere Umgebung
-  const umgebungPages = [
-    'roth',
-  ].map((location) => ({
-    url: `${baseUrl}/entruempelung-${location}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }))
+  locations.forEach((location) => {
+    serviceTypes.forEach((service) => {
+      // Priorität basierend auf Location-Priorität
+      let priority = 0.8
+      if (location.priority === 'high') priority = 0.9
+      if (location.priority === 'medium') priority = 0.85
+      
+      dynamicPages.push({
+        url: `${baseUrl}/${service.slug}-${location.slug}`,
+        lastModified: new Date(),
+        changeFrequency: location.priority === 'high' ? 'weekly' : 'monthly' as const,
+        priority: priority,
+      })
+    })
+  })
 
   // Rechtliche Seiten
   const legalPages = [
@@ -115,17 +106,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly' as const,
       priority: 0.3,
     },
+    {
+      url: `${baseUrl}/agb`,
+      lastModified: new Date(),
+      changeFrequency: 'yearly' as const,
+      priority: 0.3,
+    },
   ]
-
-  // Falls du später einen Blog hast, kannst du hier Blog-Posts hinzufügen:
-  // const blogPosts = [...]
 
   return [
     ...mainPages,
     ...servicePages,
-    ...nuernbergerLandPages,
-    ...grossstadtPages,
-    ...umgebungPages,
+    ...dynamicPages, // ALLE 369 Landing Pages!
     ...legalPages,
   ]
 }
