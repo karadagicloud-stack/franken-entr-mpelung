@@ -6,7 +6,7 @@ import { MetadataRoute } from 'next'
  */
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://franken-entruempelung.vercel.app'
+  const baseUrl = 'https://www.franken-entrumpelung.de'
   
   // Hauptseiten mit hoher Priorität
   const mainPages = [

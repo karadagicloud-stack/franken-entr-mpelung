@@ -52,7 +52,7 @@ export default function ImpressumPage() {
                 <p className="text-gray-700 leading-relaxed">
                   <strong>Telefon:</strong> <a href="tel:+4917080005653" className="text-primary-600 hover:underline">0170 8005653</a><br />
                   <strong>E-Mail:</strong> <a href="mailto:info@franken-entruempelung.de" className="text-primary-600 hover:underline">info@franken-entruempelung.de</a><br />
-                  <strong>Website:</strong> <a href="https://franken-entruempelung.vercel.app" className="text-primary-600 hover:underline">www.franken-entruempelung.de</a>
+                  <strong>Website:</strong> <a href="https://www.franken-entrumpelung.de" className="text-primary-600 hover:underline">www.franken-entrumpelung.de</a>
                 </p>
               </section>
 

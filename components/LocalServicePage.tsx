@@ -41,13 +41,13 @@ export default function LocalServicePage({ location, service }: LocalServicePage
         '@type': 'ListItem',
         position: 1,
         name: 'Startseite',
-        item: 'https://franken-entruempelung.de',
+        item: 'https://www.franken-entrumpelung.de',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: service.title,
-        item: `https://franken-entruempelung.de/${service.slug}`,
+        item: `https://www.franken-entrumpelung.de/${service.slug}`,
       },
       {
         '@type': 'ListItem',

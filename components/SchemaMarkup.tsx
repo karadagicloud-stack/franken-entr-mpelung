@@ -10,17 +10,17 @@ export default function SchemaMarkup() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://franken-entruempelung.vercel.app",
+    "@id": "https://www.franken-entrumpelung.de",
     "name": "Franken-Entrümpelung GbR",
     "alternateName": "Franken Entrümpelung",
     "description": "Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach. Auch in Nürnberg, Fürth, Erlangen. Schnell, zuverlässig und fair. Haushaltsauflösung, Wohnungsentrümpelung, Kellerentrümpelung mit Wertanrechnung.",
-    "url": "https://franken-entruempelung.vercel.app",
-    "logo": "https://franken-entruempelung.vercel.app/android-chrome-512x512.png",
+    "url": "https://www.franken-entrumpelung.de",
+    "logo": "https://www.franken-entrumpelung.de/android-chrome-512x512.png",
     "image": [
-      "https://franken-entruempelung.vercel.app/wohnung-vorher.jpg",
-      "https://franken-entruempelung.vercel.app/wohnung-nachher.jpg",
-      "https://franken-entruempelung.vercel.app/keller-vorher.jpg",
-      "https://franken-entruempelung.vercel.app/keller-nachher.jpg"
+      "https://www.franken-entrumpelung.de/wohnung-vorher.jpg",
+      "https://www.franken-entrumpelung.de/wohnung-nachher.jpg",
+      "https://www.franken-entrumpelung.de/keller-vorher.jpg",
+      "https://www.franken-entrumpelung.de/keller-nachher.jpg"
     ],
     "telephone": "+49-170-8005653",
     "email": "info@franken-entruempelung.de",

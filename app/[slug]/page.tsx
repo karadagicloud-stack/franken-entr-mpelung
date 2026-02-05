@@ -69,10 +69,10 @@ export async function generateMetadata({
       description,
       type: 'website',
       locale: 'de_DE',
-      url: `https://franken-entruempelung.de/${params.slug}`,
+      url: `https://www.franken-entrumpelung.de/${params.slug}`,
     },
     alternates: {
-      canonical: `https://franken-entruempelung.de/${params.slug}`,
+      canonical: `https://www.franken-entrumpelung.de/${params.slug}`,
     },
   }
 }

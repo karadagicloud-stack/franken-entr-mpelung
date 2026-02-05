@@ -13,7 +13,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://franken-entruempelung.vercel.app'),
+  metadataBase: new URL('https://www.franken-entrumpelung.de'),
   title: {
     default: 'Entrümpelung Nürnberger Land | Lauf, Wendelstein, Altdorf, Hersbruck | Franken-Entrümpelung',
     template: '%s | Franken-Entrümpelung'
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'de_DE',
-    url: 'https://franken-entruempelung.vercel.app',
+    url: 'https://www.franken-entrumpelung.de',
     title: 'Entrümpelung Nürnberger Land | Lauf, Wendelstein, Altdorf, Hersbruck',
     description: 'Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf. Auch in Nürnberg, Fürth, Erlangen. Schnell, fair & zuverlässig!',
     siteName: 'Franken-Entrümpelung',

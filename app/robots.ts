@@ -23,8 +23,8 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 0, // Keine Verzögerung (schneller crawlen!)
       },
     ],
-    sitemap: 'https://franken-entruempelung.vercel.app/sitemap.xml',
-    host: 'https://franken-entruempelung.vercel.app',
+    sitemap: 'https://www.franken-entrumpelung.de/sitemap.xml',
+    host: 'https://www.franken-entrumpelung.de',
   }
 }
 
