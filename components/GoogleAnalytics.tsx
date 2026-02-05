@@ -3,7 +3,7 @@
 import Script from 'next/script'
 
 const GoogleAnalytics = () => {
-  const GA_MEASUREMENT_ID = 'G-6Q5M7RDGMS'
+  const GA_MEASUREMENT_ID = 'G-X8YWXEQQVH'
 
   return (
     <>
