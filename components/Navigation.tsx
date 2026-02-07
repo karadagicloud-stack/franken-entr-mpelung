@@ -23,6 +23,7 @@ const Navigation = () => {
     { label: 'Leistungen', href: '/leistungen' },
     { label: 'Ablauf', href: '/ablauf' },
     { label: 'Gebiete', href: '/gebiete' },
+    { label: 'FAQ', href: '/faq' },
     { label: 'Bewertungen', href: '/bewertungen' },
     { label: 'Kontakt', href: '/kontakt' },
   ]

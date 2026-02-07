@@ -237,6 +237,45 @@ export default function LocalServicePage({ location, service }: LocalServicePage
                   und flexible Terminvereinbarungen – oft noch am selben oder nächsten Tag.
                 </p>
 
+                {/* Erweiterte Content-Sektion für größere Städte */}
+                {location.population && parseInt(location.population.replace(/\./g, '')) > 50000 && (
+                  <>
+                    <h3 className="text-2xl font-bold text-gray-900 mb-4 mt-8">
+                      Warum {location.name} auf uns vertraut
+                    </h3>
+                    <p className="text-gray-700 leading-relaxed mb-6">
+                      Als etablierter Entrümpelungsdienst haben wir in {location.name} bereits hunderte erfolgreiche 
+                      Projekte durchgeführt. Von kleinen Kellerentrümpelungen bis hin zu kompletten Haushaltsauflösungen 
+                      – wir kennen die lokalen Gegebenheiten und können schnell und effizient arbeiten. Die zentrale 
+                      Lage von {location.name} ermöglicht uns eine optimale Erreichbarkeit aller Stadtteile.
+                    </p>
+
+                    <p className="text-gray-700 leading-relaxed mb-6">
+                      Besonders wichtig ist uns die transparente Kommunikation: Nach der kostenlosen Besichtigung in {location.name} 
+                      erhalten Sie von uns ein detailliertes Festpreis-Angebot ohne versteckte Kosten. Verwertbare Gegenstände 
+                      werden fair angerechnet, was die Gesamtkosten deutlich reduzieren kann. Unsere Kunden schätzen unsere 
+                      Zuverlässigkeit, Pünktlichkeit und den respektvollen Umgang mit ihrem Eigentum.
+                    </p>
+
+                    <h3 className="text-2xl font-bold text-gray-900 mb-4 mt-8">
+                      Unsere Leistungen in {location.name}
+                    </h3>
+                    <p className="text-gray-700 leading-relaxed mb-6">
+                      Egal ob Sie eine Wohnung auflösen müssen, einen vollgestellten Keller entrümpeln wollen oder eine 
+                      komplette Haushaltsauflösung benötigen – wir übernehmen alle anfallenden Arbeiten. Dazu gehören 
+                      das Sortieren, Verpacken, der fachgerechte Abtransport sowie die umweltgerechte Entsorgung oder 
+                      Verwertung aller Gegenstände. Auf Wunsch führen wir auch eine besenreine Endreinigung durch.
+                    </p>
+
+                    <p className="text-gray-700 leading-relaxed mb-6">
+                      In {location.name} arbeiten wir eng mit lokalen Entsorgungsfachbetrieben und Recyclingstationen 
+                      zusammen, um eine umweltfreundliche Entsorgung zu gewährleisten. Verwertbare Gegenstände wie 
+                      Möbel, Elektrogeräte oder Antiquitäten werden von uns fachgerecht bewertet und können den Preis 
+                      erheblich reduzieren oder sogar zu einem Erlös für Sie führen.
+                    </p>
+                  </>
+                )}
+
                 {location.neighborhoods && location.neighborhoods.length > 0 && (
                   <div className="bg-blue-50 rounded-2xl p-6 mb-6">
                     <h3 className="font-bold text-gray-900 mb-3">
@@ -332,6 +371,24 @@ export default function LocalServicePage({ location, service }: LocalServicePage
                       ? `Wir sind in allen Stadtteilen von ${location.name} für Sie da, einschließlich ${location.neighborhoods.slice(0, 3).join(', ')} und weiteren Bereichen.`
                       : `Wir bedienen das gesamte Stadtgebiet von ${location.name} und Umgebung.`,
                   },
+                  {
+                    question: `Wie läuft eine ${service.title.toLowerCase()} in ${location.name} ab?`,
+                    answer: `Der Ablauf ist einfach: 1. Sie kontaktieren uns telefonisch oder online. 2. Wir vereinbaren einen kostenlosen Besichtigungstermin in ${location.name}. 3. Sie erhalten ein Festpreis-Angebot. 4. Nach Auftragserteilung führen wir die ${service.title.toLowerCase()} zum vereinbarten Termin durch. 5. Sie erhalten Ihre Räumlichkeiten besenrein zurück.`,
+                  },
+                  {
+                    question: `Entsorgen Sie auch Sondermüll und Elektrogeräte in ${location.name}?`,
+                    answer: `Ja, wir entsorgen fachgerecht alle Arten von Haushaltsgegenständen, Möbeln, Elektrogeräten und auch Sondermüll nach den geltenden Vorschriften. Alles wird umweltgerecht recycelt oder entsorgt.`,
+                  },
+                  ...(location.population && parseInt(location.population.replace(/\./g, '')) > 50000 ? [
+                    {
+                      question: `Arbeiten Sie auch am Wochenende in ${location.name}?`,
+                      answer: `Ja, nach Absprache bieten wir auch Wochenendtermine an. Kontaktieren Sie uns einfach und wir finden einen passenden Termin für Ihre ${service.title.toLowerCase()} in ${location.name}.`,
+                    },
+                    {
+                      question: `Benötige ich eine Halteverbotszone in ${location.name}?`,
+                      answer: `In den meisten Fällen nicht, da wir flexibel parken können. Bei sehr engen Straßen oder großen Projekten können wir die Halteverbotszone für Sie beantragen.`,
+                    },
+                  ] : []),
                 ].map((faq, index) => (
                   <div key={index} className="card">
                     <h3 className="font-bold text-gray-900 mb-3 text-lg">{faq.question}</h3>

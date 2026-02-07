@@ -27,6 +27,7 @@ const Footer = () => {
     ],
     company: [
       { label: 'Über uns', href: '#' },
+      { label: 'FAQ', href: '/faq' },
       { label: 'Kontakt', href: '#kontakt' },
       { label: 'Impressum', href: '/impressum' },
       { label: 'Datenschutz', href: '/datenschutz' },
