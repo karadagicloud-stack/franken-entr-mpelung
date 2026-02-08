@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "franken-entruempelung.vercel.app"
+        }
+      ],
+      "destination": "https://www.franken-entrumpelung.de/:path*",
+      "permanent": true
+    }
+  ]
+}
