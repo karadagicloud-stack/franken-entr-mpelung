@@ -227,7 +227,7 @@ const CallToAction = () => {
                 </a>
 
                 <a
-                  href="mailto:info@franken-entruempelung.de"
+                  href="mailto:info@franken-entrumpelung.de"
                   className="flex items-start space-x-4 group cursor-pointer"
                 >
                   <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:bg-white/30 transition-colors">
@@ -236,7 +236,7 @@ const CallToAction = () => {
                   <div>
                     <div className="text-sm text-primary-200 mb-1">E-Mail</div>
                     <div className="text-xl font-bold group-hover:underline">
-                      info@franken-entruempelung.de
+                      info@franken-entrumpelung.de
                     </div>
                     <div className="text-sm text-primary-200 mt-1">
                       Antwort innerhalb von 24h

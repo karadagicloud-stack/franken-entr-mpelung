@@ -87,7 +87,7 @@ export default function DatenschutzPage() {
                   Hauptstraße 53<br />
                   90537 Feucht<br /><br />
                   Telefon: <a href="tel:+4917080005653" className="text-primary-600 hover:underline">0170 8005653</a><br />
-                  E-Mail: <a href="mailto:info@franken-entruempelung.de" className="text-primary-600 hover:underline">info@franken-entruempelung.de</a>
+                  E-Mail: <a href="mailto:info@franken-entrumpelung.de" className="text-primary-600 hover:underline">info@franken-entrumpelung.de</a>
                 </p>
                 <p className="text-gray-700 leading-relaxed mt-4">
                   Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder 

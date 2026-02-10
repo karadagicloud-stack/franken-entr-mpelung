@@ -72,11 +72,11 @@ const Footer = () => {
                 <span>WhatsApp</span>
               </a>
               <a
-                href="mailto:info@franken-entruempelung.de"
+                href="mailto:info@franken-entrumpelung.de"
                 className="flex items-center space-x-3 hover:text-primary-400 transition-colors"
               >
                 <Mail size={18} />
-                <span>info@franken-entruempelung.de</span>
+                <span>info@franken-entrumpelung.de</span>
               </a>
               <div className="flex items-center space-x-3">
                 <MapPin size={18} />

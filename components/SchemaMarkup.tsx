@@ -23,7 +23,7 @@ export default function SchemaMarkup() {
       "https://www.franken-entrumpelung.de/keller-nachher.jpg"
     ],
     "telephone": "+49-170-8005653",
-    "email": "info@franken-entruempelung.de",
+    "email": "info@franken-entrumpelung.de",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Hauptstraße 53",
