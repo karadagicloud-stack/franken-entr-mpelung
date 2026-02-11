@@ -25,15 +25,25 @@ const CallToAction = () => {
     setErrorMessage('')
 
     try {
-      const response = await fetch('/api/contact', {
+      const response = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          access_key: '1e27a9aa-b77c-46e5-8bf1-1e80e1e89674',
+          subject: `Neue Kontaktanfrage von ${formData.name}`,
+          from_name: 'Franken-Entrümpelung Website',
+          name: formData.name,
+          email: formData.email,
+          phone: formData.phone,
+          location: formData.location,
+          message: formData.message || 'Keine Nachricht',
+        }),
       })
 
-      if (!response.ok) {
-        const data = await response.json().catch(() => ({}))
-        throw new Error(data?.message || 'Beim Senden ist ein Fehler aufgetreten.')
+      const data = await response.json()
+
+      if (!data.success) {
+        throw new Error(data.message || 'Beim Senden ist ein Fehler aufgetreten.')
       }
 
       setSubmitted(true)
