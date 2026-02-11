@@ -1,32 +1,4 @@
 import { NextResponse } from 'next/server'
-import nodemailer from 'nodemailer'
-
-const {
-  SMTP_HOST,
-  SMTP_PORT,
-  SMTP_USER,
-  SMTP_PASS,
-  CONTACT_FORM_RECIPIENT_EMAIL,
-  CONTACT_FORM_SENDER_EMAIL,
-} = process.env
-
-const createTransporter = () => {
-  if (!SMTP_HOST || !SMTP_PORT || !SMTP_USER || !SMTP_PASS) {
-    throw new Error(
-      'Bitte setze die SMTP-Umgebungsvariablen (SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS).'
-    )
-  }
-
-  return nodemailer.createTransport({
-    host: SMTP_HOST,
-    port: Number(SMTP_PORT),
-    secure: Number(SMTP_PORT) === 465,
-    auth: {
-      user: SMTP_USER,
-      pass: SMTP_PASS,
-    },
-  })
-}
 
 export async function POST(request: Request) {
   try {
@@ -40,24 +12,30 @@ export async function POST(request: Request) {
       )
     }
 
-    const transporter = createTransporter()
-    const recipient = CONTACT_FORM_RECIPIENT_EMAIL || SMTP_USER
-    const sender = CONTACT_FORM_SENDER_EMAIL || SMTP_USER
+    const accessKey = process.env.WEB3FORMS_ACCESS_KEY || '1e27a9aa-b77c-46e5-8bf1-1e80e1e89674'
 
-    await transporter.sendMail({
-      from: sender,
-      to: recipient,
-      subject: `Neue Kontaktanfrage von ${name}`,
-      replyTo: email,
-      html: `
-        <strong>Name:</strong> ${name}<br/>
-        <strong>Email:</strong> ${email}<br/>
-        <strong>Telefon:</strong> ${phone}<br/>
-        <strong>Ort:</strong> ${location}<br/>
-        <strong>Nachricht:</strong><br/>
-        <p>${message || 'Keine Nachricht hinterlassen.'}</p>
-      `,
+    const response = await fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        access_key: accessKey,
+        subject: `Neue Kontaktanfrage von ${name}`,
+        from_name: 'Franken-Entrümpelung Website',
+        name,
+        email,
+        phone,
+        location,
+        message: message || 'Keine Nachricht hinterlassen.',
+      }),
     })
+
+    const data = await response.json()
+
+    if (!response.ok || !data.success) {
+      throw new Error(data.message || 'Fehler beim Versenden')
+    }
 
     return NextResponse.json({ success: true })
   } catch (error) {
