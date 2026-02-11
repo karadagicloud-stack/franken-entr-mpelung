@@ -16,13 +16,43 @@ const CallToAction = () => {
     message: '',
   })
   const [submitted, setSubmitted] = useState(false)
+  const [status, setStatus] = useState<'idle' | 'sending' | 'error'>('idle')
+  const [errorMessage, setErrorMessage] = useState('')
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    // Here you would typically send the form data to your backend
-    console.log('Form submitted:', formData)
-    setSubmitted(true)
-    setTimeout(() => setSubmitted(false), 5000)
+    setStatus('sending')
+    setErrorMessage('')
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData),
+      })
+
+      if (!response.ok) {
+        const data = await response.json().catch(() => ({}))
+        throw new Error(data?.message || 'Beim Senden ist ein Fehler aufgetreten.')
+      }
+
+      setSubmitted(true)
+      setStatus('idle')
+      setFormData({
+        name: '',
+        email: '',
+        phone: '',
+        location: '',
+        message: '',
+      })
+      setTimeout(() => setSubmitted(false), 5000)
+    } catch (error) {
+      console.error(error)
+      setStatus('error')
+      setErrorMessage(
+        error instanceof Error ? error.message : 'Beim Absenden ist ein Fehler aufgetreten.'
+      )
+    }
   }
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
@@ -87,7 +117,7 @@ const CallToAction = () => {
                 </p>
               </motion.div>
             ) : (
-              <form onSubmit={handleSubmit} className="space-y-4">
+                <form onSubmit={handleSubmit} className="space-y-4">
                 <div>
                   <label htmlFor="name" className="block text-sm font-semibold text-gray-700 mb-2">
                     Ihr Name *
@@ -181,7 +211,8 @@ const CallToAction = () => {
 
                 <button
                   type="submit"
-                  className="w-full btn btn-primary text-lg flex items-center justify-center space-x-2"
+                  disabled={status === 'sending'}
+                  className="w-full btn btn-primary text-lg flex items-center justify-center space-x-2 disabled:opacity-70 disabled:cursor-not-allowed"
                 >
                   <Send size={20} />
                   <span>Anfrage senden</span>
@@ -190,6 +221,9 @@ const CallToAction = () => {
                 <p className="text-xs text-gray-500 text-center">
                   * Pflichtfelder. Ihre Daten werden vertraulich behandelt.
                 </p>
+                {status === 'error' && errorMessage && (
+                  <p className="text-sm text-red-600 text-center mt-2">{errorMessage}</p>
+                )}
               </form>
             )}
           </motion.div>
