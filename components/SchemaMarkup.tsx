@@ -61,7 +61,7 @@ export default function SchemaMarkup() {
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5.0",
-      "reviewCount": "20",
+      "reviewCount": "25",
       "bestRating": "5",
       "worstRating": "1"
     },
@@ -193,11 +193,7 @@ export default function SchemaMarkup() {
         }
       ]
     },
-    "sameAs": [
-      "https://www.myhammer.de/[dein-profil]",
-      "https://www.facebook.com/[dein-profil]",
-      "https://www.instagram.com/[dein-profil]"
-    ],
+    "sameAs": [],
     "founder": {
       "@type": "Person",
       "name": "Batuhan Karadag"

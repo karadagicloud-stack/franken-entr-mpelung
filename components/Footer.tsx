@@ -1,6 +1,6 @@
 'use client'
 
-import { Phone, Mail, MapPin, Facebook, Instagram, MessageCircle } from 'lucide-react'
+import { Phone, Mail, MapPin, MessageCircle } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image'
 
@@ -9,12 +9,12 @@ const Footer = () => {
 
   const footerLinks = {
     services: [
-      { label: 'Haushaltsauflösung', href: '/haushaltsaufloesung-nuernberg' },
-      { label: 'Wohnungsauflösung', href: '/wohnungsaufloesung-nuernberg' },
-      { label: 'Kellerentrümpelung', href: '#leistungen' },
-      { label: 'Büroauflösung', href: '#leistungen' },
-      { label: 'Gewerbeentrümpelung', href: '#leistungen' },
-      { label: 'Nachlassauflösung', href: '#leistungen' },
+      { label: 'Haushaltsauflösung', href: '/haushaltsaufloesung' },
+      { label: 'Wohnungsauflösung', href: '/wohnungsaufloesung' },
+      { label: 'Kellerentrümpelung', href: '/kellerentruempelung' },
+      { label: 'Büroauflösung', href: '/bueroaufloesung' },
+      { label: 'Gewerbeentrümpelung', href: '/gewerbeentruempelung' },
+      { label: 'Nachlassauflösung', href: '/nachlassaufloesung' },
       { label: 'Wertanrechnung & Ankauf', href: '/wertanrechnung' },
     ],
     areas: [
@@ -80,7 +80,7 @@ const Footer = () => {
               </a>
               <div className="flex items-center space-x-3">
                 <MapPin size={18} />
-                <span>Nürnberg, Deutschland</span>
+                <span>Feucht bei Nürnberg</span>
               </div>
             </div>
           </div>
@@ -135,25 +135,18 @@ const Footer = () => {
               ))}
             </ul>
 
-            {/* Social Media */}
+            {/* WhatsApp Kontakt */}
             <div>
-              <h4 className="text-white font-semibold mb-3">Folgen Sie uns</h4>
-              <div className="flex space-x-3">
-                <a
-                  href="#"
-                  className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"
-                  aria-label="Facebook"
-                >
-                  <Facebook size={20} />
-                </a>
-                <a
-                  href="#"
-                  className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"
-                  aria-label="Instagram"
-                >
-                  <Instagram size={20} />
-                </a>
-              </div>
+              <h4 className="text-white font-semibold mb-3">Schnellkontakt</h4>
+              <a
+                href="https://wa.me/491708005653?text=Hallo!%20Ich%20interessiere%20mich%20f%C3%BCr%20eine%20Entr%C3%BCmpelung."
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 bg-[#25D366] rounded-lg flex items-center justify-center hover:bg-[#20BA5A] transition-colors"
+                aria-label="WhatsApp"
+              >
+                <MessageCircle size={20} />
+              </a>
             </div>
           </div>
         </div>
