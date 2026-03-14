@@ -11,7 +11,7 @@ export default function SchemaMarkup() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": "https://www.franken-entrumpelung.de",
-    "name": "Franken-Entrümpelung GbR",
+    "name": "Karadag Faik Ege, Campisano Antonio , Karadag Batuhan GbR",
     "alternateName": "Franken Entrümpelung",
     "description": "Professionelle Entrümpelung im Nürnberger Land: Lauf, Wendelstein, Altdorf, Hersbruck, Schwabach, Zirndorf, Stein, Oberasbach. Auch in Nürnberg, Fürth, Erlangen. Schnell, zuverlässig und fair. Haushaltsauflösung, Wohnungsentrümpelung, Kellerentrümpelung mit Wertanrechnung.",
     "url": "https://www.franken-entrumpelung.de",

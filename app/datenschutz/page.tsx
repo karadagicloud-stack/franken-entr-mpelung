@@ -81,9 +81,9 @@ export default function DatenschutzPage() {
                 </h2>
                 <p className="text-gray-700 leading-relaxed">
                   Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:<br /><br />
-                  <strong>Franken-Entrümpelung GbR</strong><br />
+                  <strong>Karadag Faik Ege, Campisano Antonio , Karadag Batuhan GbR</strong><br />
                   Vertreten durch die Gesellschafter:<br />
-                  Batuhan Karadag, Faik Ege Karadag, Gökhan Karadag, Antonio Campisano<br /><br />
+                  Faik Ege Karadag, Antonio Campisano, Batuhan Karadag<br /><br />
                   Hauptstraße 53<br />
                   90537 Feucht<br /><br />
                   Telefon: <a href="tel:+4917080005653" className="text-primary-600 hover:underline">0170 8005653</a><br />
@@ -348,7 +348,7 @@ export default function DatenschutzPage() {
                   Leistungen in der Datenschutzerklärung umzusetzen.
                 </p>
                 <p className="text-sm text-gray-700 leading-relaxed mt-3">
-                  Quelle: Erstellt mit Unterstützung von e-recht24.de und angepasst für Franken-Entrümpelung GbR.
+                  Quelle: Erstellt mit Unterstützung von e-recht24.de und angepasst für Karadag Faik Ege, Campisano Antonio , Karadag Batuhan GbR.
                 </p>
               </section>
             </div>

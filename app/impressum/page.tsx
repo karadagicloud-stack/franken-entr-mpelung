@@ -31,17 +31,17 @@ export default function ImpressumPage() {
                 </h2>
                 <p className="text-gray-700 leading-relaxed">
                   <strong>Firmenname:</strong><br />
-                  Franken-Entrümpelung GbR<br />
+                  Karadag Faik Ege, Campisano Antonio , Karadag Batuhan GbR<br />
                   <br />
                   <strong>Anschrift:</strong><br />
                   Hauptstraße 53<br />
                   90537 Feucht<br />
                   <br />
                   <strong>Vertreten durch die Gesellschafter:</strong><br />
-                  Batuhan Karadag<br />
                   Faik Ege Karadag<br />
-                  Gökhan Karadag<br />
                   Antonio Campisano
+                  <br />
+                  Batuhan Karadag
                 </p>
               </section>
 
