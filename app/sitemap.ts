@@ -40,7 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/ueber-uns`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
-      priority: 0.7,
+      priority: 0.8,
     },
     {
       url: `${baseUrl}/kontakt`,
@@ -78,8 +78,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // Nur die wichtigsten Standortseiten in die Sitemap aufnehmen,
-  // damit Google die besten Seiten schneller findet und indexiert.
   const dynamicPages: MetadataRoute.Sitemap = []
   const visibleLocations = locations.filter(
     (location) => location.priority === 'high' || location.priority === 'medium'
@@ -125,7 +123,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     ...mainPages,
     ...servicePages,
-    ...dynamicPages, // ALLE 369 Landing Pages!
+    ...dynamicPages,
     ...legalPages,
   ]
 }

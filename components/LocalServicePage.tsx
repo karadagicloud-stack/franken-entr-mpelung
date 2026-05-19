@@ -13,6 +13,45 @@ interface LocalServicePageProps {
 }
 
 export default function LocalServicePage({ location, service }: LocalServicePageProps) {
+  const faqs = [
+    {
+      question: `Was kostet eine ${service.title.toLowerCase()} in ${location.name}?`,
+      answer: `Die Kosten hängen von verschiedenen Faktoren ab, wie z.B. Größe des Objekts und Menge des Materials. Nach einer kostenlosen Besichtigung in ${location.name} erstellen wir Ihnen ein transparentes Festpreis-Angebot.`,
+    },
+    {
+      question: `Wie schnell können Sie in ${location.name} vor Ort sein?`,
+      answer: `Durch unsere Nähe zu ${location.name} können wir oft noch am selben oder nächsten Tag einen Besichtigungstermin anbieten.`,
+    },
+    {
+      question: `Bieten Sie auch Wertanrechnung in ${location.name} an?`,
+      answer: `Ja, wir bieten bei Haushaltsauflösungen Wertanrechnung für verwertbare Gegenstände an. Dies kann die Gesamtkosten erheblich reduzieren.`,
+    },
+    {
+      question: `Welche Stadtteile von ${location.name} bedienen Sie?`,
+      answer: location.neighborhoods
+        ? `Wir sind in allen Stadtteilen von ${location.name} für Sie da, einschließlich ${location.neighborhoods.slice(0, 3).join(', ')} und weiteren Bereichen.`
+        : `Wir bedienen das gesamte Stadtgebiet von ${location.name} und Umgebung.`,
+    },
+    {
+      question: `Wie läuft eine ${service.title.toLowerCase()} in ${location.name} ab?`,
+      answer: `Der Ablauf ist einfach: 1. Sie kontaktieren uns telefonisch oder online. 2. Wir vereinbaren einen kostenlosen Besichtigungstermin in ${location.name}. 3. Sie erhalten ein Festpreis-Angebot. 4. Nach Auftragserteilung führen wir die ${service.title.toLowerCase()} zum vereinbarten Termin durch. 5. Sie erhalten Ihre Räumlichkeiten besenrein zurück.`,
+    },
+    {
+      question: `Entsorgen Sie auch Sondermüll und Elektrogeräte in ${location.name}?`,
+      answer: `Ja, wir entsorgen fachgerecht alle Arten von Haushaltsgegenständen, Möbeln, Elektrogeräten und auch Sondermüll nach den geltenden Vorschriften. Alles wird umweltgerecht recycelt oder entsorgt.`,
+    },
+    ...(location.population && parseInt(location.population.replace(/\./g, '')) > 50000 ? [
+      {
+        question: `Arbeiten Sie auch am Wochenende in ${location.name}?`,
+        answer: `Ja, nach Absprache bieten wir auch Wochenendtermine an. Kontaktieren Sie uns einfach und wir finden einen passenden Termin für Ihre ${service.title.toLowerCase()} in ${location.name}.`,
+      },
+      {
+        question: `Benötige ich eine Halteverbotszone in ${location.name}?`,
+        answer: `In den meisten Fällen nicht, da wir flexibel parken können. Bei sehr engen Straßen oder großen Projekten können wir die Halteverbotszone für Sie beantragen.`,
+      },
+    ] : []),
+  ]
+
   // Generate location-specific schema
   const localBusinessSchema = {
     '@context': 'https://schema.org',
@@ -57,6 +96,19 @@ export default function LocalServicePage({ location, service }: LocalServicePage
     ],
   }
 
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  }
+
   return (
     <>
       {/* Schema Markup */}
@@ -67,6 +119,10 @@ export default function LocalServicePage({ location, service }: LocalServicePage
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       <Navigation />
@@ -216,6 +272,26 @@ export default function LocalServicePage({ location, service }: LocalServicePage
           </div>
         </section>
 
+        {/* Trust Signals */}
+        <section className="py-10 bg-blue-600">
+          <div className="container-custom">
+            <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 text-white text-center">
+              {[
+                { value: '4.9 ★', label: 'Google-Bewertung', sub: '25 Rezensionen' },
+                { value: '500+', label: 'Zufriedene Kunden', sub: 'Seit 2009' },
+                { value: '0 €', label: 'Besichtigung', sub: 'Kostenlos & unverbindlich' },
+                { value: '15+', label: 'Jahre Erfahrung', sub: 'Professionelles Team' },
+              ].map(({ value, label, sub }) => (
+                <div key={label}>
+                  <div className="text-3xl font-bold mb-1">{value}</div>
+                  <div className="font-semibold text-blue-100">{label}</div>
+                  <div className="text-xs text-blue-200 mt-1">{sub}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
         {/* Service Description */}
         <section className="section bg-gray-50">
           <div className="container-custom">
@@ -294,6 +370,49 @@ export default function LocalServicePage({ location, service }: LocalServicePage
                   </div>
                 )}
 
+                {/* Preisbeispiele */}
+                <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6">
+                  <h3 className="text-xl font-bold text-gray-900 mb-4">
+                    Typische Preisbeispiele in {location.name}
+                  </h3>
+                  <div className="grid sm:grid-cols-2 gap-3">
+                    {[
+                      { label: '1-Zimmer Wohnung (bis 40 m²)', price: 'ab 400 €' },
+                      { label: '2-Zimmer Wohnung (40–65 m²)', price: 'ab 700 €' },
+                      { label: '3-Zimmer Wohnung (65–85 m²)', price: 'ab 1.000 €' },
+                      { label: 'Keller / Dachboden', price: 'ab 250 €' },
+                      { label: 'Komplette Haushaltsauflösung', price: 'auf Anfrage' },
+                      { label: 'Büro- / Gewerberäumung', price: 'auf Anfrage' },
+                    ].map(({ label, price }) => (
+                      <div key={label} className="flex justify-between items-center py-2 border-b border-gray-100 last:border-0">
+                        <span className="text-sm text-gray-700">{label}</span>
+                        <span className="text-sm font-semibold text-blue-600 whitespace-nowrap ml-4">{price}</span>
+                      </div>
+                    ))}
+                  </div>
+                  <p className="text-xs text-gray-500 mt-3">
+                    Endpreise nach kostenloser Besichtigung. Wertanrechnung kann die Kosten reduzieren.
+                  </p>
+                </div>
+
+                {location.postalCodes && location.postalCodes.length > 0 && (
+                  <div className="bg-gray-50 rounded-2xl p-6 mb-6">
+                    <h3 className="font-bold text-gray-900 mb-3">
+                      Wir sind in folgenden PLZ-Bereichen in {location.name} tätig:
+                    </h3>
+                    <div className="flex flex-wrap gap-2">
+                      {location.postalCodes.map((plz) => (
+                        <span
+                          key={plz}
+                          className="inline-block bg-white border border-gray-200 px-3 py-1 rounded-lg text-sm font-medium text-gray-700"
+                        >
+                          {plz}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 mt-8">
                   Unser Service umfasst:
                 </h3>
@@ -352,44 +471,7 @@ export default function LocalServicePage({ location, service }: LocalServicePage
               </h2>
 
               <div className="space-y-6">
-                {[
-                  {
-                    question: `Was kostet eine ${service.title.toLowerCase()} in ${location.name}?`,
-                    answer: `Die Kosten hängen von verschiedenen Faktoren ab, wie z.B. Größe des Objekts und Menge des Materials. Nach einer kostenlosen Besichtigung in ${location.name} erstellen wir Ihnen ein transparentes Festpreis-Angebot.`,
-                  },
-                  {
-                    question: `Wie schnell können Sie in ${location.name} vor Ort sein?`,
-                    answer: `Durch unsere Nähe zu ${location.name} (${location.distance} Entfernung) können wir oft noch am selben oder nächsten Tag einen Besichtigungstermin anbieten.`,
-                  },
-                  {
-                    question: `Bieten Sie auch Wertanrechnung in ${location.name} an?`,
-                    answer: `Ja, wir bieten bei Haushaltsauflösungen Wertanrechnung für verwertbare Gegenstände an. Dies kann die Gesamtkosten erheblich reduzieren.`,
-                  },
-                  {
-                    question: `Welche Stadtteile von ${location.name} bedienen Sie?`,
-                    answer: location.neighborhoods 
-                      ? `Wir sind in allen Stadtteilen von ${location.name} für Sie da, einschließlich ${location.neighborhoods.slice(0, 3).join(', ')} und weiteren Bereichen.`
-                      : `Wir bedienen das gesamte Stadtgebiet von ${location.name} und Umgebung.`,
-                  },
-                  {
-                    question: `Wie läuft eine ${service.title.toLowerCase()} in ${location.name} ab?`,
-                    answer: `Der Ablauf ist einfach: 1. Sie kontaktieren uns telefonisch oder online. 2. Wir vereinbaren einen kostenlosen Besichtigungstermin in ${location.name}. 3. Sie erhalten ein Festpreis-Angebot. 4. Nach Auftragserteilung führen wir die ${service.title.toLowerCase()} zum vereinbarten Termin durch. 5. Sie erhalten Ihre Räumlichkeiten besenrein zurück.`,
-                  },
-                  {
-                    question: `Entsorgen Sie auch Sondermüll und Elektrogeräte in ${location.name}?`,
-                    answer: `Ja, wir entsorgen fachgerecht alle Arten von Haushaltsgegenständen, Möbeln, Elektrogeräten und auch Sondermüll nach den geltenden Vorschriften. Alles wird umweltgerecht recycelt oder entsorgt.`,
-                  },
-                  ...(location.population && parseInt(location.population.replace(/\./g, '')) > 50000 ? [
-                    {
-                      question: `Arbeiten Sie auch am Wochenende in ${location.name}?`,
-                      answer: `Ja, nach Absprache bieten wir auch Wochenendtermine an. Kontaktieren Sie uns einfach und wir finden einen passenden Termin für Ihre ${service.title.toLowerCase()} in ${location.name}.`,
-                    },
-                    {
-                      question: `Benötige ich eine Halteverbotszone in ${location.name}?`,
-                      answer: `In den meisten Fällen nicht, da wir flexibel parken können. Bei sehr engen Straßen oder großen Projekten können wir die Halteverbotszone für Sie beantragen.`,
-                    },
-                  ] : []),
-                ].map((faq, index) => (
+                {faqs.map((faq, index) => (
                   <div key={index} className="card">
                     <h3 className="font-bold text-gray-900 mb-3 text-lg">{faq.question}</h3>
                     <p className="text-gray-700 leading-relaxed">{faq.answer}</p>

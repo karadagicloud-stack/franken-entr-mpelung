@@ -15,19 +15,20 @@ function parseSlug(slug: string): { service: string; location: string } | null {
   return null
 }
 
-// Generate static params for all location/service combinations
+// Generate static params only for high and medium priority locations.
+// Low-priority locations have near-identical thin content which hurts domain authority.
 export async function generateStaticParams() {
   const params = []
-  
-  // Generate params for all combinations
+
   for (const location of locations) {
+    if (location.priority === 'low') continue
     for (const service of serviceTypes) {
       params.push({
         slug: `${service.slug}-${location.slug}`,
       })
     }
   }
-  
+
   return params
 }
 
@@ -53,6 +54,7 @@ export async function generateMetadata({
 
   const title = `${service.title} in ${location.name} | Professionell, schnell & fair`
   const description = `${service.description} in ${location.name}. Ihre regionale Adresse für ${service.title.toLowerCase()} im Nürnberger Land mit schneller Anfahrt und fairen Festpreisen.`
+  const isLowPriority = location.priority === 'low'
 
   return {
     title,
@@ -65,6 +67,9 @@ export async function generateMetadata({
       `${service.slug} ${location.name} Preis`,
       `${service.title} ${location.name}`,
     ],
+    robots: isLowPriority
+      ? { index: false, follow: false }
+      : { index: true, follow: true },
     openGraph: {
       title,
       description,
