@@ -11,8 +11,24 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Alte WordPress-/Legacy-URLs (Backlinks) → aktuelle Next.js-Routen
+      {
+        source: '/unsere-leistungen/keller-entrumpelung',
+        destination: '/kellerentruempelung',
+        permanent: true,
+      },
+      {
+        source: '/unsere-leistungen/keller-entrumpelung/',
+        destination: '/kellerentruempelung',
+        permanent: true,
+      },
       {
         source: '/unsere-leistungen/haushalts-auflosungen',
+        destination: '/haushaltsaufloesung',
+        permanent: true,
+      },
+      {
+        source: '/unsere-leistungen/haushalts-auflosungen/',
         destination: '/haushaltsaufloesung',
         permanent: true,
       },
@@ -22,7 +38,17 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/uber-uns/',
+        destination: '/',
+        permanent: true,
+      },
+      {
         source: '/garage-entruempeln',
+        destination: '/kellerentruempelung',
+        permanent: true,
+      },
+      {
+        source: '/garage-entruempeln/',
         destination: '/kellerentruempelung',
         permanent: true,
       },
@@ -32,12 +58,27 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/feed/',
+        destination: '/',
+        permanent: true,
+      },
+      {
         source: '/unsere-leistungen/zwangsraumungen-und-entrumpelungen',
         destination: '/leistungen',
         permanent: true,
       },
       {
+        source: '/unsere-leistungen/zwangsraumungen-und-entrumpelungen/',
+        destination: '/leistungen',
+        permanent: true,
+      },
+      {
         source: '/unsere-leistungen',
+        destination: '/leistungen',
+        permanent: true,
+      },
+      {
+        source: '/unsere-leistungen/',
         destination: '/leistungen',
         permanent: true,
       },
