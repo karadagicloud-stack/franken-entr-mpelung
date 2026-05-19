@@ -162,8 +162,16 @@ Framer Motion wird verwendet für:
 
 ### Vercel (Empfohlen)
 ```bash
-vercel deploy
+npm run deploy
 ```
+
+### Vercel mit GitHub Actions
+1. Erstelle einen Vercel Account und verknüpfe das GitHub-Repository.
+2. Füge folgende Secrets in GitHub hinzu:
+   - `VERCEL_TOKEN`
+   - `VERCEL_ORG_ID`
+   - `VERCEL_PROJECT_ID`
+3. Starte die manuelle Deployment-Action in GitHub oder pushe auf `main`.
 
 ### Andere Hosting-Anbieter
 ```bash

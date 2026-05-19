@@ -51,8 +51,8 @@ export async function generateMetadata({
     }
   }
 
-  const title = `${service.title} ${location.name} | Professionell & Günstig`
-  const description = `${service.title} in ${location.name} ✓ Schnell ✓ Zuverlässig ✓ Faire Preise. ${location.distance} von Nürnberg entfernt. Jetzt kostenlose Beratung anfordern!`
+  const title = `${service.title} in ${location.name} | Professionell, schnell & fair`
+  const description = `${service.description} in ${location.name}. Ihre regionale Adresse für ${service.title.toLowerCase()} im Nürnberger Land mit schneller Anfahrt und fairen Festpreisen.`
 
   return {
     title,
@@ -63,6 +63,7 @@ export async function generateMetadata({
       `${service.title} ${location.name}`,
       `${service.slug} ${location.name} günstig`,
       `${service.slug} ${location.name} Preis`,
+      `${service.title} ${location.name}`,
     ],
     openGraph: {
       title,

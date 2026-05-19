@@ -78,22 +78,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // ALLE dynamischen Landing Pages generieren!
-  // Für jede Location × jeden Service-Typ = 123 × 3 = 369 Seiten!
+  // Nur die wichtigsten Standortseiten in die Sitemap aufnehmen,
+  // damit Google die besten Seiten schneller findet und indexiert.
   const dynamicPages: MetadataRoute.Sitemap = []
-  
-  locations.forEach((location) => {
+  const visibleLocations = locations.filter(
+    (location) => location.priority === 'high' || location.priority === 'medium'
+  )
+
+  visibleLocations.forEach((location) => {
     serviceTypes.forEach((service) => {
-      // Priorität basierend auf Location-Priorität
       let priority = 0.8
       if (location.priority === 'high') priority = 0.9
       if (location.priority === 'medium') priority = 0.85
-      
+
       dynamicPages.push({
         url: `${baseUrl}/${service.slug}-${location.slug}`,
         lastModified: new Date(),
         changeFrequency: location.priority === 'high' ? 'weekly' : 'monthly' as const,
-        priority: priority,
+        priority,
       })
     })
   })
