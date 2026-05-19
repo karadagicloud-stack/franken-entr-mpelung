@@ -15,7 +15,7 @@ const ServiceAreas = () => {
   const mediumPriorityLocations = locations.filter((location) => location.priority === 'medium')
   const mainAreas = highPriorityLocations.slice(0, 8)
   const otherAreas = mediumPriorityLocations.slice(0, 16)
-  const totalLocations = locations.length
+  const activeLocations = highPriorityLocations.length + mediumPriorityLocations.length
   const displayedLocations = mainAreas.length + otherAreas.length
 
   return (
@@ -74,7 +74,7 @@ const ServiceAreas = () => {
           <div className="flex items-center justify-between mb-6">
             <h3 className="text-2xl font-bold text-gray-900">Weitere wichtige Servicegebiete:</h3>
             <div className="bg-primary-100 text-primary-700 px-4 py-2 rounded-full text-sm font-bold">
-              {totalLocations - displayedLocations}+ weitere Orte
+              {activeLocations - displayedLocations}+ weitere Orte
             </div>
           </div>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -106,7 +106,7 @@ const ServiceAreas = () => {
                 <strong className="text-gray-900">Auch verfügbar in:</strong> Nürnberg, Fürth, Erlangen & Umgebung
               </div>
               <div>
-                <strong className="text-gray-900">Abgedeckte Orte:</strong> {totalLocations}+ Städte und Gemeinden
+                <strong className="text-gray-900">Abgedeckte Orte:</strong> {activeLocations}+ Städte und Gemeinden
               </div>
               <div className="text-sm text-gray-600 pt-2 border-t border-primary-100">
                 Landkreise: Nürnberger Land, Fürth, Roth, Erlangen-Höchstadt

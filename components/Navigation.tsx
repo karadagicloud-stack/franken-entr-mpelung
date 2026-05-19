@@ -21,10 +21,10 @@ const Navigation = () => {
   const menuItems = [
     { label: 'Startseite', href: '/' },
     { label: 'Leistungen', href: '/leistungen' },
-    { label: 'Ablauf', href: '/ablauf' },
     { label: 'Gebiete', href: '/gebiete' },
-    { label: 'FAQ', href: '/faq' },
     { label: 'Bewertungen', href: '/bewertungen' },
+    { label: 'Über uns', href: '/ueber-uns' },
+    { label: 'FAQ', href: '/faq' },
     { label: 'Kontakt', href: '/kontakt' },
   ]
 
